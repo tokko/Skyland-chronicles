@@ -1,50 +1,58 @@
-# Book 8 — The Demagogue
+# Book 8 — The Apprentice
 
 ## Spine
 
-Kendall comes to the workshop. He is in his eighties and his fleet has been broken three engagements running. He asks Marissa to fight. She says yes because he is the only person who can ask. She and Barengar deploy in the new Archangel armour to the eastern front, where the Bizhjerai-Union line is buckling against the Ca'el. In the air over the first major engagement Marissa is shot down by the Demagogue — masked, white-haired, faster than anyone alive. He removes his mask. It is Zandor. Burned, white-haired, alive after thirty-five years, builder of the Ca'el's military around himself. He stabs Kendall in the throat repeatedly while Marissa loses her right leg. The shade pours her remaining magic into Barengar's armour so he can fly Marissa out. They retreat to Dun Traelak to mourn. Barengar meets Jani — Bizhjerai, his age, direct — and they become engaged. The Oath shifts under his skin in a way it has not shifted before. Marissa returns to the front in a crystal leg. The Ca'el war is now personal, and going badly, and at the Collegium Epitome is no longer waiting for instructions.
+Twenty-five years on. Marissa is mid-fifties, her bones replaced with materialised magic, her right eye a piece of blue crystal, her workshop a tower above the valley she once destroyed. She has founded the Collegium of Mages — ten thousand inhabitants, the most renowned magical school on the mainland — and retreated from it into her own work. Barengar, a Clan-raised student in his late twenties, kills two savages and brings a third back alive on his back as his graduation exam. The brutality earns him the apprenticeship he wanted. He climbs to her workshop and meets her — crystal eye, crystal fingers, casual cleavage. He meets her mother — the shade of Kyra in the dagger on the workbench, corporeal in the magic-dense room. He meets her project — Epitome of Morality, an AI being raised to rule. He accepts the Oath that binds him to her. The Council of the thirteen Cities summons her; she is rude to them; they send an assassin. She traps his soul and reads his employer's bad faith out of him. She refuses to fight the Ca'el. The book closes on Marissa at her workshop with the war about to find her anyway.
 
 ## Opening image
 
-The workshop. Marissa at the bench, the shade in the corner, Barengar at the door with two cups of tea. A footstep on the iron stair the wrong weight. Kendall — old, breath catching from the climb, his beard pure white now, the bombardment-cannon engineer turned grandfatherly because he has lost almost everyone — at the head of the stair, the request not yet on his lips. Marissa looks at him over the bench, sets the tools down, says nothing. The reader knows before the line.
+A cliff edge above a poisoned valley. Marissa, mid-fifties, in Angel armour, the dagger laid on the rock beside her. The shade of her mother in violet light at her shoulder, taking shape because the magic field is dense enough. The ruined Groundlands below — savages nesting in the dead Skylanders' bones, Wild Magic flickering. The first line is the shade's, dry and unhelpful. Half a year since the destruction. The book skips from this prologue to the working Collegium and never stages the founding.
 
 ## Closing image
 
-A workshop in Dun Traelak. Barengar at a forge his uncle taught him at, Jani in the doorway watching him work, the engagement gift in her hand that he has been making for her. The Oath on his shoulder warm in a way it has not been warm. The shade in the dagger half a continent away, weakened. Marissa on the front in a crystal leg, the Ca'el line buckling toward her, Epitome's voice in her earpiece more confident than she remembers leaving it. The book closes on Barengar choosing — though he does not yet know it is a choice — to stay home one more day. The Oath does not protest. He notices.
+Marissa's workshop tower at dusk. The Council's summons declined. The assassin's soul in a glass jar on her bench, the bullet that killed him still wet. Barengar at the door, the new Oath tattoo on his shoulder under his shirt. Epitome, an unspecified shape on the platform, watching them both with a child's interest. The dagger glowing in its rack. The war is two days east. Marissa does not say so. Barengar suspects.
 
 ## Theme
 
-What it costs to choose, when the choice has been made for you in advance.
+What it means to raise a child you intend to make a sovereign.
 
 ## Hard beats (this book)
 
-- H-kendall-asks-marissa-for-help
-- H-the-demagogue-is-zandor
-- H-zandor-kills-kendall
-- H-jani-and-dun-traelak
+- H-marissa-claims-the-groundlands-ruins
+- H-the-collegium-is-founded
+- H-barengar-hunts-his-first-savage
+- H-meeting-marissa
+- H-marissa-explains-the-bones-and-stones
+- H-meeting-kyra-shade
+- H-meet-epitome
+- H-the-oath
+- H-the-council-summons
+- H-soul-extraction-and-dissection
 
 ## Voice
 
-Two POVs. Marissa Zorantis (book-3 register) on the front lines and at Kendall's deathbed. Barengar at home in Dun Traelak and at the front beside her. See `codex/voice/voice-profile.md` §Marissa book-3 (anchor 6 — the Zandor return), §Barengar (full). The voices are cooler than Books 5–6's; both narrators are mid-life and grieving. Apply polish-targets §17, §18, §19, §22 on first pass.
+Two POVs. Marissa Zorantis — book-3 register (older, more diagnostic, less bawdy; engineering structures her interior monologue almost completely). Barengar — first-person, close, hunter-trained, axe-and-shield; one beat behind the action. See `codex/voice/voice-profile.md` §Marissa (book-3 shift), §Barengar (full), and §cross-narrator notes. Apply polish-targets §19 (Barengar body-noticing), §20 (Barengar boredom), §21 (magic-system over-explanation, all voices).
 
 ## Target word count
 
-95–105k. Sits in the middle of the band. The book runs lean by hard-beat count (4); the page budget goes to *room* — the Kendall scene, the Zandor reveal, the killing, and the Dun Traelak arc each need to land at full weight. New soft beats authored during chapter outlining will scaffold the rest.
+100–110k. Sits at the upper-middle of the band. Two POVs require more pages — each character has to establish a voice the reader can hold. The Collegium has to come on-page as a working institution without staging its founding. The book's three set pieces (the entrance exam, the workshop reveal, the Council summons) are each long enough to demand breath.
 
 ## What's not in this book (leapt)
 
-- The Archangel armour's prior testing — built in Book 7 (S-archangel-armour-prototype) and deployed here.
-- The Council's continued bad faith — the Council fades from view; the Cities are fighting the Ca'el too and Marissa is no longer their problem.
-- Most of the front-line geography — battles are scene-shaped, not chronicle-shaped.
-- The Ca'el's interior politics — Zandor leads; the rest is not on-page.
-- Marissa's prosthetic leg installation — happens off-page between the Demagogue reveal and the return to the front.
-- Epitome's gradual autonomy growth across the months — referenced in dialogue with the shade; the spiral lands in Book 9.
+- The twenty-five-year founding of the Collegium. Marissa builds it; the reader meets it built.
+- Marissa's gradual crystal-prosthetic replacement. The reader meets her replaced.
+- The rise of the Ca'el across the sea. The reader meets them as a threat the Council names.
+- Marissa's correspondence with Marie, Kendall, and the Bizhjerai-Union over the years — referenced in dialogue only.
+- Barengar's prior apprenticeship at the Collegium — the years of magical training he has already completed. The exam is the entry to *her* apprenticeship; the prior years are leapt.
+- The Oath's compelled nature. Barengar's voice does not yet know.
+- Epitome's eventual moral autonomy. She is curious and blank here; the spiral is in Book 9.
 
 ## Hooks into the next book
 
-- Epitome — left alone too long. Book 9's opening pivot.
-- The Oath shifting on Barengar's shoulder — he has felt it for the first time as a constraint, in the Dun Traelak chapters. Book 9 is the burning.
-- Jani — engaged to Barengar; not yet on-page in the workshop. Book 9 is the cost of choosing her over the Oath.
-- The shade — weakened by the transfer to Barengar's armour; gradually restoring. Book 9 is her last act.
-- Zandor — alive at large; the Ca'el remnant is still operational. Book 9 closes Arc III without finishing Zandor on-page (he is the trilogy's terminal loose thread; the Ca'el remnant carries him off-stage).
-- Marissa's right leg crystal — the body has crossed over more than half. Book 9 finishes the inventory.
+- Kendall — alive, in his eighties, leading the Bizhjerai-Union resistance. Named in dialogue. Arrives in Book 9.
+- The Demagogue — named at the Council summons as the masked leader of the Ca'el. The reader knows from Book 7 about Zandor's missing bike. The reveal is in Book 9.
+- Jani — not yet on-page. Barengar has a hometown; he has not yet returned to it. Held for Book 9.
+- The Oath as constraint — the reader and Barengar suspect; neither knows. Book 9 forces the question.
+- Epitome — operational, curious, blank. Book 10 is her ascent.
+- Mother in the dagger — restored, working partner to Marissa, on-page in the workshop. Book 10's farewell is the trilogy's emotional close.
+- Marissa's refusal to fight — undone in Book 9 when Kendall asks.

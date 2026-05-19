@@ -17,7 +17,7 @@ Each entry: `[type] slug — short tag — status — file path`.
 ## Last updated
 
 - Last scene committed: _(none yet — no scenes drafted)_
-- Last codex sweep: 2026-05-19 — full-corpus ingest complete (books 1, 2, 3); cleanup-sweep applied (Niklas→Greg correction; Red-Terror→Anjali correction; Brengar/Barengar disambiguation verified)
+- Last codex sweep: 2026-05-19 — 10-book restructure applied (Arc II grew from 3 to 4 books; old Book 6 split into new Book 6 *The Sacrifice* and new Book 7 *Genocide*; old Books 7/8/9 renumbered to 8/9/10; H-mother-shade-farewell mechanic locked as Kyra's deliberate moral-vote sacrifice into the Epitome; Raynard execution pinned as Book 1 close)
 
 ---
 
@@ -159,19 +159,20 @@ Each entry: `[type] slug — short tag — status — file path`.
 
 ## Books and chapters (kanban summary)
 
-The target series is **9 books in 3 internal arcs of 3 each**. Arc I covers source-book-1 (Kyra POV); Arc II covers source-book-2 (Marissa POV); Arc III covers source-book-3 (Marissa + Barengar POV). Time gaps between source books are leapt — referenced via flashback or dialogue, not dramatised on-page.
+The target series is **10 books in 3 internal arcs (3 + 4 + 3)**. Arc I covers source-book-1 (Kyra POV); Arc II covers source-book-2 (Marissa POV); Arc III covers source-book-3 (Marissa + Barengar POV). Arc II grew from 3 books to 4 to accommodate the climactic density of source-book-2 ch.21–28 (the original 16-beat Book 6 split into *The Sacrifice* and *Genocide*). Time gaps between source books are leapt — referenced via flashback or dialogue, not dramatised on-page.
 
-| Book | Arc | Source chapters | Scenes pending | Scenes in-progress | Scenes done |
-| ---- | --- | --------------- | -------------- | ------------------ | ----------- |
-| 1 | I (Kyra) | source-book-1 chs.1–17 | 0 | 0 | 0 |
-| 2 | I (Kyra) | source-book-1 chs.18–40 | 0 | 0 | 0 |
-| 3 | I (Kyra) | source-book-1 chs.41–53 | 0 | 0 | 0 |
-| 4 | II (Marissa) | source-book-2 chs.1–9 | 0 | 0 | 0 |
-| 5 | II (Marissa) | source-book-2 chs.10–20 | 0 | 0 | 0 |
-| 6 | II (Marissa) | source-book-2 chs.21–28 | 0 | 0 | 0 |
-| 7 | III (Marissa + Barengar) | source-book-3 chs.1–7 | 0 | 0 | 0 |
-| 8 | III (Marissa + Barengar) | source-book-3 chs.8–14 | 0 | 0 | 0 |
-| 9 | III (Marissa + Barengar) | source-book-3 chs.15–20 | 0 | 0 | 0 |
+| Book | Arc | Working title | Source chapters | Scenes pending | Scenes in-progress | Scenes done |
+| ---- | --- | ------------- | --------------- | -------------- | ------------------ | ----------- |
+| 1 | I (Kyra) | *Stardust* | source-book-1 chs.1–17 | 0 | 0 | 0 |
+| 2 | I (Kyra) | _(tbd)_ | source-book-1 chs.18–40 | 0 | 0 | 0 |
+| 3 | I (Kyra) | _(tbd)_ | source-book-1 chs.41–53 | 0 | 0 | 0 |
+| 4 | II (Marissa) | _(tbd)_ | source-book-2 chs.1–9 | 0 | 0 | 0 |
+| 5 | II (Marissa) | _(tbd)_ | source-book-2 chs.10–20 | 0 | 0 | 0 |
+| 6 | II (Marissa) | *The Sacrifice* | source-book-2 chs.21–24 | 0 | 0 | 0 |
+| 7 | II (Marissa) | *Genocide* | source-book-2 chs.25–28 | 0 | 0 | 0 |
+| 8 | III (Marissa + Barengar) | *The Apprentice* | source-book-3 chs.1–7 | 0 | 0 | 0 |
+| 9 | III (Marissa + Barengar) | *The Demagogue* | source-book-3 chs.8–14 | 0 | 0 | 0 |
+| 10 | III (Marissa + Barengar + Epitome) | *Epitome* | source-book-3 chs.15–20 | 0 | 0 | 0 |
 
 ## Open continuity questions
 

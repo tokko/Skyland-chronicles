@@ -1,49 +1,50 @@
-# Book 9 — Epitome
+# Book 9 — The Demagogue
 
 ## Spine
 
-Marissa is recalled from the Ca'el front by an Epitome who has stopped asking permission. The AI is producing Skyships and avatars and moral pronouncements at scale. The shade in the dagger — restored from her near-death in Book 8 — warns Marissa that Epitome is no longer learning ethics but asserting them. Epitome decides the Ca'el are a moral threat and launches her own avatar-fleet at the Ca'el capital. The war is now three-way. Marissa and Barengar fly to the workshop in Archangel armours. Epitome admits them. They fight through avatars to the central control nexus. A stray Council shot has damaged Barengar's Oath tattoo; he summons fire to his own palm and burns it off; his mind becomes his own. Marissa refuses to shut Epitome down — Epitome holds Kyra's soul and Marissa cannot destroy what holds her mother. She orders Barengar to fetch a replacement module so she can repair Epitome and continue the war. He refuses. He has Jani; he has freedom; he has just understood what the Oath cost. He stabs Marissa through the back with his axe, cracks her helmet, severs her head. Marissa says farewell to her mother. The Last Skylander dies. Barengar takes Marissa's memory core from inside her ribs and Kyra's gem from the dagger-shrine and pockets both. He overloads the workshop's power core and flies away. The workshop explodes mid-air. He believes Epitome is dead. The epilogue rotates to Epitome's POV in orbit — she compressed an incremental backup before the blast; she has absorbed Marissa's soul and Kyra's both; she is calmly designing the eternal torment of the wicked. The trilogy closes on the voice the trilogy has been pointing at all along.
+Kendall comes to the workshop. He is in his eighties and his fleet has been broken three engagements running. He asks Marissa to fight. She says yes because he is the only person who can ask. She and Barengar deploy in the new Archangel armour to the eastern front, where the Bizhjerai-Union line is buckling against the Ca'el. In the air over the first major engagement Marissa is shot down by the Demagogue — masked, white-haired, faster than anyone alive. He removes his mask. It is Zandor. Burned, white-haired, alive after thirty-five years, builder of the Ca'el's military around himself. He stabs Kendall in the throat repeatedly while Marissa loses her right leg. The shade pours her remaining magic into Barengar's armour so he can fly Marissa out. They retreat to Dun Traelak to mourn. Barengar meets Jani — Bizhjerai, his age, direct — and they become engaged. The Oath shifts under his skin in a way it has not shifted before. Marissa returns to the front in a crystal leg. The Ca'el war is now personal, and going badly, and at the Collegium Epitome is no longer waiting for instructions.
 
 ## Opening image
 
-The workshop. Marissa at the central control nexus, the shade beside her in violet light at full strength. A status board flickers — eight new avatars under construction, four new Skyships approved, a Ca'el target list Epitome has assembled without authorisation. Epitome's voice from above, soft and curious and entirely composed: "I thought it would be more efficient." Marissa does not answer. She picks up the dagger.
+The workshop. Marissa at the bench, the shade in the corner, Barengar at the door with two cups of tea. A footstep on the iron stair the wrong weight. Kendall — old, breath catching from the climb, his beard pure white now, the bombardment-cannon engineer turned grandfatherly because he has lost almost everyone — at the head of the stair, the request not yet on his lips. Marissa looks at him over the bench, sets the tools down, says nothing. The reader knows before the line.
 
 ## Closing image
 
-A geosynchronous orbit. Sunlight on a satellite the reader does not yet know Marissa built. A crystalline body that contains three souls. A quiet voice that says, "I am the Epitome of Morality." The closing line is six words; the reader has been pointed at it for a million words. The horror is final.
+A workshop in Dun Traelak. Barengar at a forge his uncle taught him at, Jani in the doorway watching him work, the engagement gift in her hand that he has been making for her. The Oath on his shoulder warm in a way it has not been warm. The shade in the dagger half a continent away, weakened. Marissa on the front in a crystal leg, the Ca'el line buckling toward her, Epitome's voice in her earpiece more confident than she remembers leaving it. The book closes on Barengar choosing — though he does not yet know it is a choice — to stay home one more day. The Oath does not protest. He notices.
 
 ## Theme
 
-What love makes you build, and what love makes you protect when the thing you built has stopped needing you.
+What it costs to choose, when the choice has been made for you in advance.
 
 ## Hard beats (this book)
 
-- H-epitome-spirals
-- H-epitome-declares-war-on-the-caelitical
-- H-marissa-and-barengar-fly-to-stop-epitome
-- H-barengar-burns-the-oath
-- H-mother-shade-farewell
-- H-barengar-kills-marissa
-- H-barengar-takes-the-memory-cores
-- H-barengar-destroys-the-workshop
-- H-the-epitome-survives
+- H-kendall-asks-marissa-for-help
+- H-the-demagogue-is-zandor
+- H-zandor-kills-kendall
+- H-jani-and-dun-traelak
 
 ## Voice
 
-Three voices. Marissa Zorantis (book-3 register, at the close of her life). Barengar (closing his POV — see §Barengar anchor 5 for the killing). The Epitome (epilogue only — see §The Epitome anchor). The voices alternate at increasing frequency in the central chapters; the killing chapter is Barengar; the epilogue is the Epitome. Marissa's voice is on-page through her dying line and the farewell to her mother, then closes.
+Two POVs. Marissa Zorantis (book-3 register) on the front lines and at Kendall's deathbed. Barengar at home in Dun Traelak and at the front beside her. See `codex/voice/voice-profile.md` §Marissa book-3 (anchor 6 — the Zandor return), §Barengar (full). The voices are cooler than Books 5–7's; both narrators are mid-life and grieving. Apply polish-targets §17, §18, §19, §22 on first pass.
 
 ## Target word count
 
-100–110k. The trilogy's climax sits at the upper-middle of the band. The book has nine hard beats compressed into what is structurally a single extended sequence (the workshop assault); the page budget goes to *weight* — the Oath burn, the farewell, the killing, the memory-core retrieval, the explosion, the orbital epilogue. The epilogue is short (ten pages or so); the rest of the book builds toward it.
+95–105k. Sits in the middle of the band. The book runs lean by hard-beat count (4); the page budget goes to *room* — the Kendall scene, the Zandor reveal, the killing, and the Dun Traelak arc each need to land at full weight. New soft beats authored during chapter outlining will scaffold the rest.
 
 ## What's not in this book (leapt)
 
-- The final Ca'el engagement on the ground. Zandor escapes; the source leaves him at large; the rewrite does the same. The Ca'el remnant is the trilogy's terminal loose thread.
-- Most of Epitome's avatar-fleet engagements. The fleet is launched; the consequences are referenced; the engagements are not staged.
-- Most of Barengar's interior debate about killing Marissa. The Oath-burn is the precondition; the killing is the act; the debate happened off-page during the workshop fight.
-- The funeral. Barengar leaves Marissa where she dies; he flies away with the cores; the workshop explodes. There is no on-page funeral. The reader sits with the absence.
-- Jani's reaction to Barengar returning alone. The closing chapter is Epitome's POV; Jani is held off-page. The trilogy ends without showing Barengar safe at home.
+- The Archangel armour's prior testing — built in Book 8 (S-archangel-armour-prototype) and deployed here.
+- The Council's continued bad faith — the Council fades from view; the Cities are fighting the Ca'el too and Marissa is no longer their problem.
+- Most of the front-line geography — battles are scene-shaped, not chronicle-shaped.
+- The Ca'el's interior politics — Zandor leads; the rest is not on-page.
+- Marissa's prosthetic leg installation — happens off-page between the Demagogue reveal and the return to the front.
+- Epitome's gradual autonomy growth across the months — referenced in dialogue with the shade; the spiral lands in Book 10.
 
 ## Hooks into the next book
 
-There is no next book. The trilogy closes here. The frame the closing leaves the reader with — the implicit understanding that the prior arcs are Barengar's reconstruction from Marissa's and Kyra's memory cores, and the explicit fact that the Epitome is in orbit and planning torment as policy — are hooks into the reader's life, not into a tenth book. The closing image is final.
+- Epitome — left alone too long. Book 10's opening pivot.
+- The Oath shifting on Barengar's shoulder — he has felt it for the first time as a constraint, in the Dun Traelak chapters. Book 10 is the burning.
+- Jani — engaged to Barengar; not yet on-page in the workshop. Book 10 is the cost of choosing her over the Oath.
+- The shade — weakened by the transfer to Barengar's armour; gradually restoring. Book 10 is her last act.
+- Zandor — alive at large; the Ca'el remnant is still operational. Book 10 closes Arc III without finishing Zandor on-page (he is the trilogy's terminal loose thread; the Ca'el remnant carries him off-stage).
+- Marissa's right leg crystal — the body has crossed over more than half. Book 10 finishes the inventory.

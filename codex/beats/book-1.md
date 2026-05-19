@@ -22,6 +22,7 @@ Kyra Zorantis (first-person, close, retrospective past tense)
 
 - S-kyra-and-greg — friendship and Greg's daughter Marissa — source ch.2
 - S-the-airship-falls — wreck on the plains — source ch.9–10
+- S-raynard-executed — Kyra closes Book 1 by killing Raynard — source ch.17
 
 ## Hard beats foreshadowed but not landed in this book
 
@@ -36,7 +37,7 @@ Nothing. Book 1 is the trilogy's prologue book and opens cold on Kyra at work.
 
 ## What's leapt at the close
 
-Weeks-to-months between the Outcast raid and Kyra's full integration into Clan Bizhjerai. Book 2 opens with Kyra ranked within the Bizhjerai war-band and Raynard already dead by her hand (the killing of Raynard at the end of ch.17 may be folded into Book 1's closing scenes or held to Book 2's opening — orchestrator's choice during chapter outlining; the structural break is the Outcast raid, not the Raynard execution).
+Weeks-to-months between Raynard's execution and Kyra's full integration into Clan Bizhjerai. Book 2 opens with Kyra ranked within the Bizhjerai war-band. Per user direction, the killing of Raynard at source ch.17 closes Book 1 (see S-raynard-executed). The structural break is the execution, not the Outcast raid.
 
 ## Notes for the writer
 

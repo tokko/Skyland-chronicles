@@ -1,58 +1,55 @@
-# Book 7 — The Apprentice
+# Book 7 — Genocide
 
 ## Spine
 
-Twenty-five years on. Marissa is mid-fifties, her bones replaced with materialised magic, her right eye a piece of blue crystal, her workshop a tower above the valley she once destroyed. She has founded the Collegium of Mages — ten thousand inhabitants, the most renowned magical school on the mainland — and retreated from it into her own work. Barengar, a Clan-raised student in his late twenties, kills two savages and brings a third back alive on his back as his graduation exam. The brutality earns him the apprenticeship he wanted. He climbs to her workshop and meets her — crystal eye, crystal fingers, casual cleavage. He meets her mother — the shade of Kyra in the dagger on the workbench, corporeal in the magic-dense room. He meets her project — Epitome of Morality, an AI being raised to rule. He accepts the Oath that binds him to her. The Council of the thirteen Cities summons her; she is rude to them; they send an assassin. She traps his soul and reads his employer's bad faith out of him. She refuses to fight the Ca'el. The book closes on Marissa at her workshop with the war about to find her anyway.
+The Bizhjerai fleet appears in the night sky and opens fire on the Groundlands shield. The Prowler launches to meet them. Marissa walks to the receiver tower with the magazines already rigged. Zandor blocks the door — guards killed by his own intervention saving her — and reveals he has known her identity since Valia knew, has loved her anyway, and will not let her destroy the camp. She shoots him through the thigh, cauterises the wound from inside, and walks past him. Inside the tower she adjusts the ratio between expansion and charging of the buried power cores, triggers the magazine bombs, and seals the tower from outside as she leaves. The blast levels the camp's centre; the dome shield falls. Micah charges her with a sword in the smoking street; she fans the hammer and kills him. On Kendall's flagship the Red Terror, Marissa fights through boarding parties with the shade of Kyra at her side while Kendall takes the bridge and uses the spinal bombardment cannon to destroy the Prowler mid-air. The Bizhjerai sweep the ruins. House by house. Ten thousand dead. Marissa walks among them and names herself: I am the last Skylander. The shade protests. She does not believe her. At the bike rack at the closed sweep, one bike is missing — there were ten, there are nine. By the epilogue she is at Dun Traelak. The dagger sits over the fount where Malkareth hatched. Kendall presses a tome into her hand and tells her the savages were once people. She rides south alone to study them.
 
 ## Opening image
 
-A cliff edge above a poisoned valley. Marissa, mid-fifties, in Angel armour, the dagger laid on the rock beside her. The shade of her mother in violet light at her shoulder, taking shape because the magic field is dense enough. The ruined Groundlands below — savages nesting in the dead Skylanders' bones, Wild Magic flickering. The first line is the shade's, dry and unhelpful. Half a year since the destruction. The book skips from this prologue to the working Collegium and never stages the founding.
+The eastern horizon at night, first fleet-lights against the dark. The summoning-crystal cooling in Marissa's palm. The shield over the Groundlands lighting up with the first impact. Wylah at the wall in Felaan's armour, the camp bedridden behind her, Marissa stepping out of the workshop dressed for what comes next. The plan is no longer a plan.
 
 ## Closing image
 
-Marissa's workshop tower at dusk. The Council's summons declined. The assassin's soul in a glass jar on her bench, the bullet that killed him still wet. Barengar at the door, the new Oath tattoo on his shoulder under his shirt. Epitome, an unspecified shape on the platform, watching them both with a child's interest. The dagger glowing in its rack. The war is two days east. Marissa does not say so. Barengar suspects.
+A fount at Dun Traelak. Steam rising. The dagger laid on the lip of the basin, gem-side down. Marissa's hand on the stone, not picking it up. Kendall behind her in the dawn, the tome under his arm. The Bizhjerai-Rune disguise has been retired; the Mark on her shoulder is visible in the cold. A horse waits at the gate. The shade is silent because the dagger is on the stone. The next book opens twenty-five years later in the ruins of the Groundlands, with Marissa older and her bones replaced.
 
 ## Theme
 
-What it means to raise a child you intend to make a sovereign.
+What it costs to be right.
 
 ## Hard beats (this book)
 
-- H-marissa-claims-the-groundlands-ruins
-- H-the-collegium-is-founded
-- H-barengar-hunts-his-first-savage
-- H-meeting-marissa
-- H-marissa-explains-the-bones-and-stones
-- H-meeting-kyra-shade
-- H-meet-epitome
-- H-the-oath
-- H-the-council-summons
-- H-soul-extraction-and-dissection
+- H-the-bizhjerai-fleet-arrives
+- H-zandor-knows-and-stands-in-her-way
+- H-marissa-destroys-the-shield-tower
+- H-marissa-kills-micah
+- H-the-prowler-falls
+- H-genocide
+- H-im-the-last-skylander
+- H-zandor-survives
+- H-marissa-leaves-dun-traelak
+- H-the-savages-are-engineered-precursors
 
 ## Voice
 
-Two POVs. Marissa Zorantis — book-3 register (older, more diagnostic, less bawdy; engineering structures her interior monologue almost completely). Barengar — first-person, close, hunter-trained, axe-and-shield; one beat behind the action. See `codex/voice/voice-profile.md` §Marissa (book-3 shift), §Barengar (full), and §cross-narrator notes. Apply polish-targets §19 (Barengar body-noticing), §20 (Barengar boredom), §21 (magic-system over-explanation, all voices).
+Marissa Zorantis, book-2 register through the sabotage and the genocide sweep, with the older-Marissa register beginning to emerge in the epilogue at Dun Traelak (cooler, more diagnostic, less bawdy). See `codex/voice/voice-profile.md` §Marissa anchors 1 (the Gereon shooting) for the Micah-kill register, anchor 5 (the empty register at "I'm the last Skylander"), and the book-3 shift for the Dun Traelak epilogue. Apply polish-targets §22 (monologue-over-the-corpse) and §23 (the stomp signature) on first pass — the book's worst cliché-temptations live here.
 
 ## Target word count
 
-100–110k. Sits at the upper-middle of the band. Two POVs require more pages — each character has to establish a voice the reader can hold. The Collegium has to come on-page as a working institution without staging its founding. The book's three set pieces (the entrance exam, the workshop reveal, the Council summons) are each long enough to demand breath.
+100–110k. The book sits at the upper-middle of the band. Ten hard beats compressed into source-book-2's final four chapters; the climax-density is high and the page budget goes to *weight* — Valia's structural mirror in Zandor's confrontation, the engineering precision of the tower sabotage, the killing of Micah, the genocide sweep at scale, the empty register after the title line, the long quiet of the Dun Traelak epilogue.
 
 ## What's not in this book (leapt)
 
-- The twenty-five-year founding of the Collegium. Marissa builds it; the reader meets it built.
-- Marissa's gradual crystal-prosthetic replacement. The reader meets her replaced.
-- The rise of the Ca'el across the sea. The reader meets them as a threat the Council names.
-- Marissa's correspondence with Marie, Kendall, and the Bizhjerai-Union over the years — referenced in dialogue only.
-- Barengar's prior apprenticeship at the Collegium — the years of magical training he has already completed. The exam is the entry to *her* apprenticeship; the prior years are leapt.
-- The Oath's compelled nature. Barengar's voice does not yet know.
-- Epitome's eventual moral autonomy. She is curious and blank here; the spiral is in Book 9.
+- Most of the Skylander camp's internal politics during the assault. The fleet arrives; the shield falls; the city dies. The chain of command between Micah's death and Kendall's sweep is not staged.
+- The exact mechanism of Zandor's escape — the missing bike is the beat; the route south is not.
+- Mathias Varl's escape from the Prowler. The reader will learn in Book 9 that he survived; this book leaves it ambiguous (Marissa thinks he is dead; Kendall is not certain).
+- The first months of Marissa's southern study — held for Book 8's open.
+- The Collegium's founding — the school exists by Book 8; the years of building it are leapt at the open of Book 8.
+- The full content of the precursor-tome. Kendall hands it over; Marissa accepts it; the reader sees the cover. Book 8 reveals what it contains.
 
 ## Hooks into the next book
 
-- Kendall — alive, in his eighties, leading the Bizhjerai-Union resistance. Named in dialogue. Arrives in Book 8.
-- The Demagogue — named at the Council summons as the masked leader of the Ca'el. The reader knows from Book 6 about Zandor's missing bike. The reveal is in Book 8.
-- Jani — not yet on-page. Barengar has a hometown; he has not yet returned to it. Held for Book 8.
-- The Oath as constraint — the reader and Barengar suspect; neither knows. Book 8 forces the question.
-- Epitome — operational, curious, blank. Book 9 is her ascent.
-- Mother in the dagger — restored, working partner to Marissa, on-page in the workshop. Book 9's farewell is the trilogy's emotional close.
-- Marissa's refusal to fight — undone in Book 8 when Kendall asks.
+- The precursor-tome — handed off in the epilogue, opened in Book 8.
+- Zandor's missing bike — the seed for Book 9's biggest reveal. The reader has now seen the bike-rack and knows it is gone.
+- Marissa heading south alone — the geography of Arc III is the valley above the ruins.
+- The dagger on the fount — Marissa nearly releases the shade. She does not. The relationship continues.
+- "I'm the last Skylander" — the line the trilogy's third arc will spend three more books contesting and confirming. Marissa names it; Arc III tests it.

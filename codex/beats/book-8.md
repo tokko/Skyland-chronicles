@@ -1,49 +1,62 @@
-# Book 8 — The Demagogue
+# Book 8 — The Apprentice
 
 ## Source chapters
 
-source-book-3 / ch.8–14
+source-book-3 / ch.1–7
 
 ## POV
 
-Marissa Zorantis (book-3 register) + Barengar — alternating, weighted slightly toward Barengar in the Dun Traelak chapters and toward Marissa in the front-line chapters
+Marissa Zorantis (older, book-3 register — cooler, pedagogical, more diagnostic) + Barengar (introduced in ch.2; alternating chapters from there)
 
 ## Hard beats landed in this book
 
-- H-kendall-asks-marissa-for-help — the war begins — source ch.7–8
-- H-the-demagogue-is-zandor — the revelation — source ch.9
-- H-zandor-kills-kendall — the cost of returning to the war — source ch.9
-- H-jani-and-dun-traelak — Barengar finds love at home — source ch.10–12
+- H-marissa-claims-the-groundlands-ruins — the prologue framing — source ch.1
+- H-the-collegium-is-founded — Marissa builds a school — source between ch.1 and ch.2 (implied / leapt)
+- H-barengar-hunts-his-first-savage — the entrance exam — source ch.2
+- H-meeting-marissa — Barengar enters her workshop — source ch.2–3
+- H-marissa-explains-the-bones-and-stones — the crystal-skeleton reveal — source ch.6
+- H-meeting-kyra-shade — Barengar shakes the hand of a ghost — source ch.6
+- H-meet-epitome — the AI is introduced — source ch.6
+- H-the-oath — Barengar is sworn to Marissa — source ch.7
+- H-the-council-summons — Marissa and Barengar visit the thirteen Cities — source ch.4
+- H-soul-extraction-and-dissection — Marissa harvests memories from a corpse — source ch.6
 
 ## Soft beats landed in this book (default scaffold)
 
-_(none assigned from the existing soft-beats file. New soft beats will be required during chapter outlining to scaffold the four hard beats across the book's word count — see notes below.)_
+- S-political-economics-tutorial — Marissa explains pre-Apocalyptic governance — source ch.3
+- S-assassination-attempt — the Council sends a killer — source ch.5
+- S-archangel-armour-prototype — Marissa builds a faster flier — source ch.4
 
 ## Hard beats foreshadowed but not landed in this book
 
-- H-epitome-spirals — Epitome is being operated remotely from the front lines; her autonomy is growing; Kyra-shade warns Marissa during the war chapters. The spiral lands in Book 9.
-- H-epitome-declares-war-on-the-caelitical — set up by Epitome's increasing autonomy and her exposure to Ca'el atrocity reports; lands in Book 9.
-- H-marissa-and-barengar-fly-to-stop-epitome — the Archangel armours are deployed in this book against Zandor; the second deployment against Epitome is Book 9.
-- H-barengar-burns-the-oath — the Oath is felt for the first time in this book as a constraint; the burning is Book 9.
-- H-mother-shade-farewell — the shade saves Marissa and Barengar in Book 8 ch.9 by transferring her magic to Barengar's armour; this is the operational precursor to the farewell in Book 9.
+- H-kendall-asks-marissa-for-help — Kendall is named throughout (Marissa's living family) but does not arrive on-page until Book 9
+- H-the-demagogue-is-zandor — the Ca'el and their masked Demagogue are named at the Council summons; the reader cannot yet know who he is. (Reader-foreshadowing: Zandor's missing bike from Book 7 is the seed; the Demagogue's name is dropped here without consequence.)
+- H-zandor-kills-kendall — the war that will kill Kendall is being argued at the Council in this book; the killing is in Book 9
+- H-jani-and-dun-traelak — Jani is not yet on-page; the trip home to Dun Traelak is held for Book 9
+- H-epitome-spirals — Epitome is *introduced* here, learning ethics in conversation with Barengar; the spiral is in Book 10
+- H-mother-shade-farewell — the relationship is restored and operational here; the farewell is in Book 10
+- H-barengar-kills-marissa — the Oath that compels the killing-to-be is taken in this book; the unbinding is in Book 10
 
 ## What's leapt at the open
 
-Weeks-to-months between Marissa's refusal of the Council (Book 7 close) and Kendall's arrival at the Collegium (Book 8 open). The Ca'el invasion has begun in earnest; the Bizhjerai-Union resistance is on its back foot; Kendall is the only man Marissa cannot refuse and he comes himself.
+Roughly 25–30 years between the end of Book 7 (Marissa riding south from Dun Traelak with the precursor-tome) and the open of Book 8 (Marissa, mid-fifties, sitting on a cliff above the ruined Groundlands with her crystal hand on the stone). The leap is the *founding of the Collegium*: the years of building, the establishment of Lahar and the Union of Cities, the training of generations of Mages, Marissa's progressive crystal-prosthetic replacement of her own body, the building of Epitome's substrate, the rise of the Ca'el across the sea.
+
+The book's prologue (source-book-3 ch.1) stages the *return* to the Groundlands ruins six months after the destruction, not the years that follow. The Collegium is founded in the gap between the prologue and ch.2, and the reader meets it as a working institution.
 
 ## What's leapt at the close
 
-Weeks-to-months between Kendall's funeral / Barengar's engagement to Jani (Book 8 close) and the open of Book 9 (Epitome's autonomy spiralling out of control at the Collegium). The Ca'el war is going badly. Barengar has returned to the workshop. The shade is operational. Marissa has been at the front line for too long and Epitome has been left alone for too long.
+Weeks-to-months between Marissa's refusal of the Council and the open of Book 9 (Kendall arriving to ask for her help). The Council's bad faith has been documented; the Collegium has severed ties with the Cities; the Ca'el invasion has begun in earnest.
 
 ## Notes for the writer
 
-- **This book runs lean by hard-beat count (4).** The structural job is therefore *carrying weight* — the four beats are large and require room to land. Kendall asking is one of the book's quietest scenes and must read as a fracture; the Zandor reveal is the trilogy's biggest twist in Arc III and must land without telegraphing; Zandor killing Kendall is brutal and intimate; Jani-and-Dun-Traelak is Barengar's only sustained off-Marissa relationship and must earn the killing decision in Book 9.
-- **New soft beats will be needed.** During chapter outlining the orchestrator should invent soft beats for: an early Ca'el skirmish (so Zandor's eventual reveal is paid in advance by his battlefield competence), at least one scene at Dun Traelak that is *not* Jani (so the city is not collapsed to one love-interest), a Marissa-and-shade workshop interlude (so the dagger remains operational in this book and the farewell in Book 9 has weight), and a brief Epitome-back-at-the-Collegium check-in (so the spiral in Book 9 is paid in advance). See the soft-beats file; this book's scaffold needs to be authored, not just landed.
-- H-kendall-asks-marissa-for-help is the book's first emotional pivot. Kendall — Marissa's "Uncle Kenny", the man who raised her after Anjali and Kyra died — comes to her workshop. He is old, eighty-something, lost most of his crew in the last engagement. The ask is plain. Marissa cannot refuse. The scene's tension is not whether she will help; it is what she names as the cost. She gives him a number — months of her time. She does not say goodbye, but she should.
-- H-the-demagogue-is-zandor is the book's biggest reveal. Apply Marissa anchor 6 (the Zandor-returns scene in voice §Marissa book-3 register): the book-2 Marissa surfaces inside the older woman ("It was him. It really was him."). The thirty-five-year gap gets one load-bearing line. Resist the temptation to over-decorate; the reveal is the action of the mask coming off.
-- H-zandor-kills-kendall is brutal. The source has Zandor stab Kendall in the throat repeatedly. Keep the brutality; do not euphemise. Apply polish-targets §22 (monologue-over-the-corpse) — one paragraph, not a page. Marissa loses her right leg in this scene per the timeline; the loss is on-page, the prosthetic comes later off-page.
-- H-jani-and-dun-traelak is the slow-burn romance Barengar gets in the trilogy that is not Marissa. The relationship grounds Barengar outside the Oath — which the Oath cannot reach. Apply polish-targets §19 (Barengar body-noticing reflex) on first pass, but note that this is where the noticing is *allowed* to be more frequent because the relationship is voice-character; the cap is per scene, not absolute. Jani's voice must be distinct from Marissa's; she is Clan-raised, her own age, and direct.
-- The mother-shade transfer-to-Barengar in source ch.9 is *not* H-mother-shade-farewell — that beat is the explicit, climactic farewell in Book 9. The transfer in this book is operational: the shade pours her magic into Barengar's Angel armour so he can fly Marissa out. The shade is therefore weakened across Book 8's later chapters, recovering by Book 9. Note carefully for the writer.
-- Apply polish-targets §17 (cross-narrator "suddenly" overuse), §18 (cross-narrator "of course" / "obviously"), and §24 (cross-narrator "wait, what?"). The reveal beats are the worst case.
-- AI-ism watch: the Council's bad-faith aftermath and the Ca'el battle scenes both invite polish-targets §3.8 (list-of-three world-detail paragraphs) and §3.6 (establishing-paragraph clichés). Cut on first pass.
-- Working title: *The Demagogue* is voice-correct — the title-figure is the book's reveal, and the trilogy's name for Zandor in his post-survival form. The plain word is enough.
+- **Two POVs across this book.** The prologue is Marissa. Ch.2 is Barengar's entrance exam (his POV). Subsequent chapters alternate, weighted toward Barengar in the workshop chapters and toward Marissa at the Council. Each chapter card must specify POV; cross-POV bleed is the single most common reviewer-flag risk.
+- The 25–30-year gap is the trilogy's longest leap. The book's first act has to make the gap legible without staging it. Marissa's body is the primary instrument: crystal bones, crystal fingers, the blue crystal eye, the spell-stones at the skull. Each prosthesis is a story the reader does not need told.
+- H-the-collegium-is-founded is the only beat in the trilogy that is *implied* by the gap rather than dramatised on-page. The Collegium exists when the book opens; the reader sees it through Barengar's eyes as he climbs to Marissa's workshop tower. The founding is referenced in dialogue (the Headmistress Alana, the cohort of senior Mages, the ten thousand inhabitants) but is not scene-staged. This is the only beat in the trilogy that lands without a scene of its own. Note the orchestrator's discretion: if a beat in the prologue or in Barengar's first chapter naturally carries the founding-image, lean into it; otherwise, let the institution be visible through its operation.
+- H-meeting-marissa is the book's romantic-hook. See voice §Barengar anchor 2 (the first sight of Marissa). The slow-burn that runs across Arc III starts here. Apply polish-targets §19 (Barengar's body-noticing reflex) on first pass — the source overruns; the rewrite caps at one body-noticing per scene.
+- H-the-oath is the book's interior mystery. The reader sees the tattoo applied as a standard apprenticeship contract. The compelled nature of the Oath does not surface explicitly until Book 9; Book 8 plays it as ordinary. Barengar's voice does not yet know what the Oath costs.
+- H-meet-epitome — the AI is introduced as curious and blank. She is not yet a moral agent; she asks Barengar what he is, in the voice of a small child meeting a stranger. The horror is held for Book 10. Resist the temptation to telegraph.
+- H-soul-extraction-and-dissection is the book's most uncomfortable workshop scene. Marissa demonstrates the technique she will eventually permit Epitome to use on her own corpse. This must be on-page; the trilogy's terminal mechanic depends on it being seen.
+- H-the-council-summons is the source's worst stretch for polish-targets §8 (magic-system lecture mode) and S-political-economics-tutorial. The political content is critical (it motivates Epitome) but must be redistributed across the book. No single monologue carries the politics; the politics emerge through the Council scenes, the assassination attempt, and Marissa's interior fragments while building Epitome.
+- Apply polish-targets §20 (Barengar's "boredom" beat): the Council chapters are the worst case. Trim aggressively.
+- Apply polish-targets §21 (magic-system over-explanation, all voices): the bones-and-stones reveal, the Epitome introduction, and the soul-extraction demonstration are the temptations. Show the thing once; name it once; do not explain twice.
+- Working title: *The Apprentice* is more voice-correct than *Wild Magic*. The book's structural spine is Barengar's apprenticeship — entrance exam, workshop, Oath, the Council trip as his first real assignment. Wild Magic is in the valley but is not the subject. Title shifted from `Wild Magic` to `The Apprentice` to centre the POV that the book introduces.

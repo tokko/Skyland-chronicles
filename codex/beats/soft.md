@@ -42,6 +42,13 @@ Each beat:
 - **Description**: The Skylander expedition airship is attacked by a Greater Dragon (Grasax) and brought down on the plains. Most of the expedition dies; Kyra survives, badly wounded, and encounters the bear before being taken captive by a Bizhjerai hunting party. The mechanism for getting Kyra into Bizhjerai hands can be reshaped; the destination (Bizhjerai camp as captive) is the load-bearing endpoint.
 - **Status**: pending
 
+### S-raynard-executed — Kyra closes Book 1 by killing the Skylander who defected to the Outcasts
+- **Source book / chapter**: source-book-1 / ch.17
+- **Target arc / book**: arc-I / book-1
+- **Function**: closing image / character work / setup
+- **Description**: After the Outcast raid, Kyra discovers that Raynard — the violent Skylander mercenary she had taken to bed in the opening chapters — has defected to Clan Kriath and brokered the alliance that produced the raid. She executes him personally. The act closes the book's opening Raynard register (post-battle sex as default break, polish-targets §15) and re-frames it: the body she once used as comfort is now the body she puts down. The killing also reframes Kyra's self-disgust about her appetite into an act of choice — the trilogy's voice-correct move is that Kyra does not narrate the killing as redemption. She kills Raynard because he is a traitor, not because she is unmaking who she was; the reader feels the reframe regardless. The execution closes Book 1; Book 2 opens on her formally integrated into the Bizhjerai war-band.
+- **Status**: pending
+
 ### S-alissa-arrives-as-refugee — Skylander turncloak comes to Dun Traelak
 - **Source book / chapter**: source-book-1 / ch.35–36
 - **Target arc / book**: arc-I / book-2
@@ -146,7 +153,7 @@ Each beat:
 
 ### S-pyres-still-burning — interlude after the savage assault
 - **Source book / chapter**: source-book-2 / ch.25
-- **Target arc / book**: arc-II / book-6
+- **Target arc / book**: arc-II / book-7
 - **Function**: breather / pacing
 - **Description**: Four days of grease-smoke fog as thirty thousand savage bodies burn outside the wall. The camp is bedridden from the poisoned water; the air is thick and wrong. A short interlude between the horde-assault and the sabotage sequence that gives the reader the weight of thirty thousand dead before the next act of deliberate killing begins.
 - **Status**: pending
@@ -164,21 +171,21 @@ Each beat:
 
 ### S-political-economics-tutorial — Marissa explains pre-Apocalyptic governance
 - **Source book / chapter**: source-book-3 / ch.3
-- **Target arc / book**: arc-III / book-7
+- **Target arc / book**: arc-III / book-8
 - **Function**: setup / character work
 - **Description**: Marissa explains to herself (in interior monologue) and to Barengar the failed historical systems she has researched in pre-Apocalyptic tomes: communism, capitalism, "corporatism". The motivation for Epitome — a fair ruler that does not depend on human virtue — is laid out. The source delivers this as a single extended monologue; the rewrite should redistribute it across dialogue fragments and workshop conversations so no one moment reads as lecture.
 - **Status**: pending
 
 ### S-assassination-attempt — the Council sends a killer
 - **Source book / chapter**: source-book-3 / ch.5
-- **Target arc / book**: arc-III / book-7
+- **Target arc / book**: arc-III / book-8
 - **Function**: pacing / setup
 - **Description**: A Council-sent assassin attacks Marissa after the Council meeting; she captures his soul in a bullet and reads the Council's bad faith from it. The Collegium severs ties with the Cities. The beat earns Marissa's later refusal to fight for the Council — she has concrete evidence of their intent, not merely political suspicion.
 - **Status**: pending
 
 ### S-archangel-armour-prototype — Marissa builds a faster flier
 - **Source book / chapter**: source-book-3 / ch.4
-- **Target arc / book**: arc-III / book-7
+- **Target arc / book**: arc-III / book-8
 - **Function**: setup / pacing
 - **Description**: Marissa develops Archangel armour — a successor to the Angel armour that can cross the world in ninety minutes via a brief stint in space. The technology is too dangerous to scale, which is why only Marissa and Barengar ever wear it. The beat is a workshop scene that shows Marissa's engineering at peacetime and establishes the armour that both protagonists will use in the final assault on Epitome.
 - **Status**: pending

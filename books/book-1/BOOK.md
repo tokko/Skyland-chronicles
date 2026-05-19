@@ -10,7 +10,7 @@ Kyra and Anton pressed to opposite walls of a dark indigo-crystal alley, two fin
 
 ## Closing image
 
-Kyra walking out of Bizhjerai pavilion in the dark with the smell of horse and wood-smoke on her, the Bizhjerai Mark not yet on her shoulder but already a name she has earned from Anjali — a pet name for the murdered child she keeps mistaking for her captor, kept now for the captor who is no longer holding her at spear-point. The Outcast raid is behind her; the dragons and the gem and the war are ahead. She does not yet know she has been adopted; she suspects she is about to be.
+Kyra standing over Raynard's body on the trampled grass outside the Bizhjerai camp, the revolver still warm. He had defected to Clan Kriath and brokered the raid; the body she once took to bed for comfort is the body she has just put down. Anjali at her shoulder, neither approving nor disapproving — registering. The Bizhjerai Mark is not yet on Kyra's arm but the name "Red" is already a habit in her mouth. The Outcast raid is behind her; Raynard is behind her; the dragons and the gem and the war are ahead. She does not yet know she has been adopted; she suspects she is about to be.
 
 ## Theme
 
@@ -44,7 +44,8 @@ Kyra Zorantis. See `codex/voice/voice-profile.md` §Kyra (distance, cadence, lex
 ## Hooks into the next book
 
 - Anjali — the red-haired woman; Kyra's keeper; the only person in the camp who calls her by her real name.
-- The Bizhjerai Chief — Anjali's father; already weighing Kyra's worth at the Outcast raid; the marriage and adoption beats land in Book 2.
+- The Bizhjerai Chief — Anjali's father; already weighing Kyra's worth at the Outcast raid and at Raynard's execution; the marriage and adoption beats land in Book 2.
 - The dagger — referenced obliquely as the artifact Grasax wields; the artifact itself is held for Book 2.
 - Kendall — left behind in the Skylands with Marissa; readers know he will be there when Kyra returns and the family reunites at Dun Traelak (Book 2).
 - The Skylander expedition itself — the airship is gone, the survivors are scattered, the colonising wave that will become Utopeia is named only by implication.
+- Raynard's body — left behind. Kyra's post-battle-sex register has been closed by her own hand. Book 2 opens past it.

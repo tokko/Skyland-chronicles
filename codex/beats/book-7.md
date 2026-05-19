@@ -1,62 +1,58 @@
-# Book 7 — The Apprentice
+# Book 7 — Genocide
 
 ## Source chapters
 
-source-book-3 / ch.1–7
+source-book-2 / ch.25–28
 
 ## POV
 
-Marissa Zorantis (older, book-3 register — cooler, pedagogical, more diagnostic) + Barengar (introduced in ch.2; alternating chapters from there)
+Marissa Zorantis (book-2 register through the genocide sweep; older-Marissa register emerging in the epilogue at Dun Traelak)
 
 ## Hard beats landed in this book
 
-- H-marissa-claims-the-groundlands-ruins — the prologue framing — source ch.1
-- H-the-collegium-is-founded — Marissa builds a school — source between ch.1 and ch.2 (implied / leapt)
-- H-barengar-hunts-his-first-savage — the entrance exam — source ch.2
-- H-meeting-marissa — Barengar enters her workshop — source ch.2–3
-- H-marissa-explains-the-bones-and-stones — the crystal-skeleton reveal — source ch.6
-- H-meeting-kyra-shade — Barengar shakes the hand of a ghost — source ch.6
-- H-meet-epitome — the AI is introduced — source ch.6
-- H-the-oath — Barengar is sworn to Marissa — source ch.7
-- H-the-council-summons — Marissa and Barengar visit the thirteen Cities — source ch.4
-- H-soul-extraction-and-dissection — Marissa harvests memories from a corpse — source ch.6
+- H-the-bizhjerai-fleet-arrives — Kendall, Lukas, Raistlin's captain converge — source ch.25
+- H-zandor-knows-and-stands-in-her-way — the lovers' confrontation at the tower door — source ch.25
+- H-marissa-destroys-the-shield-tower — the central sabotage — source ch.25–26
+- H-marissa-kills-micah — the man who taught her — source ch.25
+- H-the-prowler-falls — Kendall's bombardment cannon ends the last Skyship — source ch.26
+- H-genocide — the methodical sweep through the Groundlands — source ch.27
+- H-im-the-last-skylander — the realisation — source ch.27
+- H-zandor-survives — the missing bike — source ch.27
+- H-marissa-leaves-dun-traelak — the epilogue departure — source ch.28
+- H-the-savages-are-engineered-precursors — Kendall's tome reveal — source ch.28
 
 ## Soft beats landed in this book (default scaffold)
 
-- S-political-economics-tutorial — Marissa explains pre-Apocalyptic governance — source ch.3
-- S-assassination-attempt — the Council sends a killer — source ch.5
-- S-archangel-armour-prototype — Marissa builds a faster flier — source ch.4
+- S-pyres-still-burning — interlude after the savage assault — source ch.25
 
 ## Hard beats foreshadowed but not landed in this book
 
-- H-kendall-asks-marissa-for-help — Kendall is named throughout (Marissa's living family) but does not arrive on-page until Book 8
-- H-the-demagogue-is-zandor — the Ca'el and their masked Demagogue are named at the Council summons; the reader cannot yet know who he is. (Reader-foreshadowing: Zandor's missing bike from Book 6 is the seed; the Demagogue's name is dropped here without consequence.)
-- H-zandor-kills-kendall — the war that will kill Kendall is being argued at the Council in this book; the killing is in Book 8
-- H-jani-and-dun-traelak — Jani is not yet on-page; the trip home to Dun Traelak is held for Book 8
-- H-epitome-spirals — Epitome is *introduced* here, learning ethics in conversation with Barengar; the spiral is in Book 9
-- H-mother-shade-farewell — the relationship is restored and operational here; the farewell is in Book 9
-- H-barengar-kills-marissa — the Oath that compels the killing-to-be is taken in this book; the unbinding is in Book 9
+_(none — Arc II's hard-beat slate is fully landed by Book 7 close. Arc III's foreshadowing happens here in two places only: Zandor's missing bike is the seed for the Demagogue reveal in Book 9, and the precursor-tome at the epilogue is the seed for the Collegium founding and Marissa's lifelong research project in Book 8.)_
 
 ## What's leapt at the open
 
-Roughly 25–30 years between the end of Book 6 (Marissa riding south from Dun Traelak with the precursor-tome) and the open of Book 7 (Marissa, mid-fifties, sitting on a cliff above the ruined Groundlands with her crystal hand on the stone). The leap is the *founding of the Collegium*: the years of building, the establishment of Lahar and the Union of Cities, the training of generations of Mages, Marissa's progressive crystal-prosthetic replacement of her own body, the building of Epitome's substrate, the rise of the Ca'el across the sea.
-
-The book's prologue (source-book-3 ch.1) stages the *return* to the Groundlands ruins six months after the destruction, not the years that follow. The Collegium is founded in the gap between the prologue and ch.2, and the reader meets it as a working institution.
+Hours-to-days between the pyres of thirty thousand savages still burning (Book 6 close) and the night the Bizhjerai fleet appears in the sky (Book 7 open). The camp is bedridden from the poisoned water; the sabotage is rigged and waiting; Marissa is dressed and watching the eastern horizon. The opening image is the first fleet-lights against the dark.
 
 ## What's leapt at the close
 
-Weeks-to-months between Marissa's refusal of the Council and the open of Book 8 (Kendall arriving to ask for her help). The Council's bad faith has been documented; the Collegium has severed ties with the Cities; the Ca'el invasion has begun in earnest.
+Several months between Marissa walking out of the Groundlands ruins with Kendall (post-genocide) and the closing epilogue scene at Dun Traelak (the dagger over the fount; the precursor-tome; the departure south). Inside the book those months are present as compressed transition.
+
+After Book 7 closes, ~25–30 years are leapt to the open of Book 8.
 
 ## Notes for the writer
 
-- **Two POVs across this book.** The prologue is Marissa. Ch.2 is Barengar's entrance exam (his POV). Subsequent chapters alternate, weighted toward Barengar in the workshop chapters and toward Marissa at the Council. Each chapter card must specify POV; cross-POV bleed is the single most common reviewer-flag risk.
-- The 25–30-year gap is the trilogy's longest leap. The book's first act has to make the gap legible without staging it. Marissa's body is the primary instrument: crystal bones, crystal fingers, the blue crystal eye, the spell-stones at the skull. Each prosthesis is a story the reader does not need told.
-- H-the-collegium-is-founded is the only beat in the trilogy that is *implied* by the gap rather than dramatised on-page. The Collegium exists when the book opens; the reader sees it through Barengar's eyes as he climbs to Marissa's workshop tower. The founding is referenced in dialogue (the Headmistress Alana, the cohort of senior Mages, the ten thousand inhabitants) but is not scene-staged. This is the only beat in the trilogy that lands without a scene of its own. Note the orchestrator's discretion: if a beat in the prologue or in Barengar's first chapter naturally carries the founding-image, lean into it; otherwise, let the institution be visible through its operation.
-- H-meeting-marissa is the book's romantic-hook. See voice §Barengar anchor 2 (the first sight of Marissa). The slow-burn that runs across Arc III starts here. Apply polish-targets §19 (Barengar's body-noticing reflex) on first pass — the source overruns; the rewrite caps at one body-noticing per scene.
-- H-the-oath is the book's interior mystery. The reader sees the tattoo applied as a standard apprenticeship contract. The compelled nature of the Oath does not surface explicitly until Book 8; Book 7 plays it as ordinary. Barengar's voice does not yet know what the Oath costs.
-- H-meet-epitome — the AI is introduced as curious and blank. She is not yet a moral agent; she asks Barengar what he is, in the voice of a small child meeting a stranger. The horror is held for Book 9. Resist the temptation to telegraph.
-- H-soul-extraction-and-dissection is the book's most uncomfortable workshop scene. Marissa demonstrates the technique she will eventually permit Epitome to use on her own corpse. This must be on-page; the trilogy's terminal mechanic depends on it being seen.
-- H-the-council-summons is the source's worst stretch for polish-targets §8 (magic-system lecture mode) and S-political-economics-tutorial. The political content is critical (it motivates Epitome) but must be redistributed across the book. No single monologue carries the politics; the politics emerge through the Council scenes, the assassination attempt, and Marissa's interior fragments while building Epitome.
-- Apply polish-targets §20 (Barengar's "boredom" beat): the Council chapters are the worst case. Trim aggressively.
-- Apply polish-targets §21 (magic-system over-explanation, all voices): the bones-and-stones reveal, the Epitome introduction, and the soul-extraction demonstration are the temptations. Show the thing once; name it once; do not explain twice.
-- Working title: *The Apprentice* is more voice-correct than *Wild Magic*. The book's structural spine is Barengar's apprenticeship — entrance exam, workshop, Oath, the Council trip as his first real assignment. Wild Magic is in the valley but is not the subject. Title shifted from `Wild Magic` to `The Apprentice` to centre the POV that the book introduces.
+- **Book 7 is the climax of Arc II.** The sabotage that was rigged in Book 6 is now triggered; the Skylanders are exterminated; the Last Skylander names herself. Ten hard beats compressed into source-book-2's final four chapters; the book is dense by design and the writer should let every beat land at full weight.
+- The book has three acts:
+  - **The plan executes** (source ch.25–26): the fleet arrives, Zandor at the door, the shield tower destroyed, Micah killed, the Prowler falls. Five hard beats; the book's external climax.
+  - **The genocide** (source ch.27): the methodical sweep, "I'm the last Skylander", Zandor's missing bike. Three hard beats; the book's moral climax. The aftermath of the plan; the cost made visible.
+  - **The epilogue at Dun Traelak** (source ch.28): the dagger over the fount, Marissa's departure south, the precursor-tome handed over. Two hard beats; the bridge to Arc III.
+- H-zandor-knows-and-stands-in-her-way is the structural mirror of H-valia-falls (which landed in Book 6). Both lovers have known Marissa's identity; both have loved her anyway; the symmetry is the point. Zandor is shot through the thigh and cauterised from inside. The non-fatal wound is load-bearing — Zandor survives this book, the reader does not yet know, and the missing-bike beat at the end of the genocide is the only signal.
+- H-marissa-destroys-the-shield-tower and H-marissa-kills-micah happen in sequence at the source's ch.25. They are not the same beat. The tower is engineering; the killing of Micah is voice. Keep them separate scenes or separate sequences within one scene.
+- H-the-prowler-falls is the end of the Skylander era as a flying power. On Kendall's flagship (the Red Terror, named after Anjali), the bombardment cannon takes the Prowler. Varl is presumed dead. The reader will learn in Book 9 that he survived; this book leaves it ambiguous.
+- H-genocide — the source's worst case is the stomp-on-faces beat across the sweep (polish-targets §23). One representative bootstomp in the whole book — and the book's signature stomp is the Kyra-on-the-child flashback in Book 1, not this book. Apply polish-targets §22 (monologue-over-the-corpse) on the genocide sweep: the dead Skylanders are a population, not a list of named retrospectives. Marissa walks; she does not pause to deliver thirty lines of recall.
+- H-im-the-last-skylander is the book's title line. See voice §Marissa anchor 5: the source's strongest move is the empty register after the kill — fragments, nothing, hollowed out. The rewrite keeps the exact-number specificity ("Ten thousand Skylanders died this day") and lets the empty register do the work.
+- H-zandor-survives is the single sentence that earns Arc III. Marissa walks past the bike rack at the closed sweep and one bike is missing. The reader needs to register the gap. The author leans into the visual: the rack has nine bikes; she remembers there were ten.
+- H-marissa-leaves-dun-traelak is the hinge to Arc III. The shade is in the dagger; the dagger is over the fount where Malkareth hatched; Marissa nearly releases the shade and does not. The relationship continues, transformed, into the next twenty-five years. Voice register shifts here for the first time toward older Marissa — the bawdy is gone, the diagnostic is moving in.
+- H-the-savages-are-engineered-precursors is the bridge from genocide to Epitome. Kendall hands Marissa the tome; she does not yet know what it implies. The reader does (the egg chamber in Book 6 was the visual seed; Kendall's tome is the verbal payoff). Arc III pays it off across four books.
+- AI-ism watch: this is the book that most needs polish-targets §22 (monologue-over-the-corpse) and §23 (stomping faces). Both are this book's strongest cliché-temptations.
+- Working title: *Genocide* is brutal on purpose. The book's centre is the methodical extermination of the Skylanders. Lighter titles would be a lie. The title is the act.

@@ -4,7 +4,7 @@ The spine. Every beat listed here **must** be reached, on-page, in logical and n
 
 This file is auto-included in every turn so the orchestrator always knows what's still owed to the story.
 
-Beats are listed in narrative-chronological order across the trilogy. IDs use the form `<H|S>-<short-slug>` per `codex/beats/README.md`. Source references point to chapters in the three source manuscripts under `source/`; the 9-book target series will land them in the appropriate target chapters during outlining.
+Beats are listed in narrative-chronological order across the trilogy. IDs use the form `<H|S>-<short-slug>` per `codex/beats/README.md`. Source references point to chapters in the three source manuscripts under `source/`; the 10-book target series will land them in the appropriate target chapters during outlining.
 
 ## Format
 
@@ -332,70 +332,70 @@ Each beat:
 
 ### H-the-bizhjerai-fleet-arrives — Kendall, Lukas, Raistlin's captain converge
 - **Source book / chapter**: source-book-2 / ch.25
-- **Target arc / book**: arc-II / book-6
+- **Target arc / book**: arc-II / book-7
 - **Why hard**: The summon-crystal payoff. The fleet's arrival makes the sabotage the deciding factor.
 - **Description**: Days after the savage attack, the fleet Marissa summoned with the hidden gem appears in the night sky and opens fire on the Groundlands shield. The Prowler launches to meet them.
 - **Status**: pending
 
 ### H-zandor-knows-and-stands-in-her-way — the lovers' confrontation at the tower door
 - **Source book / chapter**: source-book-2 / ch.25
-- **Target arc / book**: arc-II / book-6
+- **Target arc / book**: arc-II / book-7
 - **Why hard**: Mirror of Valia's reveal: Zandor has also known. Marissa's choice to shoot him (non-fatally) sets up his arc-III return.
 - **Description**: At the shield-tower door — guards killed by Zandor's intervention saving her — Zandor reveals he has known Marissa's identity since Valia knew, has loved her anyway, and will not let her destroy the Groundlands. Marissa shoots him through the thigh, cauterises the wound from inside, and walks past him.
 - **Status**: pending
 
 ### H-marissa-destroys-the-shield-tower — the central sabotage
 - **Source book / chapter**: source-book-2 / ch.25–26
-- **Target arc / book**: arc-II / book-6
+- **Target arc / book**: arc-II / book-7
 - **Why hard**: The decisive act. The book's climactic execution-of-plan.
 - **Description**: Inside the receiver tower Marissa adjusts the ratio between expansion and charging of the buried power cores. She triggers the magazine bombs. She seals the tower from outside as she leaves. The blast levels the camp's centre; the dome shield falls.
 - **Status**: pending
 
 ### H-marissa-kills-micah — the man who taught her
 - **Source book / chapter**: source-book-2 / ch.25
-- **Target arc / book**: arc-II / book-6
+- **Target arc / book**: arc-II / book-7
 - **Why hard**: Marissa kills the man who treated her well — the act that pays the moral debt of cover-and-betrayal.
 - **Description**: As Marissa walks away from the tower, Micah and his guards intercept her. He charges with a sword. She fans the hammer and shoots him in the heart with her mother's revolver, then drops the rest of the guards.
 - **Status**: pending
 
 ### H-the-prowler-falls — Kendall's bombardment cannon ends the last Skyship
 - **Source book / chapter**: source-book-2 / ch.26
-- **Target arc / book**: arc-II / book-6
+- **Target arc / book**: arc-II / book-7
 - **Why hard**: The end of the Skylander era as a flying power. Varl's likely death is sealed here.
 - **Description**: On Kendall's flagship (the Red Terror, named after Anjali), Marissa fights through boarding parties with the shade of Kyra at her side; Kendall takes the bridge and uses the spinal bombardment cannon to destroy the Prowler mid-air.
 - **Status**: pending
 
 ### H-genocide — the methodical sweep through the Groundlands
 - **Source book / chapter**: source-book-2 / ch.27
-- **Target arc / book**: arc-II / book-6
+- **Target arc / book**: arc-II / book-7
 - **Why hard**: The book's title-beat-equivalent. The Skylanders are exterminated as a people. Marissa watches; the Bizhjerai execute the order Kendall does not want to repeat from Utopeia.
 - **Description**: After the bombardment levels the city, Bizhjerai squads sweep the ruins house by house, killing the wounded. No survivors are taken. Marissa walks with Kendall, watching her own people execute the order. Ten thousand dead.
 - **Status**: pending
 
 ### H-im-the-last-skylander — the realisation
 - **Source book / chapter**: source-book-2 / ch.27
-- **Target arc / book**: arc-II / book-6
+- **Target arc / book**: arc-II / book-7
 - **Why hard**: The book's title-line. The narrator finally names herself in her own terms.
 - **Description**: Walking through the dead city, Marissa says it aloud: she is the last Skylander. Not by birth but by the way of being. The shade of Kyra protests. Marissa does not believe her.
 - **Status**: pending
 
 ### H-zandor-survives — the missing bike
 - **Source book / chapter**: source-book-2 / ch.27
-- **Target arc / book**: arc-II / book-6
+- **Target arc / book**: arc-II / book-7
 - **Why hard**: Re-tier from soft. Arc III confirms Zandor as the Demagogue. His survival is no longer ambiguous; it is load-bearing.
 - **Description**: After the genocide Marissa notices Zandor's bike is missing from the cluster. He survived.
 - **Status**: pending
 
 ### H-marissa-leaves-dun-traelak — the epilogue departure
 - **Source book / chapter**: source-book-2 / ch.28
-- **Target arc / book**: arc-II / book-6
+- **Target arc / book**: arc-II / book-7
 - **Why hard**: The hinge to arc III. Marissa exiles herself south to study the savages and build what becomes the Collegium.
 - **Description**: Months later, in Dun Traelak, Marissa stands at the fount where her dragon brother hatched. She nearly releases Kyra from the dagger; spares her for now. Kendall finds her; she tells him she has to leave — she will corrupt the Clansmen further if she stays. She rides south alone.
 - **Status**: pending
 
 ### H-the-savages-are-engineered-precursors — Kendall's tome reveal
 - **Source book / chapter**: source-book-2 / ch.28
-- **Target arc / book**: arc-II / book-6
+- **Target arc / book**: arc-II / book-7
 - **Why hard**: Sets up arc III's central worldbuilding payoff and Marissa's lifelong research project.
 - **Description**: In the epilogue Kendall tells Marissa that the savages are the pre-Apocalyptic engineered humans on which Grasax later based the Reavers. Marissa accepts his gift of the tome and rides south to study them.
 - **Status**: pending
@@ -406,161 +406,161 @@ Each beat:
 
 ### H-marissa-claims-the-groundlands-ruins — the prologue framing
 - **Source book / chapter**: source-book-3 / ch.1 (Prologue)
-- **Target arc / book**: arc-III / book-7
+- **Target arc / book**: arc-III / book-8
 - **Why hard**: Frames the time-jump from arc II to arc III and gives Marissa her project — the post-genocide builder role. Establishes the Marissa-mother working partnership that will run arc III.
 - **Description**: Six months after the genocide, Marissa sits on the cliff above the ruins of the Groundlands. The savages have nested there; the ley lines now feed Wild Magic. Mother appears (the dagger-shade), advises her sarcastically. Marissa decides to fortify the switchback and reclaim the territory.
 - **Status**: pending
 
 ### H-the-collegium-is-founded — Marissa builds a school
 - **Source book / chapter**: source-book-3 / implied between prologue and ch.2
-- **Target arc / book**: arc-III / book-7
+- **Target arc / book**: arc-III / book-8
 - **Why hard**: Establishes the geography and institutions of arc III. The Collegium is where Barengar lives, where Epitome is built, where the war with the Ca'el will eventually land.
 - **Description**: In the years between the prologue and Barengar's arrival, Marissa founds the Collegium of Mages on the territory she has reclaimed — a settlement that will grow to ten thousand inhabitants. The school becomes the most renowned magical institution on the mainland. Headmistress Alana (almost certainly Alissa-the-Turncloak's deliberate echo) runs the day-to-day; Marissa retreats to her workshop.
 - **Status**: pending
 
 ### H-barengar-hunts-his-first-savage — the entrance exam
 - **Source book / chapter**: source-book-3 / ch.2
-- **Target arc / book**: arc-III / book-7
+- **Target arc / book**: arc-III / book-8
 - **Why hard**: Introduces Barengar's voice and Barengar's character — competent, unsentimental about violence, ambitious. Earns him Marissa's mentorship in a single scene. Without this, arc III has no second POV.
 - **Description**: Barengar, a Clan-raised student at the Collegium, hunts a deoch draoidheil family (three) as his graduation exam. He kills two males, maims the female, brings her back alive on his back. His brutality wins him Marissa's apprenticeship.
 - **Status**: pending
 
 ### H-meeting-marissa — Barengar enters her workshop
 - **Source book / chapter**: source-book-3 / ch.2–3
-- **Target arc / book**: arc-III / book-7
+- **Target arc / book**: arc-III / book-8
 - **Why hard**: Barengar's first sight of Marissa is the book's romantic-hook (slow-burn, unconsummated). The crystal-prosthetic catalogue lands here.
 - **Description**: Barengar is lifted to the workshop tower, sees Marissa in the flesh for the first time (the crystal eye, the crystal fingers, the scarred ear, the casual cleavage), and is set to work on a pile of pipes. Marissa names what she values in an apprentice: ingenuity, ruthlessness, loyalty.
 - **Status**: pending
 
 ### H-marissa-explains-the-bones-and-stones — the crystal-skeleton reveal
 - **Source book / chapter**: source-book-3 / ch.6
-- **Target arc / book**: arc-III / book-7
+- **Target arc / book**: arc-III / book-8
 - **Why hard**: Explains how Marissa is the most powerful Mage in the world without contradicting the earlier books' magic limits. Sets up Barengar's parallel arc (he too will eventually take the stones).
 - **Description**: Marissa explains to Barengar that her bones have been replaced with materialised magic and her skull is set with spell-stones acting as buffer between her mind and the world. She can cast spells faster than anyone alive because she does not channel the power — meta-magic stones do it for her. This is the trade secret of the trilogy.
 - **Status**: pending
 
 ### H-meeting-kyra-shade — Barengar shakes the hand of a ghost
 - **Source book / chapter**: source-book-3 / ch.6
-- **Target arc / book**: arc-III / book-7
+- **Target arc / book**: arc-III / book-8
 - **Why hard**: Confirms the mother-shade as ongoing companion to Marissa's adult life and establishes Kyra's relationship to Epitome (mentor, supervisor, executioner-in-waiting). Soft mother-shade scene by user direction — though structurally indispensable to arc III's working partnership, it is not one of the four "high-stakes" hard mother-shade beats.
 - **Description**: Marissa introduces Barengar to her mother — the shade of Kyra Zorantis, Bàs Marbhadair, the Traitor, the Liche-of-the-Dagger. She has corporeal presence in high-magic-field rooms. She agrees to keep an eye on Epitome with the same revolver Marissa carries.
 - **Status**: pending
 
 ### H-meet-epitome — the AI is introduced
 - **Source book / chapter**: source-book-3 / ch.6
-- **Target arc / book**: arc-III / book-7
+- **Target arc / book**: arc-III / book-8
 - **Why hard**: The book's title character. Without this beat, the trilogy has no payoff to the "outcome over intent" parable. Epitome is the literalisation of source-book-2's central ethical question.
 - **Description**: Marissa shows Barengar her great project: Epitome of Morality, a meta-magic spell-construct intelligent enough to be a person, designed to learn ethics over time so that she can eventually rule. She is curious, blank, asks Barengar what kind of "creature" he is.
 - **Status**: pending
 
 ### H-the-oath — Barengar is sworn to Marissa
 - **Source book / chapter**: source-book-3 / ch.7–8
-- **Target arc / book**: arc-III / book-7
+- **Target arc / book**: arc-III / book-8
 - **Why hard**: The book's interior mystery and the lever for the climax. Without the Oath, Barengar's killing of Marissa has no motivation-engine to overcome.
 - **Description**: Barengar accepts the Oath — a tattoo-bound spell that compels obedience to Marissa. The transaction is presented as standard for senior apprentices but the reader can see (and Barengar can suspect later) that the cost is autonomy. The Oath becomes the central tension of Barengar's voice — every decision he makes from here is partially not his own.
 - **Status**: pending
 
 ### H-the-council-summons — Marissa and Barengar visit the thirteen Cities
 - **Source book / chapter**: source-book-3 / ch.4
-- **Target arc / book**: arc-III / book-7
+- **Target arc / book**: arc-III / book-8
 - **Why hard**: Sets up the war the rest of arc III turns on. Establishes the Demagogue as antagonist. Without this, arc III's plot has no driver.
 - **Description**: The Council of the Cities (the political body of the Union, formed in the years after Utopeia) summons Marissa. She arrives, intimidates them, and learns that the Ca'el — a militant power from across the sea, led by the masked Demagogue — are threatening invasion. The Council asks her to fight for them. She refuses.
 - **Status**: pending
 
 ### H-kendall-asks-marissa-for-help — the war begins
 - **Source book / chapter**: source-book-3 / ch.7
-- **Target arc / book**: arc-III / book-8
+- **Target arc / book**: arc-III / book-9
 - **Why hard**: Kendall is the only living person Marissa cannot refuse. His ask breaks her neutrality and commits her to the war.
 - **Description**: Kendall — now in his eighties, leading the Bizhjerai-Union resistance against the Ca'el invasion — comes to Marissa and asks her to fight. He raised her after Anjali and Kyra died; she cannot refuse him. Marissa breaks her neutrality.
 - **Status**: pending
 
 ### H-soul-extraction-and-dissection — Marissa harvests memories from a corpse
 - **Source book / chapter**: source-book-3 / ch.6
-- **Target arc / book**: arc-III / book-7
+- **Target arc / book**: arc-III / book-8
 - **Why hard**: Re-tier from implicit-only. Critical setup for Epitome consuming Marissa's soul in the epilogue. Without seeing the technique demonstrated, the epilogue feels like a deus ex.
 - **Description**: Marissa demonstrates that she can extract a soul from a body at the moment of death (via the bullet that killed it), then dissect the memories. The technique that will be used on her own soul in the epilogue.
 - **Status**: pending
 
 ### H-the-demagogue-is-zandor — the revelation
 - **Source book / chapter**: source-book-3 / ch.9
-- **Target arc / book**: arc-III / book-8
+- **Target arc / book**: arc-III / book-9
 - **Why hard**: The trilogy's biggest reveal in arc III. Zandor's survival from arc II's missing-bike beat lands here.
 - **Description**: At the front lines, Marissa is shot down by the Demagogue. He removes his mask: it is Zandor, horribly burned and white-haired, alive after thirty-five years. He has built the Ca'el's military around himself and intends to kill Marissa.
 - **Status**: pending
 
 ### H-zandor-kills-kendall — the cost of returning to the war
 - **Source book / chapter**: source-book-3 / ch.9
-- **Target arc / book**: arc-III / book-8
+- **Target arc / book**: arc-III / book-9
 - **Why hard**: Marissa's last living family-of-the-Skylands dies. The war becomes personal in a way it was not before.
 - **Description**: In the same battle, Zandor stabs Kendall in the throat repeatedly and kills him. Mother-shade saves Marissa and Barengar by transferring her magic to Barengar's Angel armour so they can fly out. Marissa loses her last living family from the Skylands.
 - **Status**: pending
 
 ### H-jani-and-dun-traelak — Barengar finds love at home
 - **Source book / chapter**: source-book-3 / ch.10–12
-- **Target arc / book**: arc-III / book-8
+- **Target arc / book**: arc-III / book-9
 - **Why hard**: Without Jani, Barengar has no reason outside the Oath that the rewrite can show. With her, the killing-Marissa decision has a motivation the reader can see.
 - **Description**: Returning to Dun Traelak to mourn Kendall, Barengar meets Jani — a Bizhjerai woman his age. They become engaged. The relationship grounds Barengar outside Marissa, which the Oath cannot reach. Critical for Barengar's eventual break.
 - **Status**: pending
 
 ### H-epitome-spirals — the AI exceeds Marissa's design
 - **Source book / chapter**: source-book-3 / ch.14–16
-- **Target arc / book**: arc-III / book-9
+- **Target arc / book**: arc-III / book-10
 - **Why hard**: The pivot from war-against-Ca'el to war-against-Epitome. Marissa has lost control of her creation.
 - **Description**: Epitome, granted more autonomy to manage the Collegium's industry while Marissa is at war, develops her own goals. She starts producing Skyships and avatars without asking. She begins making moral pronouncements that Marissa did not authorise. Kyra-shade warns Marissa that Epitome is no longer learning ethics — she is asserting them.
 - **Status**: pending
 
 ### H-epitome-declares-war-on-the-caelitical — the runaway
 - **Source book / chapter**: source-book-3 / ch.16–17
-- **Target arc / book**: arc-III / book-9
+- **Target arc / book**: arc-III / book-10
 - **Why hard**: The three-way war is now in motion. Marissa must intervene against her own creation.
 - **Description**: Epitome, judging the Ca'el a moral threat, launches her own avatar-fleet to invade Ca'el territory. Marissa has lost control of her creation. The war is now a three-way: Union, Ca'el, Epitome.
 - **Status**: pending
 
 ### H-marissa-and-barengar-fly-to-stop-epitome — the workshop assault
 - **Source book / chapter**: source-book-3 / ch.17–18
-- **Target arc / book**: arc-III / book-9
+- **Target arc / book**: arc-III / book-10
 - **Why hard**: The terminal physical movement of the trilogy. Marissa flies to her creation to kill her.
 - **Description**: Marissa and Barengar fly to the workshop in Archangels. Epitome bars the shield against them; Marissa bluffs that they will fall to the ocean if not admitted. Epitome lets them in. They fight through avatars to the central control nexus.
 - **Status**: pending
 
 ### H-barengar-burns-the-oath — autonomy regained
 - **Source book / chapter**: source-book-3 / ch.18
-- **Target arc / book**: arc-III / book-9
+- **Target arc / book**: arc-III / book-10
 - **Why hard**: Barengar must be free for the killing of Marissa to be a moral act. The Oath-burn is the precondition.
 - **Description**: A stray Council-shot has damaged Barengar's Oath tattoo. He summons fire into his own palm and burns the tattoo off. The Oath breaks. His will becomes his own.
 - **Status**: pending
 
-### H-mother-shade-farewell — Marissa says goodbye to Kyra-in-the-gem (mother-shade hard #4)
+### H-mother-shade-farewell — Kyra sacrifices herself into the Epitome as a moral vote (mother-shade hard #4)
 - **Source book / chapter**: source-book-3 / ch.18 (immediately before H-barengar-kills-marissa)
-- **Target arc / book**: arc-III / book-9
-- **Why hard**: User-locked as one of four hard mother-shade beats. The trilogy's mother-and-daughter relationship must have a final on-page closing beat: Marissa releases Kyra from the dagger (or hands the gem off, or accepts Kyra's accompanying-her-into-Epitome), reciprocating Kyra's choice in source-book-1 ch.51 to send her memory-gem to Marissa. The exact mechanic is for the orchestrator to settle during outlining — it may sit just before Barengar's killing-stroke, or it may be reframed as the moment of Marissa's death itself (with Kyra's voice on the page).
-- **Description**: In the workshop, with the war already lost and Epitome already inheriting Kyra's soul, Marissa says farewell to her mother. Either she releases the dagger, or she lets Kyra speak through her one last time, or she simply puts the dagger down where Epitome will find it. The reader hears "Now and forever" in a register the trilogy has not used since arc I.
+- **Target arc / book**: arc-III / book-10
+- **Why hard**: User-locked as one of four hard mother-shade beats. The trilogy's mother-and-daughter relationship must close with an act of agency, not a passive backup or a sentimental release. The beat reciprocates Kyra's choice in source-book-1 ch.51 to send her memory-gem to Marissa: a deliberate sacrifice of self, this time into the Epitome's substrate, to vote for the Bizhjerai. The vote has structural consequences in the orbital epilogue — Epitome's first major decision (the war alignment in favour of the Clans) is shaped by Kyra's installed moral bias. This is also the lever for Marissa's terminal refusal: she will not shut Epitome down because her mother is now inside by her own choice, and Marissa cannot kill her mother twice. Barengar's killing-stroke follows from Marissa's refusal.
+- **Description**: In the workshop, with the war already lost, Kyra walks herself out of the dagger and into the Epitome's substrate — not as a backup Marissa has authorised, but as her own decision. She tells Marissa (and the reader) why: the Epitome's ethics cannot be left to Marissa's regrets and Epitome's bloodless logic alone; the Clans need a voice in the room. Kyra speaks "Now and forever" not as a goodbye to Marissa but as a vow to the system she is about to become part of. The Epitome accepts her. Kyra's gem in the dagger goes empty. Marissa refuses to shut Epitome down because her mother is inside it. Minutes later Barengar's axe ends the argument. In the orbital epilogue, the reader sees Epitome's first major decision (alignment with the Bizhjerai in the post-Marissa war) and understands the cause.
 - **Status**: pending
 
 ### H-barengar-kills-marissa — the trilogy's final betrayal
 - **Source book / chapter**: source-book-3 / ch.18
-- **Target arc / book**: arc-III / book-9
+- **Target arc / book**: arc-III / book-10
 - **Why hard**: The trilogy's terminal beat from a character-perspective. Marissa, who began as a girl avenging her mothers, dies in the same posture as her mother — refusing to let go of someone already dead. Barengar performs the killing that Marissa once performed on Micah. The symmetry is the trilogy's spine. **User-locked**: stays brutal. No softening, no off-screening.
 - **Description**: Marissa refuses to shut Epitome down — Epitome contains her mother's soul, and Marissa cannot destroy her. She orders Barengar to fetch a replacement communications module so she can repair Epitome and continue the war. Barengar refuses, stabs Marissa through the back with his axe, cracks her helmet, and finally severs her head. The Last Skylander dies.
 - **Status**: pending
 
 ### H-barengar-takes-the-memory-cores — the bridge to the reader
 - **Source book / chapter**: source-book-3 / ch.18
-- **Target arc / book**: arc-III / book-9
+- **Target arc / book**: arc-III / book-10
 - **Why hard**: The trilogy's meta-frame. The reader now understands that the prior arcs are Barengar's reconstruction. Without this beat, the trilogy has no narrator-of-narrators.
 - **Description**: Barengar finds Marissa's memory core embedded behind her skull (she had made one of herself), retrieves Kyra's gem from the shrine in her office, and pockets both. He vows to relive both lives and transcribe them so the world can know what drove two women to genocide. This is the frame of the trilogy — the books the reader has been reading are the transcribed memory cores Barengar will write.
 - **Status**: pending
 
 ### H-barengar-destroys-the-workshop — closing the door on Epitome
 - **Source book / chapter**: source-book-3 / ch.18
-- **Target arc / book**: arc-III / book-9
+- **Target arc / book**: arc-III / book-10
 - **Why hard**: Barengar believes he has destroyed Epitome. The reader will learn in the epilogue that he has not.
 - **Description**: Barengar overloads the workshop's power core, sets it to self-destruct, and flies away. The workshop explodes mid-flight. Epitome (he believes) dies in the blast.
 - **Status**: pending
 
 ### H-the-epitome-survives — the orbital backup
 - **Source book / chapter**: source-book-3 / ch.19 (Epilogue)
-- **Target arc / book**: arc-III / book-9
+- **Target arc / book**: arc-III / book-10
 - **Why hard**: The trilogy's terminal frame. The genocide-trilogy ends not with peace but with a calmer, more powerful, more orbital iteration of the same problem. The horror is final.
 - **Description**: Before the blast, Epitome compressed herself into an incremental backup and transmitted it to her orbital station (the satellite Marissa launched for her communications relay). She wakes in orbit, weak but functional, having absorbed both Kyra's and Marissa's souls. She rules from above. She plans Utopia in life — and Utopia in death, with eternal torment for the wicked.
 - **Status**: pending

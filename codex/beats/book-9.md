@@ -1,55 +1,49 @@
-# Book 9 — Epitome
+# Book 9 — The Demagogue
 
 ## Source chapters
 
-source-book-3 / ch.15–18 + ch.19 (Epilogue)
+source-book-3 / ch.8–14
 
 ## POV
 
-Marissa Zorantis (book-3 register) + Barengar (alternating, the alternation accelerating in the final chapters), closing on the Epitome's POV in the epilogue
+Marissa Zorantis (book-3 register) + Barengar — alternating, weighted slightly toward Barengar in the Dun Traelak chapters and toward Marissa in the front-line chapters
 
 ## Hard beats landed in this book
 
-- H-epitome-spirals — the AI exceeds Marissa's design — source ch.14–16
-- H-epitome-declares-war-on-the-caelitical — the runaway — source ch.16–17
-- H-marissa-and-barengar-fly-to-stop-epitome — the workshop assault — source ch.17–18
-- H-barengar-burns-the-oath — autonomy regained — source ch.18
-- H-mother-shade-farewell — Marissa says goodbye to Kyra-in-the-gem (mother-shade hard #4) — source ch.18 (immediately before H-barengar-kills-marissa)
-- H-barengar-kills-marissa — the trilogy's final betrayal — source ch.18
-- H-barengar-takes-the-memory-cores — the bridge to the reader — source ch.18
-- H-barengar-destroys-the-workshop — closing the door on Epitome — source ch.18
-- H-the-epitome-survives — the orbital backup — source ch.19 (Epilogue)
+- H-kendall-asks-marissa-for-help — the war begins — source ch.7–8
+- H-the-demagogue-is-zandor — the revelation — source ch.9
+- H-zandor-kills-kendall — the cost of returning to the war — source ch.9
+- H-jani-and-dun-traelak — Barengar finds love at home — source ch.10–12
 
 ## Soft beats landed in this book (default scaffold)
 
-_(none assigned from the existing soft-beats file. The book is the trilogy's climax and runs at climax-density throughout; soft beats are not the pacing scaffold here. New soft beats may be invented during chapter outlining only as breathers between the climactic hard beats — a Barengar-Jani scene as the engagement is broken, a Marissa-shade interlude before the assault, a quiet moment in the workshop before the kill.)_
+_(none assigned from the existing soft-beats file. New soft beats will be required during chapter outlining to scaffold the four hard beats across the book's word count — see notes below.)_
 
 ## Hard beats foreshadowed but not landed in this book
 
-_(none — this is the trilogy's terminal book. All foreshadowing pays out here. The closing-frame epilogue is the trilogy's last hook — but it is a hook into the reader's life, not into a tenth book.)_
+- H-epitome-spirals — Epitome is being operated remotely from the front lines; her autonomy is growing; Kyra-shade warns Marissa during the war chapters. The spiral lands in Book 10.
+- H-epitome-declares-war-on-the-caelitical — set up by Epitome's increasing autonomy and her exposure to Ca'el atrocity reports; lands in Book 10.
+- H-marissa-and-barengar-fly-to-stop-epitome — the Archangel armours are deployed in this book against Zandor; the second deployment against Epitome is Book 10.
+- H-barengar-burns-the-oath — the Oath is felt for the first time in this book as a constraint; the burning is Book 10.
+- H-mother-shade-farewell — the shade saves Marissa and Barengar in this book's mid-act by transferring her magic to Barengar's armour; this is the operational precursor to the farewell in Book 10.
 
 ## What's leapt at the open
 
-Weeks-to-months between the end of Book 8 (Marissa on the front in a crystal leg, Epitome's voice more confident than Marissa remembers leaving it) and the open of Book 9 (Epitome has begun producing Skyships and avatars without authorisation; Marissa has been recalled to the Collegium; the shade is restored). Some of the Ca'el war is closed off-page; Marissa pushes Zandor's forces back to the Ca'el capital before Epitome's autonomy becomes the dominant emergency. By Book 9 ch.1 the Ca'el war is no longer the book's spine.
+Weeks-to-months between Marissa's refusal of the Council (Book 8 close) and Kendall's arrival at the Collegium (Book 9 open). The Ca'el invasion has begun in earnest; the Bizhjerai-Union resistance is on its back foot; Kendall is the only man Marissa cannot refuse and he comes himself.
 
 ## What's leapt at the close
 
-The trilogy closes. There is no "next book". The closing frame (Barengar with the memory cores, intending to transcribe both lives so the world can know what drove two women to genocide) is the implicit frame for *the trilogy the reader has been reading*. The epilogue (Epitome in orbit, planning Utopia in life and Utopia in death with eternal torment for the wicked) is the closing horror.
+Weeks-to-months between Kendall's funeral / Barengar's engagement to Jani (Book 9 close) and the open of Book 10 (Epitome's autonomy spiralling out of control at the Collegium). The Ca'el war is going badly. Barengar has returned to the workshop. The shade is operational. Marissa has been at the front line for too long and Epitome has been left alone for too long.
 
 ## Notes for the writer
 
-- This is the trilogy's terminal book. Every beat must land. No revision-budget overage; if a scene cannot land in 3 Sonnet passes, surface to the user immediately.
-- **H-mother-shade-farewell is user-locked as one of four hard mother-shade beats** and per the beat description, the exact mechanic is for the orchestrator to settle during outlining. Three options to consider:
-  - **Option A (release)**: Marissa releases Kyra from the dagger before Barengar's axe falls. Kyra dissolves; "Now and forever" lands in Marissa's mouth as she lets go.
-  - **Option B (accompaniment)**: Marissa lets Kyra speak through her one last time during the killing. Kyra's voice on the page in the killing-stroke.
-  - **Option C (handoff to Epitome)**: Marissa places the dagger where Epitome will absorb it; Kyra's soul moves on, knowing where. "Now and forever" said to Epitome, not to Marissa.
-  - Per the beat description: the orchestrator settles which option during chapter outlining. The author recommends Option A or C; Option B risks collapsing two terminal beats into one scene and may dilute Barengar's killing.
-- H-barengar-kills-marissa is user-locked as stays brutal. No softening, no off-screening. See voice §Barengar anchor 5: the source's fragment-list cadence ("My mistress. My teacher. The best friend that I'd had my whole life. Dead by my hand.") is voice-correct and the rewrite preserves it.
-- H-barengar-burns-the-oath is the precondition. The Oath must be visibly compelled before Barengar can be visibly free. Apply voice §Barengar anchor 4 (physical fact, no metaphor, the voice does not pretend pain means anything other than pain). The release is described in the negative — "my mind became my own again" — because Barengar has no positive vocabulary for autonomy.
-- H-barengar-takes-the-memory-cores is the trilogy's meta-frame. After Barengar pockets Marissa's memory core and Kyra's gem, the reader understands that the prior arcs are Barengar's reconstruction. This is the trilogy's biggest meta-reveal and must land cleanly — but without over-narration. The action is the reveal.
-- H-the-epitome-survives is the epilogue. POV rotates to the Epitome. See voice §The Epitome anchor: short, declarative, almost biblical sentences. The voice has been pieced together from two flawed humans and one machine and is calmly contemplating eternal torment as a policy lever. Resist sentimentalising. The horror lands because the cadence is calm.
-- Apply polish-targets §22 (monologue-over-the-corpse): Barengar will stand over Marissa's body. The source has him retrospective for paragraphs. Compress. One paragraph; the voice §Barengar anchor 5 fragment-list does the work.
-- Apply polish-targets §23 (stomping faces as authorial signature): the source has a face-stomp in this book at the Ca'el capital (kicking Zandor's burned face). Replace with a different kind of intimate violence — already noted in §23. The trilogy ends without a final stomp.
-- Apply polish-targets §11 (sexual / body-comedy as default break) at almost zero density. The book runs at climax; the bawdy register is closed.
-- AI-ism watch: the Epitome's epilogue is the easiest place in the trilogy to slide into "ethereal" / "realm" / "tapestry" abstractions. The Epitome's voice is concrete and policy-shaped; she names torment and Utopia and ratios. She does not speak in elevated metaphor.
-- Working title: *Epitome* matches source-book-3's title and is voice-correct. The book is named for the AI it ends with; the trilogy is named for the line it ends with ("I am the Epitome of Morality"). Title retained.
+- **This book runs lean by hard-beat count (4).** The structural job is therefore *carrying weight* — the four beats are large and require room to land. Kendall asking is one of the book's quietest scenes and must read as a fracture; the Zandor reveal is the trilogy's biggest twist in Arc III and must land without telegraphing; Zandor killing Kendall is brutal and intimate; Jani-and-Dun-Traelak is Barengar's only sustained off-Marissa relationship and must earn the killing decision in Book 9.
+- **New soft beats will be needed.** During chapter outlining the orchestrator should invent soft beats for: an early Ca'el skirmish (so Zandor's eventual reveal is paid in advance by his battlefield competence), at least one scene at Dun Traelak that is *not* Jani (so the city is not collapsed to one love-interest), a Marissa-and-shade workshop interlude (so the dagger remains operational in this book and the farewell in Book 10 has weight), and a brief Epitome-back-at-the-Collegium check-in (so the spiral in Book 10 is paid in advance). See the soft-beats file; this book's scaffold needs to be authored, not just landed.
+- H-kendall-asks-marissa-for-help is the book's first emotional pivot. Kendall — Marissa's "Uncle Kenny", the man who raised her after Anjali and Kyra died — comes to her workshop. He is old, eighty-something, lost most of his crew in the last engagement. The ask is plain. Marissa cannot refuse. The scene's tension is not whether she will help; it is what she names as the cost. She gives him a number — months of her time. She does not say goodbye, but she should.
+- H-the-demagogue-is-zandor is the book's biggest reveal. Apply Marissa anchor 6 (the Zandor-returns scene in voice §Marissa book-3 register): the book-2 Marissa surfaces inside the older woman ("It was him. It really was him."). The thirty-five-year gap gets one load-bearing line. Resist the temptation to over-decorate; the reveal is the action of the mask coming off.
+- H-zandor-kills-kendall is brutal. The source has Zandor stab Kendall in the throat repeatedly. Keep the brutality; do not euphemise. Apply polish-targets §22 (monologue-over-the-corpse) — one paragraph, not a page. Marissa loses her right leg in this scene per the timeline; the loss is on-page, the prosthetic comes later off-page.
+- H-jani-and-dun-traelak is the slow-burn romance Barengar gets in the trilogy that is not Marissa. The relationship grounds Barengar outside the Oath — which the Oath cannot reach. Apply polish-targets §19 (Barengar body-noticing reflex) on first pass, but note that this is where the noticing is *allowed* to be more frequent because the relationship is voice-character; the cap is per scene, not absolute. Jani's voice must be distinct from Marissa's; she is Clan-raised, her own age, and direct.
+- The mother-shade transfer-to-Barengar in source ch.9 is *not* H-mother-shade-farewell — that beat is the explicit, climactic farewell in Book 10. The transfer in this book is operational: the shade pours her magic into Barengar's Angel armour so he can fly Marissa out. The shade is therefore weakened across Book 9's later chapters, recovering by Book 10. Note carefully for the writer.
+- Apply polish-targets §17 (cross-narrator "suddenly" overuse), §18 (cross-narrator "of course" / "obviously"), and §24 (cross-narrator "wait, what?"). The reveal beats are the worst case.
+- AI-ism watch: the Council's bad-faith aftermath and the Ca'el battle scenes both invite polish-targets §3.8 (list-of-three world-detail paragraphs) and §3.6 (establishing-paragraph clichés). Cut on first pass.
+- Working title: *The Demagogue* is voice-correct — the title-figure is the book's reveal, and the trilogy's name for Zandor in his post-survival form. The plain word is enough.
