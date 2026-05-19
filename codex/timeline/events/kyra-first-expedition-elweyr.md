@@ -2,11 +2,18 @@
 id: kyra-first-expedition-elweyr
 name: Kyra's First Expedition to the Elweyr Forest
 type: event
-when: roughly 20+ years before Ch 1 (before Marissa's birth)
+when: ~12-13 years before Book 2 Ch 1
 where: elweyr-forest
-first_appearance: null
+book: 1
+chapters: [9, 10, 11]
+pov: kyra
+first_appearance: book-1/ch-9
 last_updated_scene: null
 ---
+
+> **STATUS**: Demoted from pre-story to on-page (book 1). The on-page version is split between `first-expedition-launches.md` and `kyra-meets-anjali.md`. This file kept as a back-compat pointer.
+
+
 
 # Kyra's First Expedition to the Elweyr Forest
 

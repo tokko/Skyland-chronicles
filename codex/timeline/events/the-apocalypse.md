@@ -2,11 +2,18 @@
 id: the-apocalypse
 name: The Apocalypse
 type: event
-when: centuries before Ch 1 (exact date unknown)
-where: unknown
+when: centuries before Book 1 Ch 1 (no on-page scene)
+where: unknown (pre-Apocalypse civilisation)
+book: pre-story
+chapters: []
+pov: null
 first_appearance: null
 last_updated_scene: null
 ---
+
+> **STATUS**: Retained as pre-story but ENRICHED by book 3 ch 3 and ch 13: pre-Apocalypse mages discovered magic via an experiment at a place called "Saern." The ancient civilisation used electricity-based technology (read about in pre-Apocalypse machines Marissa later finds in a bunker). The collapse came from saturating the magic field with too many opened ley-line crossings, triggering Wild Magic. Most of humanity died. Survivors founded the Skylands and other peoples. The pre-Apocalypse spell that created the savages also became the basis for the Reavers (which Grasax developed centuries later).
+
+
 
 # The Apocalypse
 

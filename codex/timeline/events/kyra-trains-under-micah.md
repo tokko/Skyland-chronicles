@@ -2,11 +2,18 @@
 id: kyra-trains-under-micah
 name: Kyra Trains as Guard Under Micah
 type: event
-when: decades before Ch 1
+when: ~15-20 years before Book 2 Ch 1 (deep backstory)
 where: skylands
+book: pre-story (referenced in book 1 ch 2)
+chapters: []
+pov: null
 first_appearance: null
 last_updated_scene: null
 ---
+
+> **STATUS**: Retained as pre-story (deeper backstory). Kyra's tenure in the Guard is briefly mentioned in book 1 ch 2 ("Back when I was in the Guard we never had toys that awesome... my stint in law enforcement had been short, the corruption in the leadership and the poor pay had driven me to the mercenary life"). She was a Guardsman, not specifically under Micah on-page — the Micah connection is implied from book 2 ch 1 onward where they recognise each other.
+
+
 
 # Kyra Trains as Guard Under Micah
 

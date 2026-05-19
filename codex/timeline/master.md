@@ -2,90 +2,152 @@
 
 Chronological index of every major event. The source of truth for "when did X happen relative to Y."
 
-**Status: populated after manuscript ingest (Book 1 source).**
-
-## Format
-
-Each row anchors an in-world time to one or more event slugs and the scene(s) that establish it.
-
-| In-world time | Event slug | Scene reference | Notes |
-| ------------- | ---------- | --------------- | ----- |
+**Scope**: All three source books are ingested. Book 1 = Kyra POV (the prequel). Book 2 = Marissa POV (the original manuscript). Book 3 = Marissa + Barengar POV (the sequel). All in-world time anchors are relative to Book 2 Ch 1 (story-day 0). Absolute dates do not exist in the source.
 
 ---
 
-## Pre-story events
+## Pre-story (deep backstory, never on-page in any book)
 
-Backstory referenced by characters or the world. Dated relative to Ch 1 (story-day 0). Absolute dates not available in the text.
-
-| In-world time | Event slug | Scene reference | Notes |
-| ------------- | ---------- | --------------- | ----- |
-| Centuries before Ch 1 | [the-apocalypse](events/the-apocalypse.md) | Ch 27 (Genocide) | Ancient world-ending event; pre-Apocalypse Mages created the savage precursor race |
-| Generations before Ch 1 | [founding-of-the-skylands](events/founding-of-the-skylands.md) | Ch 23 (Planning betrayal) | Refugees from destroyed civilisation build floating colony; adapt Grasax's shield tower |
-| Decades before Ch 1 | [kyra-trains-under-micah](events/kyra-trains-under-micah.md) | Multiple early chapters | Kyra trained as Guard by Micah; foundation of her abilities and relationship |
-| ~20+ years before Ch 1 | [kyra-first-expedition-elweyr](events/kyra-first-expedition-elweyr.md) | Ch 13 (Turncloak); Ch 9 | Kyra and Alissa's early expedition; Marissa's birth mother dies in Elweyr (timing ambiguous) |
-| ~20+ years before Ch 1 | [kyra-anjali-partnership](events/kyra-anjali-partnership.md) | Ch 6; Ch 27 | Kyra and Anjali become life partners; Anjali later bears Marissa |
-| ~13–15 years before Ch 1 | [duel-with-grasax](events/duel-with-grasax.md) | Ch 6; Ch 28 | Kyra kills liche Grasax; Anjali fatally stabbed; Uralnor tattoos Kyra; Iolan killed after cremation |
-| ~10–11 years before Ch 1 | [battle-of-dun-traelak](events/battle-of-dun-traelak.md) | Ch 23; Ch 27 | Skylander army besieges Dun Traelak; Anjali dies in or after the breach; Micah withdraws |
-| ~10 years before Ch 1 | [utopeia-fall](events/utopeia-fall.md) | Ch 23; Ch 25; Ch 27 | Kyra mounts Malkareth and destroys Utopeia; millions killed; Kyra becomes liche; Marissa's father dies; Marissa survives as a child |
-| ~9 years before Ch 1 | [anjali-memory-core-delivered](events/anjali-memory-core-delivered.md) | Ch 6 and early chapters | ~1 year after Kyra left; spell-bug delivers Anjali's memory core to Marissa |
-| ~10 to ~1 years before Ch 1 | [marissa-raised-dun-traelak](events/marissa-raised-dun-traelak.md) | Ch 1; Ch 28 | Marissa grows up in Dun Traelak under Kendall and Alissa; grandmother dies ~7 years before Ch 1 |
-| Before Ch 1 | [marissa-bizhjerai-rune-tattooed](events/marissa-bizhjerai-rune-tattooed.md) | Ch 22; Ch 24; Ch 25; Ch 26 | Marissa receives the Bizhjerai Rune; Alissa applies disguise tattoo over it for the mission |
-| Ongoing at Ch 1 | [kendall-expedition-great-geyser](events/kendall-expedition-great-geyser.md) | Ch 1 | Kendall's three-ship expedition away from Dun Traelak when story opens |
+| In-world time | Event slug | Notes |
+| ------------- | ---------- | ----- |
+| Centuries before Book 1 | [the-apocalypse](events/the-apocalypse.md) | Pre-Apocalypse civilisation; magic flooded the world; Wild Magic broke everything. Enriched by book 3 ch 3 and ch 13 details (Saern, electricity, the original mage uprising). |
+| Generations before Book 1 | [founding-of-the-skylands](events/founding-of-the-skylands.md) | Refugees build floating colony. Never on-page; referenced only in retrospect. |
+| ~15-20 years before Book 2 Ch 1 | [kyra-trains-under-micah](events/kyra-trains-under-micah.md) | Kyra's stint in the Guard. Briefly mentioned in book 1 ch 2; never narrated. |
 
 ---
 
-## Story timeline
+## Book 1 — The Skyland Chronicles (Kyra POV)
 
-Events that occur on-page across the manuscript. Timeline is relative to story-day 0 (Marissa departs for the Groundlands in Ch 1).
+Book 1 spans roughly two to three years of Kyra's life, culminating in her death and the fall of the Skylands. Marissa (book 2 protagonist) is a child throughout, ~11-13 years old.
 
 | In-world time | Event slug | Scene reference | Notes |
 | ------------- | ---------- | --------------- | ----- |
-| Story-day 0 | [gereon-death-ball](events/gereon-death-ball.md) | Ch 1 (Journey begins) | Gereon killed; Marissa's "Mary" cover established; departs for Groundlands |
-| Story-days 1–3 | [arrival-at-groundlands](events/arrival-at-groundlands.md) | Ch 2 (Arrival) | Marissa integrates as Construction Mage; meets Micah |
-| Story-weeks 2–4 | [first-ley-line-opened](events/first-ley-line-opened.md) | Ch 4 (North); Ch 5 (Power unleashed) | First artificial ley line crossing to the north brought online |
-| Story-weeks 2–4 | [first-savage-encounter](events/first-savage-encounter.md) | Ch 6 (Apparition) | First savage attack at a stream; Kyra manifests as ghost for the first time |
-| Story-months 1–2 | [receiver-tower-completed](events/receiver-tower-completed.md) | Ch 8 (You must construct additional pylons) | Central receiver tower complete; Groundlands formally named by Micah |
-| Story-months 1–2 | [kendall-mountain-confrontation](events/kendall-mountain-confrontation.md) | Ch 9 (An unexpected visitor) | Kendall arrives; Kyra manifests to defuse confrontation |
-| Story-months 2–3 | [alissa-arrives-undercover](events/alissa-arrives-undercover.md) | Ch 13 (Turncloak) | Alissa arrives as "Alana Kelvari" with blue-dyed hair |
-| Story-months 2–3 | [farmers-murdered](events/farmers-murdered.md) | Ch 14 (Intent does not matter); Ch 17 (Epiphany) | Micah orders ~200 farmers killed; Brengar leads kill-team |
-| Story-months 3–4 | [brengar-assassinated](events/brengar-assassinated.md) | Ch 18 (Unexpected assault) | Alissa kills Brengar; kills unknown man who recognised Marissa |
-| Story-months 3–4 | [mathias-varl-arrives](events/mathias-varl-arrives.md) | Ch 19 (An old man come to visit) | Varl arrives with the Prowler; blows Marissa's cover; she is arrested |
-| Story-months 3–4 | [trial-alissa-killed](events/trial-alissa-killed.md) | Ch 20 (Trial) | Marissa publicly tried; forced to kill Alissa |
-| Story-months 4–5 | [red-flare-savage-trap](events/red-flare-savage-trap.md) | Ch 21 (Red flare) | North tower red flare; party investigates; savage ambush |
-| Story-months 4–5 | [cave-battle-egg-chambers](events/cave-battle-egg-chambers.md) | Ch 22 (Savages); Ch 23 (Planning betrayal) | Cave battle; egg chambers discovered and burned; Valia and Felaan die |
-| Story-months 4–5 | [north-tower-destroyed](events/north-tower-destroyed.md) | Ch 23 (Planning betrayal) | Savages destroy the north focusing tower; massive magical saturation triggers egg hatching |
-| Story-months 4–5 | [marissa-plans-sabotage](events/marissa-plans-sabotage.md) | Ch 23 (Planning betrayal) | Marissa finalises four-part sabotage plan; finds Alissa's poison jug |
-| Story-months 5–6 | [savage-horde-battle](events/savage-horde-battle.md) | Ch 24 (A savage horde) | ~30,000 savages assault the northern wall; defeated; Marissa plants bombs during the battle |
-| Story-months 5–6 | [sentry-killed-poison-administered](events/sentry-killed-poison-administered.md) | Ch 24 (A savage horde) | Night after horde battle; sentry killed; poison in water supply; Bizhjerai fleet signalled |
-| Story-months 5–6 | [bizhjerai-assault-begins](events/bizhjerai-assault-begins.md) | Ch 25 (Betrayal) | Bizhjerai fleet arrives; Marissa destroys shield tower; kills Micah and Mage; Zandor shot |
-| Story-months 5–6 | [battle-in-the-skies](events/battle-in-the-skies.md) | Ch 26 (Battle in the skies) | Aerial battle; Prowler destroyed; Marissa fights alongside Kyra on Kendall's flagship |
-| Story-months 5–6 | [destruction-of-groundlands](events/destruction-of-groundlands.md) | Ch 27 (Genocide) | ~11,000 Skylanders killed; Groundlands reduced to rubble; Wild Magic forms; Zandor apparently escapes |
-| Story-months 8–9 | [marissa-leaves-dun-traelak](events/marissa-leaves-dun-traelak.md) | Ch 28 (Epilogue) | Months after genocide; Marissa departs Dun Traelak alone to return to Groundlands and atone |
+| Years before Ch 1 | (Kyra is a mercenary in the Skylands; her father has been executed by the government; her mother lives in the Undercity; she is friends with Kendall) | Ch 1-3 | Establishing the Skylander society. |
+| Ch 1 | (Stardust raid; Kyra kills a child by accident) | Ch 1 | The wound that haunts her. |
+| Ch 2-3 | (Markus assassination; murder for Kendall) | Ch 2-3 | Establishes the moral cost of Skylander life. |
+| ~weeks later | [dragonkin-invasion-skylands](events/dragonkin-invasion-skylands.md) | Ch 4-5 | The dragon Savistlin attacks; Kyra becomes Dragonbane; Greg dies. |
+| same day | [greg-killed-marissa-adopted](events/greg-killed-marissa-adopted.md) | Ch 4-8 | Marissa (Greg's daughter, the future protagonist of book 2) orphaned and brought into Kyra's family. |
+| ~month later | [first-expedition-launches](events/first-expedition-launches.md) | Ch 7-9 | The Pioneer departs. |
+| within weeks | [kyra-meets-anjali](events/kyra-meets-anjali.md) | Ch 9-13 | First contact with the Bizhjerai; the bear; Anjali captures Kyra; the trial. |
+| weeks later | [outcast-raid-bizhjerai-camp](events/outcast-raid-bizhjerai-camp.md) | Ch 15-16 | Outcasts abduct ~70; Bizhjerai resolve to assault Dun Traelak. |
+| weeks later | [clan-alliance-and-march-to-dun-traelak](events/clan-alliance-and-march-to-dun-traelak.md) | Ch 17-19 | Alliance with Clan Ithlak; Iolan's marriage demand; scouting Dun Traelak. |
+| days later | [dun-traelak-shield-tower-destroyed](events/dun-traelak-shield-tower-destroyed.md) | Ch 20-23 | The infiltration; the shield falls; Kyra duels Grasax; Kyra loses her arm; Anjali survives a gut wound; Kyra half-Archons. SUPERSEDES [duel-with-grasax](events/duel-with-grasax.md). |
+| weeks later | [kyra-archon-tattoos-and-adoption](events/kyra-archon-tattoos-and-adoption.md) | Ch 25-29 | Soul wounds tattooed by Uralnor; Kyra adopted into Clan Bizhjerai; the Bizhjerai Rune. SUPERSEDES Kyra's portion of [kyra-anjali-partnership](events/kyra-anjali-partnership.md). |
+| months later | [malkareth-hatched](events/malkareth-hatched.md) | Ch 30-34 | The dragon egg; the hatching; the bond. |
+| ~6 months later | [skylander-colony-arrives](events/skylander-colony-arrives.md) | Ch 36-41 | The Hand of Glory arrives on the coast; Kendall defects; Marissa, grandmother and Kendall move to Dun Traelak. |
+| ~year later | [skylander-clan-war-summer-raids](events/skylander-clan-war-summer-raids.md) | Ch 42-44 | The summer of raids. |
+| winter | [siege-of-dun-traelak-and-fists-of-heaven](events/siege-of-dun-traelak-and-fists-of-heaven.md) | Ch 45-48 | The Skylander winter siege; Anjali's father dies; Fists of Heaven arrive; Anjali becomes Chief. SUPERSEDES the prior interpretation of [battle-of-dun-traelak](events/battle-of-dun-traelak.md). |
+| midsummer | [assault-on-utopeia-colony](events/assault-on-utopeia-colony.md) | Ch 49-50 | The united Clans assault the Utopeia colony; Anjali killed by stray bullet; the colony destroyed. |
+| days later | [kyra-becomes-liche](events/kyra-becomes-liche.md) | Ch 50-51 | Iolan killed at the funeral; Kyra stabs herself with Grasax's dagger and becomes a liche. |
+| ~3-4 days later | [kyra-destroys-skylands](events/kyra-destroys-skylands.md) | Ch 51 | Kyra and Malkareth drain the Great Geyser; the Skylands fall; both die; the memory core is created. SUPERSEDES portion of [utopeia-fall](events/utopeia-fall.md). |
+| ~year later | [anjali-memory-core-delivered](events/anjali-memory-core-delivered.md) | Epilogue | The spell-beast delivers the memory gem to Marissa. (The gem is Kyra's, not Anjali's — see file.) |
+
+### Book 1 status
+
+Of the 12 pre-story slugs in the existing codex, 8 have been DEMOTED to on-page:
+
+- `the-apocalypse` — STILL pre-story (enriched by book 3 details).
+- `founding-of-the-skylands` — STILL pre-story.
+- `kyra-trains-under-micah` — STILL pre-story (briefly mentioned).
+- `kyra-first-expedition-elweyr` — DEMOTED. On-page in book 1 ch 9-11. See [first-expedition-launches](events/first-expedition-launches.md) and [kyra-meets-anjali](events/kyra-meets-anjali.md).
+- `kyra-anjali-partnership` — DEMOTED. On-page in book 1 ch 11-29. See [kyra-meets-anjali](events/kyra-meets-anjali.md) and [kyra-archon-tattoos-and-adoption](events/kyra-archon-tattoos-and-adoption.md).
+- `duel-with-grasax` — DEMOTED. On-page in book 1 ch 22-23. See [dun-traelak-shield-tower-destroyed](events/dun-traelak-shield-tower-destroyed.md).
+- `battle-of-dun-traelak` — DEMOTED. On-page in book 1 ch 45-48. See [siege-of-dun-traelak-and-fists-of-heaven](events/siege-of-dun-traelak-and-fists-of-heaven.md).
+- `utopeia-fall` — DEMOTED and SPLIT. On-page in book 1 ch 49-51. See [assault-on-utopeia-colony](events/assault-on-utopeia-colony.md) and [kyra-destroys-skylands](events/kyra-destroys-skylands.md).
+- `anjali-memory-core-delivered` — DEMOTED. On-page in book 1 epilogue. Same slug, updated content.
+- `marissa-raised-dun-traelak` — DEMOTED (partially). On-page in book 1 epilogue. See [marissa-childhood-with-kendall](events/marissa-childhood-with-kendall.md).
+- `marissa-bizhjerai-rune-tattooed` — STILL backstory (Marissa's own rune is between-books; Kyra's is on-page in book 1).
+- `kendall-expedition-great-geyser` — On-page (referenced) in book 2 ch 1.
 
 ---
 
-## Conflicts and ambiguities
+## Book 2 — The Last Skylander (Marissa POV)
 
-Timeline contradictions surfaced during extraction. None have been resolved; all require author input.
+Book 2 events are unchanged from the prior extraction. See [event files](events/) for full slugs. Story-day 0 = Marissa's departure for the Groundlands.
 
-### 1. Anjali's death location (battle-of-dun-traelak vs. utopeia)
+| In-world time | Event slug | Scene reference | Notes |
+| ------------- | ---------- | --------------- | ----- |
+| Story-day 0 | [gereon-death-ball](events/gereon-death-ball.md) | Book 2 Ch 1 | Gereon killed; mission begins. |
+| Story-days 1–3 | [arrival-at-groundlands](events/arrival-at-groundlands.md) | Book 2 Ch 2 | Marissa integrates as Construction Mage. |
+| Story-weeks 2–4 | [first-ley-line-opened](events/first-ley-line-opened.md) | Book 2 Ch 4-5 | First artificial ley line crossing. |
+| Story-weeks 2–4 | [first-savage-encounter](events/first-savage-encounter.md) | Book 2 Ch 6 | First savage attack; Kyra-shade first manifests. |
+| Story-months 1–2 | [receiver-tower-completed](events/receiver-tower-completed.md) | Book 2 Ch 8 | "Groundlands" named. |
+| Story-months 1–2 | [kendall-mountain-confrontation](events/kendall-mountain-confrontation.md) | Book 2 Ch 9 | Kendall arrives; Kyra-shade defuses. |
+| Story-months 2–3 | [alissa-arrives-undercover](events/alissa-arrives-undercover.md) | Book 2 Ch 13 | Alissa arrives. |
+| Story-months 2–3 | [farmers-murdered](events/farmers-murdered.md) | Book 2 Ch 14, 17 | ~200 farmers killed. |
+| Story-months 3–4 | [brengar-assassinated](events/brengar-assassinated.md) | Book 2 Ch 18 | Alissa kills Brengar. |
+| Story-months 3–4 | [mathias-varl-arrives](events/mathias-varl-arrives.md) | Book 2 Ch 19 | Varl arrives; Marissa arrested. |
+| Story-months 3–4 | [trial-alissa-killed](events/trial-alissa-killed.md) | Book 2 Ch 20 | Trial; Marissa forced to kill Alissa. |
+| Story-months 4–5 | [red-flare-savage-trap](events/red-flare-savage-trap.md) | Book 2 Ch 21 | North tower red flare. |
+| Story-months 4–5 | [cave-battle-egg-chambers](events/cave-battle-egg-chambers.md) | Book 2 Ch 22-23 | Cave battle; Valia, Felaan die. |
+| Story-months 4–5 | [north-tower-destroyed](events/north-tower-destroyed.md) | Book 2 Ch 23 | North focusing tower destroyed. |
+| Story-months 4–5 | [marissa-plans-sabotage](events/marissa-plans-sabotage.md) | Book 2 Ch 23 | Four-part plan finalised. |
+| Story-months 5–6 | [savage-horde-battle](events/savage-horde-battle.md) | Book 2 Ch 24 | ~30,000 savages attack; bombs planted. |
+| Story-months 5–6 | [sentry-killed-poison-administered](events/sentry-killed-poison-administered.md) | Book 2 Ch 24 | Sentry killed; fleet signalled. |
+| Story-months 5–6 | [bizhjerai-assault-begins](events/bizhjerai-assault-begins.md) | Book 2 Ch 25 | Fleet arrives; Micah killed. |
+| Story-months 5–6 | [battle-in-the-skies](events/battle-in-the-skies.md) | Book 2 Ch 26 | Prowler destroyed. |
+| Story-months 5–6 | [destruction-of-groundlands](events/destruction-of-groundlands.md) | Book 2 Ch 27 | ~11,000 Skylanders killed; Wild Magic forms. |
+| Story-months 8–9 | [marissa-leaves-dun-traelak](events/marissa-leaves-dun-traelak.md) | Book 2 Ch 28 | Marissa leaves for the Groundlands ruins. |
 
-**Ch 27** states that Anjali was "wounded, defeated, in the breach at Utopeia." But the plot logic requires Anjali to have died during the Skylander siege of Dun Traelak — the Bizhjerai city, not Utopeia (the Skylander city). Kyra then destroyed Utopeia in retaliation for Anjali's death. If Anjali died at Utopeia, Kyra would have had to attack the Skylander city that Anjali had already penetrated, which makes no sense.
+---
 
-**Most likely explanation**: "Utopeia" in Ch 27 is a drafting error; should read "Dun Traelak." Flagged for author correction.
+## Between books 2 and 3
 
-### 2. Marissa's age at the time of Utopeia
+Roughly 35 years elapse between the end of book 2 and the bulk of book 3.
 
-The text gives conflicting indicators for how old Marissa was when Utopeia was destroyed (~10 years before Ch 1). Different scenes imply she was anywhere from ~6 to ~14 at the time. Her current age at Ch 1 is therefore ambiguous. This affects character sheets and any scene where age is referenced.
+| In-world time | Event slug | Scene reference | Notes |
+| ------------- | ---------- | --------------- | ----- |
+| Years after Book 2 | [marissa-founds-college-of-mages](events/marissa-founds-college-of-mages.md) | Book 3 ch 1+ | The Collegium of Mages. |
 
-### 3. Micah burned by Kyra at Utopeia vs. Micah alive in the story
+---
 
-Marissa recalls that Kyra "burned Micah" during the Utopeia attack. Yet Micah leads the Skylander survivors across the intervening decade and appears in full health from Ch 2 onward. Whether he survived the burning, was healed, or whether "burned" is used loosely (e.g., "burned" his forces rather than him personally) is unresolved.
+## Book 3 — Epitome (Marissa + Barengar POV)
 
-### 4. Varl's location at death
+Book 3 covers Marissa as an older woman, her mature work on Epitome and the satellite network, and the Ca'el war led by Zandor (presumed dead, secretly alive).
 
-In Ch 25, Marissa kills a Mage near the shield tower who had accompanied Micah (using her enchanted sword). In Ch 26, she tells Kendall "Mathias Varl might be on the Prowler." If the Mage she killed was not Varl, Varl presumably died on the Prowler. If it was Varl, her uncertainty in Ch 26 is a lapse in the narrative. The text does not resolve this definitively.
+| In-world time | Event slug | Scene reference | Notes |
+| ------------- | ---------- | --------------- | ----- |
+| Ongoing | [marissa-founds-college-of-mages](events/marissa-founds-college-of-mages.md) | Book 3 Ch 1-5 | The school established decades earlier; Marissa in mid-fifties. |
+| Book 3 Ch 1-2 | [savages-as-precursors-revealed](events/savages-as-precursors-revealed.md) | Book 3 Ch 1, 2 | The deoch draoidheil identified as pre-Apocalypse precursors. Lands book 2 ch 28 foreshadowing. |
+| Book 3 Ch 3-13 | [marissa-builds-epitome](events/marissa-builds-epitome.md) | Book 3 Ch 3-13 | The Epitome of Morality project. |
+| Book 3 Ch 8-9 | [zandor-returns-as-demagogue](events/zandor-returns-as-demagogue.md) | Book 3 Ch 8-9 | Zandor revealed; Kendall killed; Marissa loses her right leg. |
+| Book 3 Ch 18-19 | [marissa-killed-by-barengar](events/marissa-killed-by-barengar.md) | Book 3 Ch 18-19 | Marissa dies; Epitome absorbs her soul; backup survives in orbit. |
 
-### 5. Marissa's birth mother vs. Anjali
+---
 
-The text establishes a three-parent structure: Marissa has a biological father (killed at Utopeia), a biological mother who "died in the Elweyr forest," and Anjali ("mom") who raised her. But the precise relationship between the Elweyr expedition, Anjali, and Marissa's biological mother is never fully explained. Whether Anjali was present at the Elweyr expedition where the biological mother died is not stated.
+## Resolution of timeline ambiguities
+
+The 5 ambiguities flagged in the original timeline-summary are now resolved or refined:
+
+### #1 — Anjali's death location (Utopeia vs Dun Traelak)
+
+**RESOLVED.** Book 1 ch 50 makes clear: Anjali died at the breach of the Utopeia COLONY (on the mainland), killed by a stray bullet to the head. Not at Dun Traelak, where she had been gut-wounded years earlier by Grasax's staff (book 1 ch 22) and survived. The book 2 ch 27 reference ("wounded, defeated, in the breach at Utopeia") is consistent with the Utopeia COLONY death, not the Skylands floating-city event. See [assault-on-utopeia-colony](events/assault-on-utopeia-colony.md).
+
+### #2 — Marissa's age at Utopeia
+
+**RESOLVED.** Marissa is approximately 11 at the Dragonkin invasion (book 1 ch 4-8). She is approximately 12 at the marketplace reunion (book 1 ch 41). She is approximately 13 when Anjali dies and Kyra goes to destroy the Skylands (book 1 ch 50-51). By book 2 ch 1 (~10 years later) she is approximately 22-23. The earlier ambiguity stemmed from conflating two separate Utopeia events. See [marissa-childhood-with-kendall](events/marissa-childhood-with-kendall.md).
+
+### #3 — Micah "burned" at Utopeia
+
+**RESOLVED.** Most likely Micah was burned during Kyra's rampage at the destruction of the Utopeia COLONY (book 1 ch 50), survived, evacuated to the floating Skylands, and was one of the ~10,000 survivors when the Skylands themselves fell. Marissa's memory in book 2 ("she burned Micah") collapses both events. See [assault-on-utopeia-colony](events/assault-on-utopeia-colony.md) and [kyra-destroys-skylands](events/kyra-destroys-skylands.md).
+
+### #4 — Varl's location at death
+
+**REFINED, STILL AMBIGUOUS for book 2.** Book 3 ch 9 reveals Mathias Varl was alive AFTER the destruction of the Groundlands — he trained Zandor in magic and remains alive (off-page) into book 3. The Mage Marissa killed at the shield tower in book 2 ch 25 was NOT Varl. Whether Varl was even on the Prowler at the time of book 2 ch 26 is now answered: probably not. The book 2 self-references to uncertainty are valid — Marissa never confirmed his death because he did not die there. He survived and went south.
+
+### #5 — Marissa's birth mother vs Anjali
+
+**RESOLVED.** Book 1 establishes the full parental structure:
+
+- **Biological father**: Greg, mercenary, killed by fireball in the Dragonkin invasion (book 1 ch 4). NOT killed at Utopeia.
+- **Biological mother**: An unnamed woman who died in the Undercity years before book 1 ch 1 (book 1 ch 4: "His wife died years ago"). NOT in the Elweyr forest. The Elweyr-forest birth-mother story in book 2 is Marissa's own confused understanding; her birth mother actually died in the Undercity in her infancy.
+- **Adoptive grandmother (Skylander)**: Kyra's mother. Takes Marissa in (book 1 ch 6). Lives with Marissa in Dun Traelak after defection. Dies peacefully ~7 years before book 2 ch 1.
+- **Adoptive mothers (Bizhjerai)**: Kyra and Anjali — through marriage and adoption in the Bizhjerai marketplace (book 1 ch 41). Kyra is "mother"; Anjali is "mom."
+
+See [greg-killed-marissa-adopted](events/greg-killed-marissa-adopted.md) and [marissa-childhood-with-kendall](events/marissa-childhood-with-kendall.md).
+
+## New ambiguities introduced
+
+- **Mathias Varl's location after book 2** — Resolved (book 3 ch 9 reveals he survived) but raises a question: when and how did he escape from the Prowler/Groundlands cataclysm? Book 3 does not narrate.
+- **Epitome's true ethical alignment** — by trilogy's end, Epitome wields the souls of Kyra AND Marissa and intends to rule the world. Whether she is a benevolent governing AI or the next iteration of the cycle (each generation more powerful, less human) is left open. Series-end ambiguity by design.
+- **Mathias Varl's fate** — does he survive book 3? Not narrated on-page in book 3 ch 19; left dangling.

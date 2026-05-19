@@ -2,11 +2,18 @@
 id: marissa-raised-dun-traelak
 name: Marissa Raised in Dun Traelak by Kendall and Alissa
 type: event
-when: ~10 to ~0 years before Ch 1 (childhood and adolescence)
+when: ~10 to ~0 years before Book 2 Ch 1
 where: dun-traelak
-first_appearance: null
+book: 1 (epilogue) and inferred-between
+chapters: [book-1/epilogue]
+pov: marissa
+first_appearance: book-1/epilogue
 last_updated_scene: null
 ---
+
+> **STATUS**: Demoted from pre-story to on-page (book 1 epilogue is on-page; the rest is between-books continuity). Full on-page account in `marissa-childhood-with-kendall.md`. This file kept as a back-compat pointer.
+
+
 
 # Marissa Raised in Dun Traelak by Kendall and Alissa
 

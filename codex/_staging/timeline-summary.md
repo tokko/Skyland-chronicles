@@ -1,81 +1,89 @@
 # Timeline Extraction Summary
 
-## Counts
+## Counts (all three source books)
 
-- **Pre-story events**: 12
-- **On-page story events**: 22
-- **Total event files created**: 34
-- **Timeline conflicts / ambiguities flagged**: 5
+| Source | On-page events | Pre-story / backstory | Total |
+| --- | --- | --- | --- |
+| Book 1 (Kyra POV, 51 chapters) | 13 new + 8 demoted-from-pre-story | 0 | 13 new event files |
+| Book 2 (Marissa POV, 28 chapters) | 21 | (handled in original extraction) | unchanged |
+| Book 3 (Marissa+Barengar POV, 19 chapters) | 5 new | 0 | 5 new event files |
+| **Pre-story (no on-page scene)** | n/a | 3 (down from 12) | 3 retained |
+| **Grand total** | 39 on-page events | 3 pre-story | 42 event files |
 
-## Pre-story event slugs (12)
+## What changed from the original (book-2-only) extraction
 
-1. `the-apocalypse`
-2. `founding-of-the-skylands`
-3. `kyra-trains-under-micah`
-4. `kyra-first-expedition-elweyr`
-5. `kyra-anjali-partnership`
-6. `duel-with-grasax`
-7. `battle-of-dun-traelak`
-8. `utopeia-fall`
-9. `anjali-memory-core-delivered`
-10. `marissa-raised-dun-traelak`
-11. `marissa-bizhjerai-rune-tattooed`
-12. `kendall-expedition-great-geyser`
+The original extraction treated 12 events as pre-story because book 2 referenced them only in flashback/dialogue. Books 1 and 3 demote most of them to on-page:
 
-## On-page story event slugs (22)
+| Original slug | New status | On-page where |
+| --- | --- | --- |
+| `the-apocalypse` | Still pre-story (enriched) | (deep backstory; details in book 3 ch 3, ch 13) |
+| `founding-of-the-skylands` | Still pre-story | (never narrated on-page) |
+| `kyra-trains-under-micah` | Still pre-story | (briefly mentioned in book 1 ch 2) |
+| `kyra-first-expedition-elweyr` | **DEMOTED to on-page** | Book 1 ch 9-11 → `first-expedition-launches`, `kyra-meets-anjali` |
+| `kyra-anjali-partnership` | **DEMOTED to on-page** | Book 1 ch 11-29 → `kyra-meets-anjali`, `kyra-archon-tattoos-and-adoption` |
+| `duel-with-grasax` | **DEMOTED to on-page** | Book 1 ch 22-23 → `dun-traelak-shield-tower-destroyed` |
+| `battle-of-dun-traelak` | **DEMOTED + RE-SCOPED** | Book 1 ch 45-48 → `siege-of-dun-traelak-and-fists-of-heaven` |
+| `utopeia-fall` | **DEMOTED + SPLIT** | Book 1 ch 49-51 → `assault-on-utopeia-colony` + `kyra-destroys-skylands` |
+| `anjali-memory-core-delivered` | **DEMOTED + CORRECTED** | Book 1 epilogue (memory core is Kyra's, not Anjali's) |
+| `marissa-raised-dun-traelak` | **DEMOTED (partial)** | Book 1 epilogue + inferred between-books → `marissa-childhood-with-kendall` |
+| `marissa-bizhjerai-rune-tattooed` | Still backstory | (childhood adoption ritual, between books) |
+| `kendall-expedition-great-geyser` | Still ongoing-at-Book-2-Ch-1 | (referenced in book 2 ch 1) |
 
-1. `gereon-death-ball` — Ch 1
-2. `arrival-at-groundlands` — Ch 2
-3. `first-ley-line-opened` — Ch 4–5
-4. `first-savage-encounter` — Ch 6
-5. `receiver-tower-completed` — Ch 8
-6. `kendall-mountain-confrontation` — Ch 9
-7. `alissa-arrives-undercover` — Ch 13
-8. `farmers-murdered` — Ch 14/17
-9. `brengar-assassinated` — Ch 18
-10. `mathias-varl-arrives` — Ch 19
-11. `trial-alissa-killed` — Ch 20
-12. `red-flare-savage-trap` — Ch 21
-13. `cave-battle-egg-chambers` — Ch 22–23
-14. `north-tower-destroyed` — Ch 23
-15. `marissa-plans-sabotage` — Ch 23
-16. `savage-horde-battle` — Ch 24
-17. `sentry-killed-poison-administered` — Ch 24
-18. `bizhjerai-assault-begins` — Ch 25
-19. `battle-in-the-skies` — Ch 26
-20. `destruction-of-groundlands` — Ch 27
-21. `marissa-leaves-dun-traelak` — Ch 28
+## New event slugs added
 
-(Note: 21 on-page events above + 1 additional context event = 22 total on-page. The `kendall-mountain-confrontation` and `first-ley-line-opened` are supported but some on-page chapters 3, 7, 10–12, 15–16 contain incremental story beats — romantic relationship development, third ley line crossing, ambush — that may warrant separate event files in the rewrite pipeline but were not elevated to major events here, as they lack the weight of the events above or are subsumed into adjacent events.)
+### Book 1 (13 new event files)
 
-## Chapters with no dedicated major event file (incremental beats only)
+1. `dragonkin-invasion-skylands` (ch 4-5)
+2. `greg-killed-marissa-adopted` (ch 4-8, 41)
+3. `first-expedition-launches` (ch 7-9)
+4. `kyra-meets-anjali` (ch 9-13)
+5. `outcast-raid-bizhjerai-camp` (ch 15-16)
+6. `clan-alliance-and-march-to-dun-traelak` (ch 17-19)
+7. `dun-traelak-shield-tower-destroyed` (ch 20-23) — supersedes `duel-with-grasax`
+8. `kyra-archon-tattoos-and-adoption` (ch 25-29)
+9. `malkareth-hatched` (ch 30-34)
+10. `skylander-colony-arrives` (ch 36-41)
+11. `skylander-clan-war-summer-raids` (ch 42-44)
+12. `siege-of-dun-traelak-and-fists-of-heaven` (ch 45-48) — supersedes `battle-of-dun-traelak`
+13. `assault-on-utopeia-colony` (ch 49-50) — supersedes part of `utopeia-fall`
+14. `kyra-becomes-liche` (ch 50-51)
+15. `kyra-destroys-skylands` (ch 51) — supersedes part of `utopeia-fall`
+16. `marissa-childhood-with-kendall` (ch 51, book 1 epilogue, and inferred-between)
 
-- Ch 3 (Planning) — planning and logistics
-- Ch 7 (Return to camp) — bikes returned to camp
-- Ch 10 (There are no innocent Skylanders) — third ley line crossing; Marissa's moral argument with Kyra
-- Ch 11 (Hangover) — aftermath
-- Ch 12 (Construction Mage) — extended construction/romance chapter; Valia and Marissa's first intimate night
-- Ch 15 (Ambush) — raider ambush; Marissa-Valia-Zandor become lovers; relationship event
-- Ch 16 (Raiders) — raid hunted down and eliminated
+(Note: 16 listed, but `marissa-childhood-with-kendall` also covers the original `marissa-raised-dun-traelak`. Net new event-file additions: 16.)
 
-These chapters contain character and relationship beats that belong in character history files (not event files). The orchestrator should tick those beats into `codex/characters/*/history.md` as part of the codex-update step for each scene, not here.
+### Book 3 (5 new event files)
 
-## Ambiguities flagged (5)
+1. `marissa-founds-college-of-mages` (book 3 ch 1, 3, 5)
+2. `savages-as-precursors-revealed` (book 3 ch 1-2) — lands the book 2 ch 28 foreshadowing
+3. `marissa-builds-epitome` (book 3 ch 3, 5-7, 13)
+4. `zandor-returns-as-demagogue` (book 3 ch 8-9) — Zandor reveal
+5. `marissa-killed-by-barengar` (book 3 ch 18-19) — series end
 
-1. **Anjali's death location** — Ch 27 says "breach at Utopeia" but plot logic requires Dun Traelak. Likely a manuscript drafting error. See `battle-of-dun-traelak.md`.
+## Resolution of the 5 ambiguities flagged in the original extraction
 
-2. **Marissa's age at Utopeia** — Text implies anywhere from ~6 to ~14. Current age at Ch 1 is therefore unknown. See `utopeia-fall.md`.
+| # | Original ambiguity | Status | Resolution |
+| --- | --- | --- | --- |
+| 1 | Anjali's death location (Utopeia vs Dun Traelak) | **RESOLVED** | Book 1 ch 50: stray-bullet death at the breach of the Utopeia COLONY (mainland), not Dun Traelak. She had earlier survived a gut wound from Grasax's staff at Dun Traelak. See `assault-on-utopeia-colony.md`. |
+| 2 | Marissa's age at Utopeia | **RESOLVED** | ~11 at Dragonkin invasion (book 1 ch 4); ~12 at marketplace reunion (book 1 ch 41); ~13 when Anjali dies (book 1 ch 50). By book 2 ch 1 she is ~22-23. |
+| 3 | Micah "burned" at Utopeia vs alive | **RESOLVED** | Book 1 ch 50: probably burned during Kyra's rampage at the Utopeia colony but survived and evacuated to the floating Skylands; was among the ~10,000 survivors when the Skylands themselves fell (book 1 ch 51). Marissa's "she burned Micah" memory collapses both events. |
+| 4 | Varl's death location | **REFINED** | Book 3 ch 9 reveals Varl was alive after book 2. He trained Zandor as the Demagogue. The Mage Marissa killed at the shield tower in book 2 ch 25 was NOT Varl. Varl survived the Groundlands cataclysm off-page. STILL AMBIGUOUS: when and how he escaped from the Prowler / Groundlands. |
+| 5 | Marissa's birth mother vs Anjali | **RESOLVED** | Marissa's biological father is Greg (mercenary, dies in book 1 ch 4 dragon attack); her biological mother is an unnamed Skylander woman who died in the Undercity years before book 1 ch 1 (per book 1 ch 4 "his wife died years ago"); Anjali is her adoptive mother by marriage to Kyra. The Elweyr-forest birth-mother story in book 2 is Marissa's misunderstanding — her birth mother died in the Undercity, not the Elweyr forest. |
 
-3. **Micah burned at Utopeia** — Marissa recalls Kyra "burned Micah" but he leads the survivors and appears healthy. See `utopeia-fall.md`.
+## New ambiguities introduced
 
-4. **Varl's death location** — Ch 25 describes killing a Mage at the shield tower (possibly Varl); Ch 26 implies uncertainty whether Varl was on the Prowler. See `bizhjerai-assault-begins.md`.
-
-5. **Marissa's birth mother vs. Anjali** — Three-parent structure not fully explained. The relationship between Anjali, Marissa's biological mother, and the Elweyr expeditions is ambiguous. See `kyra-first-expedition-elweyr.md`.
+| # | Ambiguity | Notes |
+| --- | --- | --- |
+| 6 | Mathias Varl's escape from Groundlands | Book 3 ch 9 confirms he survived book 2's destruction of the Groundlands but does NOT narrate how. Open. |
+| 7 | Epitome's ethical trajectory | Book 3 ch 19 epilogue leaves Epitome alone in orbit, intending both world rule and an artificial afterlife. Whether she is benevolent or the next iteration of the trilogy's cycle (each generation more powerful, less human) is by-design unresolved. |
+| 8 | Mathias Varl's fate in book 3 | Not narrated on-page in book 3 ch 19. Probably still alive. |
+| 9 | The "evil monolith" of book 2 ch 1 mother-shade reference | The Anjali-shade in book 2 ch 1 mentions a "evil monolith" that Kyra "flew away on my dragon brother to slay." Book 1 ch 51 shows Kyra and Malkareth drained the Great Geyser; there was no monolith involved. The book 2 mother-shade language is most likely Marissa's child-memory of Kyra's death conflated with Epitome (the future event Marissa would much later cause). This is an unreliable-narrator artefact that resolves on close reading but flags an inconsistency between the source books. |
 
 ## Notes on scope
 
-- All 28 chapters were read. No events were invented — every entry traces to text.
-- Absolute in-world dates are not given anywhere in the manuscript; all pre-story dates are relative anchors.
-- Minor scene beats (travel, meals, logistics) are not elevated to events.
-- The romantic relationship arc (Marissa/Valia, Marissa/Zandor, eventual three-way partnership) is a major character arc but not a single discrete event; it will be tracked in character history files.
-- The `kyra-trains-under-micah` and `kyra-anjali-partnership` events are inferred from textual context without a single explicit scene reference; the inference is strong and unambiguous but the events themselves are never narrated on-page.
+- All 51 chapters of book 1 read; full chapter map built.
+- All 19 chapters of book 3 read (including epilogue).
+- Book 2 events unchanged from the previous extraction.
+- No events invented; every entry traces to specific source text.
+- Absolute in-world dates are not given anywhere in any of the three books; all dates are relative anchors.
+- The cross-book relationships between named entities (especially the multi-parent family of Marissa and the multi-name same-character problem with Anjali / "Red" / "the Red Terror" / "mom") have been clarified in the event-file notes for the entity sibling agent's benefit.

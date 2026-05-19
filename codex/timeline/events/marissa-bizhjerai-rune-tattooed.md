@@ -2,11 +2,18 @@
 id: marissa-bizhjerai-rune-tattooed
 name: Marissa Tattooed with the Bizhjerai Rune
 type: event
-when: before Ch 1 (exact timing not stated)
+when: childhood (before Book 2 Ch 1)
 where: dun-traelak
-first_appearance: null
+book: backstory (referenced in book 2)
+chapters: []
+pov: null
+first_appearance: book-2/ch-22
 last_updated_scene: null
 ---
+
+> **STATUS**: Retained as pre-story / between-books backstory. Distinct from Kyra's Bizhjerai Rune (`kyra-archon-tattoos-and-adoption.md`). Marissa received her own Rune as part of her childhood adoption into the Clan; the disguise-tattoo work for the Groundlands mission is referenced in book 2 ch 22 onward.
+
+
 
 # Marissa Tattooed with the Bizhjerai Rune
 

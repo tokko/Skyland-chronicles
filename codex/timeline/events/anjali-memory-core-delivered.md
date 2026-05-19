@@ -1,12 +1,20 @@
 ---
 id: anjali-memory-core-delivered
-name: Anjali's Memory Core Delivered to Marissa
+name: Kyra's Memory Core Delivered to Marissa
 type: event
-when: ~9 years before Ch 1 (roughly 1 year after Kyra left)
+when: ~10 years before Book 2 Ch 1 (immediately after Kyra's death)
 where: dun-traelak
-first_appearance: null
+book: 1
+chapters: [51, epilogue]
+pov: marissa
+first_appearance: book-1/epilogue
 last_updated_scene: null
 ---
+
+> **STATUS**: Demoted from pre-story to on-page (book 1 epilogue).
+> **CORRECTION**: The memory core delivered to Marissa is KYRA's, not Anjali's. The book 1 epilogue clarifies that Kyra forged it from her own memories of her life (most of which were memories of Anjali). It contains an outsider's record of Kyra's last years. The "Anjali memory core" label in book 2 is a misnomer — Marissa knows of both her mothers from this single artefact. The full on-page account is in `kyra-destroys-skylands.md` (creation) and book 1 epilogue (delivery).
+
+
 
 # Anjali's Memory Core Delivered to Marissa
 

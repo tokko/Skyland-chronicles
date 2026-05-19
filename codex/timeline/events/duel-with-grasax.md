@@ -2,11 +2,17 @@
 id: duel-with-grasax
 name: Duel with the Liche Grasax
 type: event
-when: ~13–15 years before Ch 1
-where: unknown (implied off-skylands)
-first_appearance: null
+when: ~10-13 years before Book 2 Ch 1
+where: dun-traelak
+book: 1
+chapters: [22, 23]
+pov: kyra
+first_appearance: book-1/ch-22
 last_updated_scene: null
 ---
+
+> **STATUS**: Demoted from pre-story to on-page. The full on-page account is in `dun-traelak-shield-tower-destroyed.md`. This file is retained as a back-compat pointer for book 2 cross-references.
+
 
 # Duel with the Liche Grasax
 

@@ -2,11 +2,18 @@
 id: founding-of-the-skylands
 name: Founding of the Skylands
 type: event
-when: generations before Ch 1 (exact date unknown)
+when: centuries before Book 1 Ch 1 (no on-page scene)
 where: skylands
+book: pre-story
+chapters: []
+pov: null
 first_appearance: null
 last_updated_scene: null
 ---
+
+> **STATUS**: Retained as pre-story. The founding is referenced in dialogue and Marissa's recollections but never narrated on-page.
+
+
 
 # Founding of the Skylands
 

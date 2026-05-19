@@ -2,11 +2,18 @@
 id: kyra-anjali-partnership
 name: Kyra and Anjali Become Partners
 type: event
-when: ~20+ years before Ch 1
-where: skylands
-first_appearance: null
+when: ~11-12 years before Book 2 Ch 1
+where: dun-traelak / bizhjerai-camp
+book: 1
+chapters: [11, 12, 13, 25, 28, 29]
+pov: kyra
+first_appearance: book-1/ch-11
 last_updated_scene: null
 ---
+
+> **STATUS**: Demoted from pre-story to on-page (book 1). Full on-page account is in `kyra-meets-anjali.md` and `kyra-archon-tattoos-and-adoption.md`. The first kiss happens in ch 10 (the forest); the relationship is formalised when Kyra is adopted into the Clan in ch 29.
+
+
 
 # Kyra and Anjali Become Partners
 

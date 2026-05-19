@@ -1,12 +1,19 @@
 ---
 id: battle-of-dun-traelak
-name: Battle of Dun Traelak (Skylander Assault)
+name: Battle of Dun Traelak (Skylander Siege)
 type: event
-when: ~10–11 years before Ch 1
+when: ~10-11 years before Book 2 Ch 1
 where: dun-traelak
-first_appearance: null
+book: 1
+chapters: [45, 46, 47, 48]
+pov: kyra
+first_appearance: book-1/ch-45
 last_updated_scene: null
 ---
+
+> **STATUS**: Demoted from pre-story to on-page. The full on-page account is in `siege-of-dun-traelak-and-fists-of-heaven.md`. Anjali survived this siege. Her death occurred at the later Utopeia colony assault (`assault-on-utopeia-colony.md`). This file kept as a back-compat pointer.
+
+
 
 # Battle of Dun Traelak (Skylander Assault)
 

@@ -2,11 +2,18 @@
 id: kendall-expedition-great-geyser
 name: Kendall's Expedition to the Great Geyser
 type: event
-when: ongoing at Ch 1 start (3 ships away)
+when: ongoing at start of Book 2 Ch 1
 where: great-geyser
-first_appearance: null
+book: 2
+chapters: [book-2/ch-1]
+pov: marissa (referenced)
+first_appearance: book-2/ch-1
 last_updated_scene: null
 ---
+
+> **STATUS**: On-page (referenced) in book 2 ch 1. Distinct from Kyra's destruction-of-Skylands event at the Great Geyser ~10 years earlier (`kyra-destroys-skylands.md`).
+
+
 
 # Kendall's Expedition to the Great Geyser
 

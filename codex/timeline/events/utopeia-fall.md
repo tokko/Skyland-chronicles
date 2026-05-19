@@ -1,12 +1,22 @@
 ---
 id: utopeia-fall
-name: Fall of Utopeia / Kyra's Rampage
+name: Fall of Utopeia (TWO events conflated in book 2)
 type: event
-when: ~10 years before Ch 1
-where: utopeia
-first_appearance: null
+when: ~10 years before Book 2 Ch 1
+where: utopeia-colony / skylands
+book: 1
+chapters: [49, 50, 51]
+pov: kyra
+first_appearance: book-1/ch-49
 last_updated_scene: null
 ---
+
+> **STATUS**: Re-scoped. Book 2 conflates two separate events:
+> 1. The Utopeia COLONY assault — Anjali died here. See `assault-on-utopeia-colony.md`.
+> 2. The destruction of the floating Skylands city (also called "Utopeia" in retrospect) — Kyra destroyed it. See `kyra-destroys-skylands.md`.
+> This file kept as a back-compat pointer.
+
+
 
 # Fall of Utopeia / Kyra's Rampage
 
