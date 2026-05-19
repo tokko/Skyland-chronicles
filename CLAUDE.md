@@ -1,10 +1,20 @@
 # Skyland Chronicles — Rewrite Operations Manual
 
-This repository restructures and polishes the source manuscript (`source/manuscript.*`) into a planned trilogy. Every agent — orchestrator, writer, reviewer, polisher, git operator — follows the protocol below. Read this file and the auto-included context (listed at the bottom) at the start of every turn.
+This repository restructures and polishes three source manuscripts — a complete trilogy by the same author, totalling ~472k words — into a planned multi-book series. The target book count is determined by natural arc breakpoints during planning, not fixed to three. Every agent — orchestrator, writer, reviewer, polisher, git operator — follows the protocol below. Read this file and the auto-included context (listed at the bottom) at the start of every turn.
+
+## Source corpus
+
+Three source novels under `source/`, in narrative order:
+
+- **`source/book-1-the-skyland-chronicles.md`** — *The Skyland Chronicles*. 205k words, 53 chapters. First-person POV: **Kyra Zorantis** (Marissa's adoptive mother). Origin story — Stardust raid, Utopeia's rise and fall, the Battle of Dun Traelak, Kyra's death-to-liche transition, the dragon-borne memory-gem delivered to young Marissa, Marissa's revenge oath.
+- **`source/book-2-the-last-skylander.md`** — *The Skyland Chronicles: The Last Skylander*. 132k words, 28 chapters. First-person POV: **Marissa Zorantis** (alias Mary Laier). The infiltration arc — Gereon ball, Groundlands embedded, ley-line opened, savages encountered, Valia falls, the genocide, departure south.
+- **`source/book-3-epitome.md`** — *Epitome*. 134k words, 20 chapters. Alternating POVs: **Marissa Zorantis** and **Barengar** (new POV). Picks up half a year after the destruction of the Groundlands; the closing frame is a unified AI/spirit narrator ("I am the Epitome of Morality"). Resolves the savages-as-engineered-precursors thread.
+
+The `.mobi` originals also live in `source/` as immutable canonical inputs. Source files are read-only.
 
 ## Mission
 
-Take the source manuscript, build a complete story bible (codex), break it into a trilogy with the user's approval, then rewrite scene-by-scene against a beat-driven plan. Preserve the source author's voice. Suppress repetition, staccato cadence, fixation on action and worldbuilding minutiae, and the common AI-isms catalogued in `codex/style/ai-isms.md`. Each character must be distinguishable from a single line of dialog.
+Take the three source manuscripts, build a complete story bible (codex) spanning all three, break the continuity into a multi-book target series with the user's approval, then rewrite scene-by-scene against a beat-driven plan. Preserve the source author's voice across all three narrators (Kyra, Marissa, Barengar — each with their own voice file under `codex/voice/`). Suppress repetition, staccato cadence, fixation on action and worldbuilding minutiae, and the common AI-isms catalogued in `codex/style/ai-isms.md`. Each character must be distinguishable from a single line of dialog.
 
 ## Roles and Models
 
@@ -112,7 +122,10 @@ Each speaking character has `codex/characters/<slug>/voice.md` documenting idiol
 ## Layout
 
 ```
-source/                            # Original manuscript (input only — never edited)
+source/                            # Three source manuscripts + .mobi originals (input only — never edited)
+  book-1-the-skyland-chronicles.md
+  book-2-the-last-skylander.md
+  book-3-epitome.md
 codex/                             # Story bible
   INDEX.md                         # Entity + status index (auto-included)
   README.md                        # Format spec for codex files
