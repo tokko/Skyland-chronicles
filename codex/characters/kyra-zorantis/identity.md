@@ -80,7 +80,7 @@ By book-2 ch.6 (first on-page manifestation): knows Skylander tactics, Bizhjerai
 
 ## Notes
 
-- The codex previously identified Kyra as "the Red Terror" — this is canonically wrong. **Anjali was the Red Terror.** The flagship Red Terror was named after Anjali. Kyra is "Bás Marbhadair / Dragonbane".
+- Kyra is "Bás Marbhadair / Dragonbane". **Anjali** is "the Red Terror"; the Bizhjerai flagship is named after Anjali, not Kyra.
 - Voice in book 1 is rawer, more profane, and more sexually direct than the spectral version Marissa hears in book 2. In book 2 Kyra has been dead for a decade and a half; she is gentler, more weary, more strategically minded.
 - Her age at death: about thirty (stated in the closing line of book 1).
 - The dagger she carries in books 2-3 is Grasax's dagger that she stole, modified to hold her own soul instead of Grasax's.

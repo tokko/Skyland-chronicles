@@ -38,6 +38,5 @@ Polite, dry, slightly courtly for a mercenary. Calls Kyra by name. Compliments e
 
 ## Notes
 
-- The book-2 codex's "Niklas Zorantis" naming for Marissa's father is **a drafting error**. Marissa's biological father in book 1 is named Greg. Niklas does not appear anywhere in the source.
 - Greg's body is left on the Skylands surface; not recovered for any funeral. Kyra and Marissa do not return to view it.
 - His curved short sword is implied (not stated) to be among Marissa's posessions later — Marissa carries a sword from Dun Traelak in book 2; the source does not establish whether it is Greg's, Kyra's, or new.

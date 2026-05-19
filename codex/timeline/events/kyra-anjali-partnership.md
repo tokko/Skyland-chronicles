@@ -19,12 +19,12 @@ last_updated_scene: null
 
 ## Summary
 
-Kyra and Anjali (nicknamed "the Red Terror" / "mom" by Marissa) formed a life partnership — personal and professional — at some point during Kyra's career as a Guard and Mage-warrior. Anjali was a renowned warrior in her own right, eventually bearing Marissa. Their partnership is the emotional core of Kyra's backstory: Anjali's death at the hands of the liche Grasax is the wound that drives Kyra's catastrophic actions at Utopeia and her eventual self-destruction.
+Kyra and Anjali (nicknamed "the Red Terror" / "mom" by Marissa) formed a life partnership — personal and professional — during Kyra's captivity-turned-integration with Clan Bizhjerai in book 1 (first kiss in ch.10 of the source; partnership formalised at Kyra's adoption into the Clan in ch.29). Anjali was a renowned warrior in her own right and Marissa's adoptive mother (Marissa is the biological daughter of Greg and his unnamed wife; Greg was killed in the Dragonkin invasion in book-1 ch.4 and Marissa was taken in by Kyra, then raised at Dun Traelak by Kyra and Anjali together). Their partnership is the emotional core of Kyra's backstory: Anjali's death at Utopeia (book-1 ch.49) is the wound that drives Kyra's catastrophic actions and her eventual suicide-into-lichedom.
 
 ## Participants
 
 - **Kyra** ("mother"): senior Mage, architect of the Bizhjerai alliance.
-- **Anjali** ("the Red Terror" / "mom"): warrior partner; Marissa's birth mother is separate — Anjali is the woman who raised Marissa.
+- **Anjali** ("the Red Terror" / "mom"): warrior partner; Marissa's adoptive mother (not biological — Marissa was born to Greg and his unnamed wife and adopted by Kyra after Greg's death).
 
 ## Consequences
 
@@ -45,4 +45,4 @@ None flagged.
 
 ## Notes
 
-The text clearly distinguishes Kyra ("mother") from Anjali ("mom"). Anjali bore Marissa but the relationship is parental, not biological — Marissa was raised by both after a point. The exact date of the partnership's start is not given.
+The text clearly distinguishes Kyra ("mother") from Anjali ("mom"). Neither is Marissa's biological mother — Marissa's mother died "years ago" before book 1 (Greg's unnamed wife). Marissa was raised by Kyra (from book-1 ch.5) and then by both Kyra and Anjali at Dun Traelak (after book-1 ch.38).

@@ -22,7 +22,7 @@ Kyra's lifelong best friend; they grew up together in the Skylands Undercity. Br
 
 After Kyra's capture by the Bizhjerai he joined the Second Expedition to find her — book-1 ch.36 reunites them in the field. He goes native fully; integrates with the Clans by book-1 ch.37; assists Anjali and Kyra in opening artificial ley lines across the Bizhjerai lands; remains at Dun Traelak as principal Construction Mage through Kyra's death and afterward.
 
-After Kyra's death and Marissa's adoption-by-Clan, Kendall is Marissa's primary surrogate parent through her childhood and early adulthood in Dun Traelak — alongside Kyra's mother, Alissa, and Marie. By book 2 he is Commodore of the Bizhjerai fleet aboard the flagship Red Terror (the flagship is named after **Anjali** — the Red Terror — not after Kyra; the codex previously had this wrong).
+After Kyra's death and Marissa's adoption-by-Clan, Kendall is Marissa's primary surrogate parent through her childhood and early adulthood in Dun Traelak — alongside Kyra's mother, Alissa, and Marie. By book 2 he is Commodore of the Bizhjerai fleet aboard the flagship Red Terror — named after Anjali ("the Red Terror"), Marissa's adoptive mom.
 
 In book 3 (~35 years after book 2) he is still living at Dun Traelak with Aurean and "adopted children" (presumably children fostered or adopted after Kyra's and Anjali's deaths); Marissa considers visiting him during a Lahar trip but flies past without landing.
 
@@ -62,7 +62,7 @@ Present only in chapter 26-28 on-page. Functions as the human face of the Bizhje
 ## Notes
 
 - Invented the Skymmer — a telekinesis-based personal aircraft; design was later spied on and reverse-engineered by Varl.
-- The Red Terror flagship is his ship; **it is named after Anjali (the Red Terror)**, not after Kyra. The book-2 codex entry that named it after Kyra was inverted; book 2 ch.26 says explicitly "It had been named after mom's nickname during the war" and Marissa's mom is Anjali.
+- The Red Terror flagship is his ship; it is named after Anjali — "the Red Terror" — Marissa's adoptive mom. Book 2 ch.26 establishes this explicitly: "It had been named after mom's nickname during the war."
 - He carries the blueprints of a decade; Marissa copied all of them into a power core at his gift.
 - He gave Marissa her summoning gems (both the original and the replacement in book-2 ch.28).
 - He has plans for Angel armour modification to repel boarders — but Marissa notes the designs were not yet implemented at the time of the battle.

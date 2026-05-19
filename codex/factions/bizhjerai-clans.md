@@ -31,7 +31,7 @@ The Skylander arrival forced them to industrialise. Across book 1 (ch.34-50) Kyr
 
 By book 2: the Clans are politically unified under Marie (Chief of Chiefs) and economically and militarily Bizhjerai-led with full Skylander-style magitech.
 
-By book 3: the Unified Clans are an industrial polity with rail lines (book 3 ch.11), Skyships, an Angel corps, professional officers, and an existing decade-long war with the southern Ca'el empire. Dun Traelak has become a major city; the political seat shifts to Lahar (Marie's residence). They are described by Marissa as "generous and warm people" who took in a stray Skylander orphan. Their flagship is the Red Terror (named after **Anjali** — the codex previously had this wrong). Their warrior elite are the Valkyries (Angel armour users) trained by Kyra's methods, refined by Marissa and Kendall.
+By book 3: the Unified Clans are an industrial polity with rail lines (book 3 ch.11), Skyships, an Angel corps, professional officers, and an existing decade-long war with the southern Ca'el empire. Dun Traelak has become a major city; the political seat shifts to Lahar (Marie's residence). They are described by Marissa as "generous and warm people" who took in a stray Skylander orphan. Their flagship is the Red Terror, named after Anjali. Their warrior elite are the Valkyries (Angel armour users) trained by Kyra's methods, refined by Marissa and Kendall.
 
 ## Goals
 

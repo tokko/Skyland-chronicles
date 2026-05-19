@@ -68,4 +68,4 @@ Knows the lay of Bizhjerai lands by heart; knows the basics of Skylander magic b
 - "Anjali" is her birth name; "Red" is Kyra's pet name (no one else uses it); "the Red Terror" is the Skylander epithet that her own people eventually adopt.
 - Her father is referred to only as "the Chief" / "the big man" in book 1 — his name is not given in the source.
 - Her name is used as a namesake for at least one prominent character in the next generation: Marie's daughter (the General of the Unified Clans in book 3) is called "Anjali" after her.
-- She is the one referred to as "the Red Terror's partner" in the existing book-2 codex notes — that codex line was inverted (Anjali is the Red Terror; Kyra is her partner).
+- She is Kyra's partner (wife). The Bizhjerai flagship is named after her, not after Kyra.

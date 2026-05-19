@@ -47,4 +47,4 @@ None (fully in the past by book 2 ch.1).
 - **Resolved ambiguity (a)**: Anjali died at Utopeia (the breach), NOT at Dun Traelak. Book 1 ch.49 makes this unambiguous. Earlier codex-staging flagged this as a probable drafting error in book 2 ch.27 — but book 2 ch.27 was correct; the error was in the codex's identification of "Anjali's death location" as Dun Traelak.
 - **Resolved ambiguity (f)**: Aurean's reference to "Marie wounded at the breach at Utopeia" is the same Marie who is Chief of Chiefs in books 2-3 — she was wounded in the hip at Utopeia just before Anjali was killed; she survived. Book 1 ch.49 ("I felt Marie go down, wounded in the hip. She would live.") + book 3 ch.18 confirmation.
 - The Prowler (Skyship) escaped Utopeia; Kendall wanted to prevent a repeat.
-- Marissa's adoptive mother Anjali died here. Marissa's biological mother died years earlier on the Skylands (off-page; not at Utopeia). The codex previously conflated these.
+- Marissa's adoptive mother Anjali died here. Marissa's biological mother died years earlier on the Skylands (off-page; not at Utopeia).
