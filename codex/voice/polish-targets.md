@@ -1,6 +1,6 @@
 # Polish Targets
 
-Bad habits to suppress in the rewrite. Extracted from the source manuscript. These are inherited from the source author's voice; the rewrite keeps the voice but smooths these out.
+Bad habits to suppress in the rewrite. Extracted from the source manuscripts (books 1–3). These are inherited from the source author's voice; the rewrite keeps the voice but smooths these out. Sections 1–14 were extracted from book 2 (Marissa). Sections 15+ were added when books 1 (Kyra) and 3 (alternating Marissa/Barengar) were ingested — they cover habits unique to those narrators and habits that appear across multiple narrators, which suggests author-level (not character-level) overuse.
 
 ## 1. Word and phrase repetition
 
@@ -120,6 +120,113 @@ Many source paragraphs run 300–600 words combining action, exposition, interio
 The source repeatedly attaches an explicit "(I lied.)" / "I lied to her" / "It was a lie" to Marissa's deceptions. This is the close-third version of telling-the-reader-the-subtext. The reader already knows she is lying; the tag flattens the irony.
 
 **Fix**: cut the explicit "I lied" tag except where Marissa is registering it to herself for the first time. Let the lie do its work; let the reader catch it without the footnote.
+
+## 15. Post-battle sex as scene-default (Kyra, book 1)
+
+Kyra ends most of book 1's first-act fights with a sex scene — at the window with Raynard, on the corpses, in the tent, in the post-victory feast. The author treats post-battle sex as the obligatory cool-down beat. "Something about being so close to death made me crave something life affirming" is the explicit voice-justification, used multiple times. By chapter 4 the pattern is detectable as structure, not character. Made worse because the partner choice ("Raynard, who I despised but my body craved") is the same psychological beat repeated.
+
+**Watch for**:
+- A fight scene that ends with Kyra commenting on her own arousal.
+- A sex scene that opens with a battle-adrenaline gloss ("My heart was still racing from the fight when…").
+- The same combination of contempt + helpless desire across multiple partners (Raynard, then later Anjali — the contempt drops with Anjali, but the structural beat is the same).
+
+**Fix**: keep the bawdy honesty of Kyra's voice but vary the cool-down. Sometimes the fight ends with a long bath alone; sometimes with food; sometimes with a sit-down with Greg. The Anjali sex scenes can keep this beat-shape because the relationship is the point; the mercenary scenes should break the pattern by ch.2 at the latest. The "violence makes me horny" justification can appear once in the whole book; after that it is character, not author.
+
+## 16. Kyra's repeated stomp-on-the-girl flashback (Kyra, book 1)
+
+The child Kyra accidentally kills in chapter 2 — the thirteen-year-old in the dark, her pelvis ruptured by an explosive round — becomes a recurring flashback that the source revisits at least eight times across book 1, often word-for-word ("I had stomped a child to death", "the small girl in the dark"). The first appearance is devastating. The second is character. The third onward is the author insisting the reader still feel the weight, which the reader was already carrying.
+
+**Watch for**:
+- Any flashback that uses the same phrasing as the original event.
+- Kyra naming the act ("the girl I had killed") rather than touching it sideways (a red-haired stranger, a heel print, a child's bare foot).
+- The flashback arriving as decoration on a scene that has not earned it (Kyra being kind to another child, Kyra grieving Anjali, Kyra contemplating her wounds).
+
+**Fix**: keep two or three Kyra-stomp flashbacks across the book — one near the act, one when Kyra meets Anjali and mistakes her red hair, one at the destruction of the Skylands when the mass scale collapses back to the single individual. Cut the rest. Where the source uses the flashback as emotional underline, replace with one specific physical detail (the way Kyra avoids walking on cobble seams; the way she will not look down at her own boots).
+
+## 17. Author-level cross-narrator "suddenly" overuse
+
+"Suddenly" was already flagged for Marissa in §1. Reading the full trilogy shows that all three narrators (Kyra, Marissa, Barengar) reach for "suddenly" at roughly the same density — multiple times per chapter, often where the verb already carries the suddenness. This is author-level, not character-level. The fix in §1 applies to all three voices.
+
+**Watch for** (in addition to §1's list):
+- "Suddenly" placed at the front of a sentence that already has a punch verb ("Suddenly she struck him", "Suddenly the door burst open", "Suddenly the world erupted").
+- "Suddenly" in interior monologue where the realisation is already its own beat ("Suddenly I knew", "Suddenly it made sense").
+
+**Fix**: trim to once or twice per scene across all three POVs. When the suddenness is genuine, let the verb carry it. The reader will not miss the adverb.
+
+## 18. Author-level cross-narrator "of course" / "obviously" tic
+
+Like "suddenly", this is an author-level tic that appears in all three voices. Kyra opens many post-action paragraphs with "Of course", Marissa uses it as a transition between events she should have predicted, and Barengar uses it as an internal noticing. The voices are different but the density is the same.
+
+**Watch for**:
+- "Of course, X" opening a paragraph.
+- "Obviously" as a transition from inference to observation ("Obviously he had been lying", "Obviously the trap had been waiting").
+- "Naturally" as a substitution for either of the above.
+
+**Fix**: cut on first pass; restore only where the dismissive register is character-specific (Marissa's contemptuous "of course" at a Council, Kyra's tired "of course" at another mercenary's bad faith). Note that these are a different beat from the conversational "of course" inside dialogue, which is fine.
+
+## 19. Barengar's body-noticing reflex (Barengar, book 3)
+
+Barengar reports himself noticing Marissa's body — her cleavage, her hips, her hair — several times per chapter across book 3. The first instance is character. Recurring instances at source-density (averaging two or three per chapter) become a reflex that flattens the romance arc into a leer.
+
+**Watch for**:
+- "I forced my eyes to not stare at her ass / breasts / cleavage" or close variants.
+- "She was old enough to be my mother, damn it!" as the self-rebuke punchline.
+- Any body-noticing paragraph in which the noticing is the only beat — Barengar is not also doing or thinking anything else.
+
+**Fix**: one body-noticing per scene maximum. Pick the moment where it does work (his first sight of her, the moment she casually brushes his thigh while installing the bulb, the post-battle moment in the workshop). Let the other moments land through what he is *doing* — standing closer than he needs to, lingering at the workshop door, fetching her tools without being asked. The reader will read the romance from the staging.
+
+## 20. Barengar's "boredom" beat (Barengar, book 3)
+
+Across the Council chapters and the workshop chapters, Barengar narrates his own boredom and impatience repeatedly — "This was boring", "I was bored", "Boring", "I better not (out of boredom)". The trope is voice-marker the first two times. After that it becomes a tic.
+
+**Watch for**:
+- Standalone one-sentence paragraphs of "Boring." or "This was boring."
+- "I better not" as a self-restraint beat at every diplomatic encounter.
+- Any scene where Barengar's boredom is the dominant emotional report.
+
+**Fix**: trim to one or two per book. When Barengar is bored, show him doing something with his hands (testing the haft of his axe, running through a spell list mentally, sketching diagrams on the floor) rather than reporting the boredom directly.
+
+## 21. Magic-system over-explanation, all voices
+
+§8 catalogued Marissa's lecture mode in book 2 ("Construction Mage" chapter). Books 1 and 3 reveal that all three narrators do this, just at different scales and rhythms. Kyra explains magic to Anjali in ch.12 of book 1. Marissa explains magic to Valia across book 2. Marissa-and-Barengar explain Epitome and meta-magic and Soul-extraction to each other across half of book 3. The format is consistent: one character recites theory, the other says "I'm with you so far" or "Cut the bullshit", and a scene's worth of plot stops dead.
+
+**Watch for**:
+- A dialogue exchange where one character speaks more than three sentences in a row about how magic works.
+- An interior monologue that explains the same magic mechanic the reader has seen demonstrated in the previous scene.
+- The "I'm with you so far" / "Cut to the chase" stop-gap line in dialogue, which is the source's tell that the lecture has run too long.
+
+**Fix**: see §8. Across the trilogy, the running rule is "show the thing once, name it later, never explain". If a mechanic is critical to a scene's stakes, the demonstration must be in the scene; the explanation can come in a fragmentary line of dialogue or an offhand line in a brief note. Never two lecture-paragraphs in a row.
+
+## 22. Marissa's monologue-over-the-corpse habit (Marissa, books 2 and 3)
+
+§14 caught the "I lied" tag. The full corpus reveals a broader pattern: Marissa has long retrospective interior monologues delivered while she is standing over or near a corpse. The book-2 example over Gereon's body is the longest, but the pattern repeats — over Alissa's body, over Micah's body, over the dead farmer's daughter, over Valia's body at the cliff-base, and (in book 3) over the assassin's body at the Council ambush. The format is consistent: kill (or witness death), pause, run an extended retrospective monologue, then resume action.
+
+**Watch for**:
+- Any scene where Marissa stops on a corpse to deliver more than two paragraphs of interior recollection.
+- Retrospective material that names the dead's prior actions ("I remembered when she had…", "He had been the one who…") rather than letting the scene make the present-tense observation.
+
+**Fix**: the corpse beat should be one paragraph at most, and that paragraph should be specific to the moment (the angle of the body, the temperature of the blood, the one detail that wasn't obvious until they were dead). Push the retrospective material to later — a workshop scene, a dream, a conversation. The corpse is for noticing, not for explaining.
+
+## 23. Stomping faces as authorial signature
+
+Across all three books, a body is killed-via-bootstomp at least once per book: Kyra stomps the child's face in book 1 ch.2, Marissa stomps Skylander faces in the genocide in book 2 ch.27, and Marissa kicks Zandor's burned face in book 3 ch.9. The source author returns to the boot-on-the-skull as a signature image. Once is voice, twice is pattern, three is reflex.
+
+**Watch for**:
+- The body-on-the-ground-and-the-foot-comes-down beat.
+- The skull-crack onomatopoeia ("crunch", "with a sickening sound", "the top of her head flattened").
+- The post-stomp visual ("brains across the floor", "the face caved in").
+
+**Fix**: keep one stomp per book at most. The Kyra-on-the-child stomp is load-bearing and must stay. The genocide stomps can be aggregated into a single representative image. The Zandor face-stomp in book 3 should be replaced with a different kind of intimate violence — a hand at the throat, a knee on the chest — to avoid the trilogy reading as a stomping-trilogy.
+
+## 24. Cross-narrator "wait, what?" / "the fuck?" reaction beat
+
+All three narrators reach for the same surprised-mid-action reaction across the books: Kyra has "Fuck, what was that?", Marissa has "The fuck?" multiple times per chapter at moments of surprise, Barengar has "What the fuck?" in book 3. The phrase is so common across narrators that it reads as author-level rather than character-coded.
+
+**Watch for**:
+- "The fuck?" / "What the fuck?" as paragraph-opening surprise.
+- "Wait, what?" / "Wait —" as a similar interior-interruption beat.
+
+**Fix**: vary by narrator. Kyra can use "The fuck?" sparingly because she swears as a mercenary. Marissa's "The fuck?" is character — keep two or three per book. Barengar should mostly express surprise non-verbally (a step back, a slow recognition, a question that does not start with "what") because his voice runs less profane than the others.
 
 ---
 
