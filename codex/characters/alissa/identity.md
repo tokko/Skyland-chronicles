@@ -5,18 +5,20 @@ aliases:
   - Alana Kelvari (Groundlands alias; blue hair)
   - A creature of shadow (Marissa's description)
 type: character
-role: major supporting character
-status: dead (chapter-20)
-faction: bizhjerai-clans (deep-cover operative)
-first_appearance: chapter-13 (as Alana Kelvari, infiltrating Groundlands)
-last_updated_scene: chapter-20
+role: supporting (book 1, on-page); major supporting (book 2)
+status: dead (book-2 chapter-20)
+faction: skylands-mercenary (book 1, Pioneer expedition) → bizhjerai-clans (book 1 ch.17 onward; eventual deep-cover operative)
+first_appearance: book-1 chapter-13/14 (Pioneer expedition; green-haired Skylander mage)
+last_updated_scene: book-2 chapter-20
 ---
 
 # Alissa
 
 ## Identity
 
-Bizhjerai shadow operative — an assassin and spy who worked for the Bizhjerai Clans and specifically served Kyra Zorantis. After Kyra's death she continued supporting Marissa's mission. She took Marissa in after Marissa's birth mother died at Utopeia, acting as a second mother figure. She is referred to in Marissa's memories as the person who forged the Bizhjerai Rune disguise tattoos and the liche enchantment that bound Kyra's spirit.
+Originally a Skylander mage on the Pioneer expedition (book 1 ch.13-14) — green-haired in her original form. She was the only other Pioneer survivor Kyra encountered after the expedition scattered, and they trekked together through the Elweyr wilderness before being separated. Kyra grieved her as dead through much of book 1 ch.18+. Alissa survived independently, integrated with the Bizhjerai Clans (book 1 ch.32+ implied), and became a long-running shadow operative.
+
+By book 2 she has worked for decades as the Bizhjerai's primary infiltration and counter-intelligence specialist; she also performed the liche enchantment on Kyra's dagger that bound Kyra's spirit (book 1 ch.51 references the work). She took Marissa in after Anjali died at Utopeia, acting as Marissa's "Auntie Alissa" and second-mother figure through Marissa's childhood and training years in Dun Traelak.
 
 In the Groundlands she operated as "Alana Kelvari," disguised with blue hair, working as a turncloak. She killed Brengar (corrupt gate guard) in chapter 18. In chapter 20, when her cover was broken, she was brought to trial. Micah ordered Marissa to execute her as a test of loyalty. Marissa complied — a heart shot, quick and clean.
 

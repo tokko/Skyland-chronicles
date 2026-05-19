@@ -45,3 +45,56 @@ Regret. She has done terrible things — destroyed the Skylands, caused the deat
 
 "I just want you to be happy, Marissa." — too passive; she wants Marissa to complete the mission AND be happy; she does not separate the two.
 ```
+
+---
+
+## Book-1 voice addendum (living Kyra, POV)
+
+The version of Kyra documented above is the *spectral* Kyra of books 2-3 — older, calmer, made of grief and pragmatism. **Living Kyra** in book 1 (her POV) is rougher, more sexually direct, more profane, and considerably more snide. The core register — short SVO, declarative, no euphemism — is the same. The differences below.
+
+### Register (book 1)
+
+First-person past with present-tense interjections. Constantly editorialising — every observed person gets ranked, every choice gets second-guessed on the page, every body she touches gets graded. Bawdy by default. Self-deprecatingly funny. Snide about her own past. Tender only in private with Anjali, Marissa, or Mal.
+
+### Vocabulary (book 1 additions)
+
+- **Skylander mercenary cant**: "merc", "shit show", "asshole", "bitch", "cunt", "motherfucker", "the fuck", "fucked, and not the good kind". Profanity is constant and casual; it is voice-correct.
+- **Body / sexual register**: "groin", "nethers", "thigh", "boobs/breasts", "ass". Matter-of-fact about her own body and others'.
+- **Engineering register (mage-talk)**: "channel", "shield-breaker", "Powerstone", "kinetic round". Used precisely.
+- **Skylander geography**: "Skyway", "the Bowels", "the Undercity", "the Surface", "the Geyser", "the Barrier".
+- **Bizhjerai cant adopted over book 1**: "Spirits", "the Clan", "the Mark", "Outcasts".
+
+### Syntax (book 1)
+
+- Long compound sentences, often comma-spliced or "and"-strung, for description and exposition.
+- Sharp short sentences and one-line fragments for kills, realisations, gut-punches.
+- Sentence-initial "I" or coordinating conjunction ("And", "But", "So") dominates her openings.
+- She thinks in long layered sentences when engineering or strategising; in short ones when killing or grieving.
+
+### Tics (book 1)
+
+- "Of course" — concessive throat-clearing.
+- "I dunno" / "Dunno" — to mercenary peers.
+- Self-deprecating diminutives about her own height ("petite", "tiny", "slip of a girl") — she fishes the joke regularly.
+- "Fucked, and not the good kind" — Kyra's signature gallows-humour punchline.
+- Adds an internal aside in narration after a shocking sentence: "(I lied.)", "(I had killed Alissa.)" etc.
+
+### Book-1 examples
+
+```
+"What? No! You attacked us!" — to Raynard at the Kriath prisoner row, ch.17; the rare moment her voice is purely defensive.
+
+"This was happening with frustratingly increasing frequency." — narration about Skylands magic outages, ch.2; the dry-grumble that Kyra does whenever the world disappoints her.
+
+"Fuck this." — narration as she dives through a window to escape a crowd, ch.4; one-line internal pivot.
+
+"Wife." — to Anjali after Mal soul-binds them, ch.36; the rare moment her voice softens entirely, and yet the sentence is one word long.
+
+"I love you. Now and forever." — to Anjali at her death, ch.49; the most loaded statement in the book; same five-word shape Anjali used at marriage.
+```
+
+### Book-1 anti-examples (what living Kyra would not say)
+
+- "I felt the heavy weight of grief settle over me." — she would just narrate the next thing she did instead.
+- "Anyway, where was I?" — Kyra does not throat-clear in narration.
+- "Truly, my heart was full." — Kyra is incapable of "truly" / "my heart was full" register; she would invert to "Damn, I loved her" or "I loved her with every bit of me."

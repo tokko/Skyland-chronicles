@@ -4,10 +4,10 @@ name: Zandor
 aliases: []
 type: character
 role: major supporting character
-status: alive (presumed — bike missing from ruins in ch27)
-faction: skylanders
-first_appearance: chapter-02
-last_updated_scene: chapter-27 (bike noted as absent)
+status: alive (confirmed in book 3 ch.13-15 — commands the Ca'el; escapes the fall of Ca'el capital; fate unknown after book-3 ch.15)
+faction: skylanders (book 2) → Ca'el (book 3, as their commander)
+first_appearance: book-2 chapter-02
+last_updated_scene: book-3 chapter-15
 ---
 
 # Zandor
@@ -49,3 +49,6 @@ Starts as the warm heart of the group. Loses Valia (and Felaan). Is confronted b
 - His statement "Now and forever" in ch25 mirrors Kyra's phrase — it lands as the most loaded moment in the confrontation.
 - His moral argument ("sample size of one" used against Marissa's ideology in ch25) is the one she cannot fully rebut.
 - The missing bike in ch27 is the only evidence of his survival; Marissa notes it as a "small twinge of hope."
+- **Book 3 reveal**: Zandor survived. He fled south with a handful of surviving Skylander Mages and over thirty years rebuilt power among the southern peoples — by book 3 he leads the Ca'el, a Mage-aristocratic southern empire that becomes the Bizhjerai's primary adversary. In book-3 ch.13-15 Marissa confronts him at the Ca'el capital, where he refuses to surrender and escapes after his Mages are decimated. He is alive but his post-ch.15 location is not given.
+- Marissa "had not heard or seen anything of him in nearly thirty-five years" — she had assumed him dead until book-3 ch.13's scry confirmed the Ca'el commander was Skylander-trained, and ch.14 confirmed his identity.
+- Barengar's resemblance to Zandor is a recurring noted-but-not-acted-on motif in book 3.

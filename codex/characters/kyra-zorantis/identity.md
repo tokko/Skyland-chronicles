@@ -2,53 +2,86 @@
 id: kyra-zorantis
 name: Kyra Zorantis
 aliases:
-  - The Red Terror
-  - mother
+  - Bás Marbhadair
+  - Dragonbane
+  - The Traitor (Skylander epithet)
+  - mother (to Marissa)
 type: character
-role: major supporting character (spectral)
-status: dead (liche spirit bound in dagger)
-faction: bizhjerai-clans (former general)
-first_appearance: chapter-06
-last_updated_scene: chapter-28
+role: book-1 protagonist; major supporting character through books 2-3 (spectral)
+status: dead (liche spirit bound in dagger; later absorbed into Epitome)
+faction: Skylands mercenary (pre-book-1) → bizhjerai-clans (adopted Clan member from book-1 ch.17 onward)
+first_appearance: book-1 chapter-1 (POV)
+last_updated_scene: book-3 chapter-17
 ---
 
 # Kyra Zorantis
 
 ## Identity
 
-The most feared Bizhjerai general of the war against the Skylands — known as "The Red Terror." She is Marissa's adoptive mother; she took in Marissa after Marissa's birth mother (Kyra's partner) died at Utopeia. She is the one who adapted Grasax's shield tower to also receive artificial ley lines (the same design flaw Marissa later discovers in the Groundlands). She destroyed the Skylands — this is the defining event of her life. She died before the manuscript opens, sacrificing herself to take down the Skylands. Her spirit persists in a liche enchantment in her dagger's gem, bound by Alissa's craftwork.
+POV character of book 1. A Skylander mercenary from the slums of the Skylands. Sole earner for her widowed mother after her father was killed and butchered for meat by the corrupt Skylander state. Her best friend since childhood was the mage Kendall — they grew up together in the Undercity; he became her primary armourer and supplier of enspelled bullets. Took the alias "Dragonbane" after she climbed a Dragonkin dragon during the invasion of the Skylands and personally killed most of the Mages riding it, turning a slaughter into a victory.
 
-Kyra's birth name, "The Red Terror," was also the name given to the Bizhjerai flagship — the Red Terror — in her honour.
+After the Dragonkin invasion the Skylands learned that the world outside still existed. Kyra was sent on the **Pioneer expedition** as part of a scouting party to make first contact with the peoples of the mainland. The expedition was attacked and scattered; Kyra was captured by Clan Bizhjerai and held as a prisoner-guest at their main camp on the plains. There she befriended the Chief's daughter **Anjali** (whom she nicknamed "Red" for her hair), helped Clan Bizhjerai defeat a raid by the Outcasts and a war against Clan Kriath. She was formally adopted into Clan Bizhjerai and given the name **Bás Marbhadair** ("Death-killer" in the Clan tongue) for her part in defeating the liche **Grasax** at Dun Traelak. She and Anjali married in a Dragonkin soul-binding rite officiated by Malkareth, the Red dragon hatched from an egg at Dun Traelak's fount whom Kyra raised as her son.
+
+When Skylander ships arrived to colonise the mainland (founding Utopeia in the Elweyr forest) Kyra reluctantly led Clan Bizhjerai's resistance. Anjali — by then called "the Red Terror" for her fury — was killed by a stray Skylander bullet during the breach at Utopeia. Kyra carried out a soul-blazing rampage that killed thousands of Skylanders single-handedly. She returned to Dun Traelak with Anjali's body, oversaw the funeral pyre, executed Iolan (the Ithlaki chief who insulted Anjali's memory) by ripping his heart out, then stabbed herself with Grasax's enchanted dagger. The dagger's liche-rune captured her soul; she awoke as undead. Then she flew Malkareth out to the Skylands, dove into the Great Geyser with her son, and drank the magic fount that held the city aloft. Malkareth died in the process. Kyra "Archoned" — her body atomised, leaving only her spirit-form bound to the dagger. The Skylands fell into the ocean, killing nearly two and a half million Skylanders.
+
+Before dying she compressed her entire life into a memory-core gem and dispatched a spell-beast to deliver it to her daughter Marissa in Dun Traelak. Marissa relives those memories at the start of book-2's backstory.
+
+In book 2 Kyra exists as a spectral presence, summoned only when the magic field is dense enough to support her form. In book 3 her soul is voluntarily folded into Epitome (Marissa's spell-construct) — Kyra explicitly sacrifices her chance of any afterlife with Anjali to give Epitome the moral content needed to end the Bizhjerai-Ca'el war.
 
 ## Physical
 
-One prosthetic arm (crystal). Glowing violet eyes (manifestation sign). Burn scar on the left side of her face and neck. A scar runs through her eyebrow. When she manifests, she appears in full physical detail but is immaterial to ordinary weapons. Her form is powered by magic field density or energy drawn from the dagger's gem.
+Petite woman, short for a Skylander. Curly purple hair (dyed-in-her-twenties; never naturally) by shoulder-blade length. Scar through one eyebrow from earlier mercenary work. Multiple scars across her body — battles before book 1 left her with thigh-claw scar from the Dragonkin, burn scars on the inside of one arm and the back of her legs.
+
+After book-1 ch.34 onward (the assault on Grasax's barrier and her duel with him): loses her right arm below the elbow, replaced with a materialised-magic crystal prosthetic. Glowing violet eyes after her liche transition (book-1 ch.50-51). Veins glow when she draws power. Burn scars across the left side of her face and neck from the wound that nearly killed her in the Grasax fight. After Archoning at the Geyser her body is gone entirely — she manifests only as a spectral image in dense magic fields, drawn from the memory of her last living form.
 
 ## Voice
 
-Pragmatic, direct, occasionally dry with dark humour. Uses profanity freely ("blow shit up" is her tactical advice). Speaks with the weight of someone who has seen wars won and lost. Can be tender with Marissa but is unsentimental about death, including her own. Uses "daughter" frequently in address.
+See voice.md. Profanity-laced, dry, blunt; mercenary register layered with Bizhjerai cadence she picked up living among Anjali's people. Tender only with Anjali, Marissa, and Malkareth.
 
 ## Goals
 
-**In death**: See Marissa complete the mission; keep her safe; eventually reunite with her partner in death. She is patient about the last goal — explicitly content to remain as long as Marissa needs her.
+**Surface goal (book 1)**: Survive the Skylands; protect her mother; keep Kendall out of trouble; then, after the Pioneer captured her, return home; then, after meeting Anjali, defend Clan Bizhjerai from Grasax, then from her own people.
+
+**Deeper goal**: Belong somewhere. The Skylands never gave her that. The Bizhjerai did.
+
+**Misbelief**: That she is "just a destroyer" who can only kill, not build. Anjali repeatedly tells her this is wrong; she only half-believes it.
+
+**Goal after Anjali's death**: Annihilate the Skylands so they can never threaten Anjali's people again. She succeeds at unimaginable cost.
+
+**In death (books 2-3)**: See Marissa complete the mission; protect her; eventually be released. In book 3 she goes further and chooses to dissolve into Epitome rather than wait for release — her final sacrifice gives the Bizhjerai a future.
 
 ## Arc
 
-Exists only as spectral presence. Her arc is about permission: giving Marissa the permission to grieve, to act, to let her go. She does not change — she is a fixed point. Her function is to model pragmatic love unclouded by self-interest.
+**Book 1**: Numb mercenary → unwilling diplomat → loyal Bizhjerai → wife and mother → liche-vengeance. Ends as the ghost in her own dagger.
+
+**Books 2-3**: Spectral support. In book 3 her final act is to give up the possibility of any afterlife reunion with Anjali to ensure Marissa's project succeeds — the most generous act of her existence.
 
 ## Relationships
 
 | Character | Relationship | Notes |
 | --- | --- | --- |
-| Marissa | Adoptive daughter | "Now and forever" is their shared phrase |
-| Birth mother ("mom") | Partner/wife | Died at Utopeia during the siege; Marissa's birth mother |
-| Kendall | Old friend and ally | Refers to him as "old friend" |
-| Grasax | Predecessor (dragon) | Adapted his shield tower technology |
-| Malkareth | Marissa's dragon-brother | Kyra raised him too; his self-directed plan at Dun Traelak was decisive |
+| Anjali ("Red", "the Red Terror") | Wife (married book-1 ch.36 via Dragonkin soul-bond) | Killed at Utopeia (book-1 ch.49); the central love of her life |
+| Marissa | Adopted daughter (taken in book-1 ch.5 after Greg's death) | "Now and forever" is the family pet-phrase |
+| Greg | Friend, fellow mercenary, Marissa's father | Killed in Dragonkin invasion (book-1 ch.4 area) when he charged the dragon to support her |
+| Kendall | Lifelong best friend | Brilliant Mage; supplied her weapons; raised Marissa in Dun Traelak after Kyra's death |
+| Kyra's mother | Living parent on Skylands; killed in the Fall of the Skylands but moved out to Dun Traelak with Marissa before that | "Mom" (to Kyra), "grandmother" (to Marissa) |
+| Malkareth | Dragon-son (hatched from Dun Traelak fount egg, raised by Kyra) | Soul-bonded; died at the Geyser with her |
+| Alissa | Shipmate from the Pioneer expedition; trekked across the wilderness with her | Survived; became Marissa's "Aunt" |
+| Grasax | Predecessor liche at Dun Traelak | Killed by Kyra in book-1 ch.34-area; she used his dagger's liche-enchantment for her own transition |
+| Anton | One-mission partner (book-1 ch.1) | Skylander mercenary, killed during the Stardust raid |
+| Raynard | Sometime sexual partner / former handler | Skylander mercenary; killed by Kyra in book-1 ch.17 when she found him among Clan Kriath prisoners |
+| Markus | Skylander assassin's target (book-1 ch.3) | Killed by Kyra at Kendall's request — Markus was blackmailing Kendall |
+| Marie | Bizhjerai warrior friend in book 1; later Chief of Chiefs | Wounded in the hip at Utopeia ahead of Anjali's death; survived |
+| Epitome | Receives Kyra's soul in book 3 | Kyra voluntarily dissolves into Epitome to save the Bizhjerai |
+
+## Knowledge state
+
+By book-2 ch.6 (first on-page manifestation): knows Skylander tactics, Bizhjerai geography, Grasax's enchantment work, the geometry of the Great Geyser. Continually informed by Marissa's experiences via the dagger-bond.
 
 ## Notes
 
-- She can only manifest when magic field density is sufficient or when the dagger has stored enough power.
-- She can travel only a limited distance from the dagger.
-- At maximum density (like the Wild Magic after the tower explosion) she can maintain presence longer.
-- In the epilogue Marissa refuses to release her; the dagger returns to Dun Traelak's fount to recharge.
+- The codex previously identified Kyra as "the Red Terror" — this is canonically wrong. **Anjali was the Red Terror.** The flagship Red Terror was named after Anjali. Kyra is "Bás Marbhadair / Dragonbane".
+- Voice in book 1 is rawer, more profane, and more sexually direct than the spectral version Marissa hears in book 2. In book 2 Kyra has been dead for a decade and a half; she is gentler, more weary, more strategically minded.
+- Her age at death: about thirty (stated in the closing line of book 1).
+- The dagger she carries in books 2-3 is Grasax's dagger that she stole, modified to hold her own soul instead of Grasax's.
+- Her birth surname is "Zorantis" — taken by Marissa as a Skylander adoptive name.
