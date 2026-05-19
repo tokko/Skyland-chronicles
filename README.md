@@ -31,4 +31,4 @@ Defined in `.claude/commands/`:
 
 ## Branch
 
-All work lives on `claude/novel-codex-restructure-uPu9H`. Don't push elsewhere without explicit approval.
+All work lives on `main`. Don't push elsewhere without explicit approval.

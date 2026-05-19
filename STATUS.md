@@ -1,7 +1,7 @@
 # Status
 
-**Branch**: claude/novel-codex-restructure-uPu9H
-**Generated**: 2026-05-19T12:19:18Z (UTC)
+**Branch**: main
+**Generated**: 2026-05-19T12:53:31Z (UTC)
 
 ## Current state
 
@@ -25,7 +25,10 @@
 ## Recent commits
 
 ```
+727cd46 merge: bring rewrite scaffold onto main
+9c9c270 scaffold: wiki, slash commands, resume protocol, pipeline parameters
 b37b5c0 scaffold: operations manual, codex skeleton, kanban, subagent definitions
+fb4a951 Add files via upload
 ```
 
 ---

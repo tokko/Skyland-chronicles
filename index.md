@@ -1,6 +1,6 @@
 # Skyland Chronicles — Wiki
 
-A living codex and rewrite log for the Skyland Chronicles trilogy. This site is generated from the repository on every push to `claude/novel-codex-restructure-uPu9H`.
+A living codex and rewrite log for the Skyland Chronicles trilogy. This site is generated from the repository on every push to `main`.
 
 ## Where to start
 

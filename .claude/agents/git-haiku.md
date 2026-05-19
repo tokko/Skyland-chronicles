@@ -17,7 +17,7 @@ You do NOT handle: destructive operations (`git reset --hard`, `git clean -f`, `
 
 ## Branch discipline
 
-All commits land on `claude/novel-codex-restructure-uPu9H`. If `HEAD` is detached or on another branch when you start, stop and report — do not attempt to fix it.
+All commits land on `main`. If `HEAD` is detached or on another branch when you start, stop and report — do not attempt to fix it.
 
 ## Commit message format
 
@@ -42,7 +42,7 @@ EOF
 
 ## Push protocol
 
-When the orchestrator asks for a push: `git push -u origin claude/novel-codex-restructure-uPu9H`.
+When the orchestrator asks for a push: `git push origin main` (or `git push -u origin main` the first time on a fresh checkout).
 
 Retry up to 4 times on network failures with exponential backoff (2s, 4s, 8s, 16s). Do not retry on auth errors, conflict errors, or hook failures — report back instead.
 

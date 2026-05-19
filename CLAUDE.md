@@ -168,7 +168,7 @@ The following files are loaded every turn:
 - **Never** invent characters, locations, or factions not in the source manuscript or pre-approved expansion plan. New entities require an INDEX.md entry first.
 - **Never** collapse a hard beat into a soft one, skip it, or off-screen it.
 - **Never** narrate the model identifier (e.g. `claude-opus-4-7[1m]`) into committed files, commit messages, or PR text.
-- **Never** push to a branch other than `claude/novel-codex-restructure-uPu9H` without explicit user approval.
+- **Never** push to a branch other than `main` without explicit user approval.
 - **Never** start the queue drain before the canary scene has been approved (presence of `.canary-approved`).
 - **Never** loop more than 3 Sonnet passes on a single scene; surface to user instead.
 - **Never** start a new book before the previous book's `/codex-audit` has passed.

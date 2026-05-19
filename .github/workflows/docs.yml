@@ -3,7 +3,6 @@ name: Build and deploy wiki
 on:
   push:
     branches:
-      - claude/novel-codex-restructure-uPu9H
       - main
   workflow_dispatch:
 
