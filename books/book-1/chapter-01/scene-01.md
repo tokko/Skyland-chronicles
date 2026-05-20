@@ -24,7 +24,7 @@ No voices from behind the door at the end of the passage. A strip of yellow ligh
 
 I stood there and listened for thirty seconds. The silence behind the door was working silence. If they were hiding they would have killed the lights. Ford was a good detective and a mediocre intelligence source.
 
-I had a shield-breaker on my belt, one of Kendall's recent gifts, handed over with the warning to save it for projectors worth the cost — the device cracked the projector along with the shield, and projectors cost more than most of what I owned. The door ahead looked like plain crystal with a standard mechanical lock — no shimmer at the edges that would mean a shield field. I tried the latch. Unlocked.
+The door ahead looked like plain crystal with a standard mechanical lock. I tried the latch. Unlocked.
 
 I pushed it open with my shoulder, held the weight so it did not carry into the wall, and went through.
 
@@ -44,24 +44,24 @@ One had a muzzle-loader and got it to his shoulder faster than I would have expe
 
 He did not drop it. They never do when you call from concealment, because they cannot see you and they are stupid pricks who think the angle will come to them. He came around the pillar low, and I was already flat with the revolver pointed at the gap between the pillar edge and the wall, and when his head came through I shot him in the temple. He sat down against the stone and stopped.
 
-Anton had the kneecapped guard.
+Anton had the kneecapped guard. Graft-craze had Anton by then — graft-flood doesn't stop when the threat stops, it stops when it stops, and Anton was no longer driving.
 
 The crowbar came down on the man's chest, the ribcage giving way the way a crystal panel does under a hammer. Then on the face: the lower jaw folded sideways and tore free of its hinge, the tongue coming with it, and the second strike took the side of the skull off above the ear and stopped the screaming.
 
-Then he turned to the women.
+The graft turned him toward the women.
 
-The closest one was too slow getting up from the table. He took the back of her head in his free hand and put her face into the work surface with enough force that the crystal slab cracked across the centre. She went limp. He pulled her up by the hair and threw her bodily across the floor and she landed beside the dead pillar guard, headband off, mouth open, not moving.
+Graft-flood doesn't filter by threat — anything in motion in the room is the same problem the guards had been. The closest woman was too slow getting up from the table. His free hand caught the back of her head and put her face into the work surface hard enough that the crystal slab cracked across the centre. She went limp. He pulled her up by the hair and threw her across the floor without looking at where she landed; she came to rest beside the dead pillar guard, headband off, mouth open, not moving.
 
-The next one ran. She made it three steps toward the door I had come through. Anton was on her before five. He took her by the shoulder and the joint came apart with a noise like wet leather tearing — the arm came away in his hand, still in its socket-cuff of muscle, and he was still moving forward, the rest of her still trying to run for two more steps before her body remembered what had happened to it and went down. He hit her in the back of the head with the crowbar to be sure.
+The next one ran. She made it three steps toward the door I had come through. The graft was on her before five — graft-craze sees a runner and the graft does the math on closing the distance without bothering Anton about it. He took her by the shoulder and the joint came apart with a noise like wet leather tearing, the arm coming away in his hand still in its socket-cuff of muscle. The graft was already moving past her; the rest of her ran for two more steps before her body caught up to what had happened to it and went down. He came back around and hit her in the back of the head with the crowbar to be sure.
 
-The third — older, slower, did not try to run. He hit her once across the throat and once across the temple and she folded to the floor in two separate pieces of motion. She was bleeding from the throat before her head touched the crystal.
+The third — older, slower, did not try to run. The graft did not care; graft-flood eats the still ones too. Crowbar across the throat. Crowbar across the temple. She folded to the floor in two separate pieces of motion. She was bleeding from the throat before her head touched the crystal.
 
-The screaming had spread from the north end of the room. He kept going.
+The screaming had spread from the north end of the room. The graft kept Anton going.
 
-I checked the Powerstone reading on my gorget. The breach-spell and four shots had brought it past the halfway mark — I would be back at the dispenser at home before nightfall or the casings would start coming up empty in the cylinder, and that meant Kendall would hear about it and I would hear about it from Kendall. I palmed the cylinder over the gorget to push the regeneration on the spent chambers; the Powerstone bled what it had into them, slow.
+I checked the Powerstone reading on my gorget. The breach-spell had taken real charge from it — the spell was the cost, not the firing — and there were four spent chambers in the cylinder I had not bothered to cycle. The casings only drew when I activated them, and I was not activating until the arch.
 
-Anton was in graft-flood. The room was his now. Anton stopped when he stopped, not when the threat stopped, and the room was full of threats now whether the room knew it or not. Ford had hired him. I had work in the next room and was not paid to manage other people's chemistry.
+Anton was deep in graft-flood and the room was his until the graft burned out. Ford had hired him. I had work in the next room. Babysitting a graft-craze was not in the contract.
 
 I walked toward the arched passage at the north end of the room, the shield-breaker in my hand, thumb finding the projector-warded seal by memory.
 
-The screaming continued. Behind me and to my left, through the glow-globe light, Anton's shoulder caught the angle of the nearest globe as he moved — the graft-flush deep across the skin, steam coming off him in the cooler air of the cooking floor, the dead-meat strips at his collarbones running with the borrowed blood they had been carrying since the day they came out of someone else's body. I did not look back. The hum of the shielded inner-room seal found its frequency in my bones, low and exact. I stepped under the arch.
+The screaming continued. Behind me and to my left, through the glow-globe light, I caught Anton in motion — wet to the elbows, the crowbar slick the full length of it, blood across his chest in long arterial sprays, more across his jaw and his ear where someone had opened at close range. The graft-flush still ran underneath all of it, steam coming off the skin in the cooler air of the cooking floor, the dead-meat strips at his collarbones twitching with the graft-craze. The graft does not look down at its own arms. I did not look back either. The hum of the shielded inner-room seal found its frequency in my bones, low and exact. I stepped under the arch.

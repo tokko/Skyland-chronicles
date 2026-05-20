@@ -35,20 +35,20 @@ The material appears to grow out of nothing. Crystal structures have the distinc
 
 All Skylander firearms — revolvers, muzzle-loaders, repeaters — fire **crystal shot only**. There is no lead, iron, or non-materialised ammunition on the Skylands; the magic substrate of the city is too dense for non-crystal projectiles to behave consistently. The bullet itself is a small materialised-magic crystal slug; the casing is an enchanted shell that regenerates a new slug between shots.
 
-Firing is mechanical: the powder charge propels the crystal slug down the barrel. **The magical cost is the regeneration of the slug inside the casing after the shot, and that cost is paid by the wearer's personal Powerstone.** Per `magic/system.md` "Skylands mana economy", the Skylands has no thick ambient mana field outside the immediate Bowels — mana is rationed and held in containment fields (Powerstones for individuals). So:
+Firing is mechanical: the powder charge propels the crystal slug down the barrel. **Firing draws on no mana source — the discharge is purely chemical.** What costs mana is the casing's regeneration enchantment, and the regeneration enchantment is **manually activated, not automatic**. The wearer triggers it (typically a thumb-pass across the cylinder face, a rune-tap on the gorget Powerstone, or a small spoken catch-word) when they need the cylinder refilled. Activation draws mana from the wearer's Powerstone (or, off-Skylands, from natural ambient) to regenerate the slug inside each spent chamber. Until activated, spent chambers remain empty — the cylinder will dry-click on the spent rounds. A competent merc can fire all six and defer activation until they are out of the immediate firefight, at the cost of running on whatever fresh chambers remain. Per `magic/system.md` "Skylands mana economy", the Skylands has no thick ambient mana field outside the immediate Bowels, so activation cost is always paid out of the wearer's own containment field. So:
 
-- **Every shot draws a measurable bite from the Powerstone.** A six-cylinder revolver fully discharged might consume a quarter to a third of a standard Powerstone's charge to regenerate; mercs with cheaper or older stones run dry faster.
-- **There is no "free" regeneration from ambient.** The casings will sit empty (no crystal slug) until the wearer's Powerstone has charge to give them. A merc with a depleted stone is carrying an empty gun.
-- **Refilling a Powerstone happens at a mana dispenser** — at the wearer's home, at the Guild, at a commercial charging post (premium-priced). The infrastructure is metered. Mercs budget their shots.
-- **Off-Skylands behaviour is a later discovery.** On the mainland the casings can pull regeneration from natural ambient mana (which is everywhere, unmetered). Kyra and the Pioneer expedition learn this only after they cross the Barrier; the discovery is voice-event-grade and should land as one. Before the mainland, the wearer assumes the Powerstone is the only source.
+- **Firing does not drain the Powerstone.** Activating the casings does. A merc can fire all six in a corridor and walk through the next door with all six chambers empty if they choose to defer.
+- **Activation is a deliberate choice, not a reflex.** A spent cylinder is not automatically refilling itself between shots. The wearer decides when to pay.
+- **There is no "free" regeneration from ambient on the Skylands.** Even when activated, the casings draw exclusively from the Powerstone in city-airspace. Off-Skylands the wearer eventually learns the casings can pull from natural ambient instead — voice-event-grade discovery, not default.
+- **Refilling a Powerstone happens at a mana dispenser** — at the wearer's home, at the Guild, at a commercial charging post (premium-priced). The infrastructure is metered. Mercs budget their activations against their dispenser allowance.
 
-A "reload" in Skylander parlance is therefore not the loading of fresh rounds (the casings are perpetual) but the swapping of a worn or fouled casing-set — typically done at home, not in the field. In a firefight a merc may **palm the cylinder over the gorget Powerstone** to accelerate regeneration when the stone is being slow to feed.
+A "reload" in Skylander parlance is therefore neither the loading of fresh rounds (the casings are perpetual) nor the regeneration of slugs (which is the activation step described above) — it is the swapping of a worn or fouled casing-set, typically done at home, not in the field.
 
 ## In-text references
 
 | Scene | Use | Cost paid |
 | --- | --- | --- |
-| book-1 ch.1 scene-01 | Breach-spell on cooking-floor lock + four crystal-shot revolver rounds (corridor + cooking-floor pillar guard + cooking-floor kneecap shot + closing pillar-temple shot) | Personal Powerstone; meaningful depletion (past half-charge by scene end) |
+| book-1 ch.1 scene-01 | Breach-spell on cooking-floor lock + four mechanical-discharge rounds (corridor + cooking-floor knee + closing pillar-temple); casing activation deferred to the arch | Powerstone drained by the breach-spell only (firing itself was chemical); four chambers spent and not yet regenerated when scene ends |
 | chapter-08 onward | Workshop, artificial ley lines, focusing towers | Ley-line power |
 | chapter-22 | Violet shroud for Valia; rope | Personal power |
 | chapter-23 | Telekinetic splint for femur | Personal power |
