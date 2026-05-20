@@ -176,6 +176,7 @@ The following files are loaded every turn:
 ## Guardrails
 
 - **Never** run `git` from the orchestrator's Bash. Always spawn the git operator (Haiku).
+- **Never** run noisy commands from the orchestrator's Bash. Package installs (`pip install`, `npm install`, `apt`), full builds (`mkdocs build`, `webpack`, test suites), recursive greps over `source/` (a 472k-word corpus), and anything else that produces more than ~50 lines of output **poison the context window**. Delegate to a general-purpose subagent (Haiku for trivial; the appropriate model otherwise) and ask for a paragraph summary. The exception is when the noise itself is the deliverable — e.g. you need to read a specific short error message you already know will be terse. Default to delegating; only run inline when you have already confirmed the output will be small.
 - **Never** accept a scene on the first pass without going through the reviewer.
 - **Never** commit a scene without the corresponding codex update.
 - **Never** invent characters, locations, or factions not in the source manuscript or pre-approved expansion plan. New entities require an INDEX.md entry first.
