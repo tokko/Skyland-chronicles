@@ -3,7 +3,7 @@ site_description: Codex, kanban, and rewrite log for the Skyland Chronicles tril
 site_url: https://tokko.github.io/skyland-chronicles/
 repo_url: https://github.com/tokko/skyland-chronicles
 repo_name: tokko/skyland-chronicles
-docs_dir: .
+docs_dir: _build
 site_dir: site
 
 theme:
@@ -50,18 +50,6 @@ markdown_extensions:
 plugins:
   - search
 
-exclude_docs: |
-  .git/
-  .github/
-  .claude/
-  .canary-approved
-  scripts/
-  source/
-  mkdocs.yml
-  .gitignore
-  site/
-  README.md
-
 nav:
   - Home: index.md
   - Status: STATUS.md
@@ -78,5 +66,8 @@ nav:
       - Hard: codex/beats/hard.md
       - Soft: codex/beats/soft.md
       - How beats work: codex/beats/README.md
-  - Books: books/
+  - Books:
+      - Series outline (Book 1): books/book-1/BOOK.md
+      - Book 1 / Chapter 1 outline: books/book-1/chapter-01/CHAPTER.md
+      - Book 1 / Chapter 1 / Scene 01 — The Breach: books/book-1/chapter-01/scene-01.md
   - Kanban: kanban/README.md
