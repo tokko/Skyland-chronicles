@@ -242,6 +242,19 @@ Born-Skylander narrators cannot reach for nature as metaphor, comparison, or ima
 - Compound nouns Kyra would not know: "buttercup", "rosewood", "honeycomb", "spider-web pattern" (no spiders).
 - Even single-word borrowings where Kyra has no referent: "fresh", "wild", "weed", "field" (as ecosystem) — these need to come from the mainland later, not from the Skylands chapters.
 
+**Watch for (material absences beyond nature)**:
+
+The Skylander frame of reference also lacks paper, wood, animal leather, plant/animal textiles, birds-up-close, and unfiltered daylight. Reflexive English idioms that bury these materials are easy to miss:
+
+- **Paper**: "wallpaper", "paper-thin", "on paper", "scrolling through", "leaf through" (also a nature one), "newspapers", "paperwork", "the small print", "tear up a contract".
+- **Wood**: "knock on wood", "wooden expression", "wooden door", "stiff as a board", "beams overhead", "the splinter group", "rotten to the core" (also a nature one).
+- **Leather (animal)**: "tough as old leather", "the leather sofa" — and any "leather" that doesn't specify human leather, because Skylanders only know human leather and would not need to qualify.
+- **Textiles (plant/animal)**: "wool-gathering", "spun a yarn", "cotton on", "linen-white", "silk-smooth", "felt-soft".
+- **Birds**: "bird's-eye view", "early bird", "free as a bird", "fly the coop", "a little bird told me", "winged it", "ruffled her feathers", "took flight" (when not literal magic flight).
+- **Sun**: "felt the sun on her face", "a sunny disposition", "sun-drenched", "sun-bleached", "as the sun rose" — the Skylands has filtered Barrier-light, never raw sun. Born-Skylanders do not have the embodied memory of unfiltered sunlight.
+
+**Fix**: substitute with the materials Skylanders actually know. Wallpaper → crystal pattern, crystal grain, the indigo grain ran down the corridor. Newspapers → broadsheets etched into crystal tablets (the Skylander equivalent), or simply "the morning crystal." Wool blanket → fungal-fibre blanket, spore-silk wrap. Bird's-eye view → "the view from a Skyway gantry." Felt the sun on her face → "the Barrier light was warm against her cheek." When in doubt, the substitute should narrow the picture, not broaden it. The mainland will deliver these materials as voice events when Kyra eventually crosses the Barrier.
+
 **Fix**: substitute with materials Kyra knows. Crystal (and its colours: indigo, violet, dark-crystal), fungus (and its forms: cap, stalk, spore-bloom — yes "bloom" here is permitted because the Skylands has fungus), brass, gauze, gut, ore, fume, glow-globe, Powerstone, gorget, Skyway, the Geyser, the Bowels, scaffolding, lift-platform. When the prose wants a "sharp-eyed" comparison, give the character a specific tactical eye-detail (someone who tracks the angle of a muzzle without moving her head). When it wants "branching", give it "splitting" or "forking" (yes "fork" is fine — Kyra knows what a metal fork is). When it wants "rooted to the spot", give it "she had not moved her feet". When it wants "blooming colour", give it "the crystal field deepening".
 
 **For mid-book-1 onward (after Kyra reaches the Bizhjerai)**: nature words may enter one at a time. Each first-use should land as a voice event — the word arriving unfamiliar, sometimes via a Bizhjerai loanword, sometimes mis-applied. The rule is not "no nature in books 1+" — it is "no nature on the Skylands, and gradual unfamiliar acquisition once she leaves". The narration softens at the same pace.

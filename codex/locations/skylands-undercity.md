@@ -42,7 +42,7 @@ The base layer of book-1's worldbuilding. Where Kyra is from; where Greg lives; 
 
 | Scene | State | What changed |
 | --- | --- | --- |
-| book-1 ch.1 scene-01 | Active; one Lower-Undercity Stardust manufactory under raid — corridor and cooking floor breached by Kyra and graft-merc Anton; four guards dead; unknown number of cooking-floor women killed in Anton's graft-flood; shielded inner room intact and being approached | Detective Ford's unsanctioned anti-Stardust contract in execution; cartel labour casualties unacknowledged on the merc side |
+| book-1 ch.1 scene-01 | Active; one Lower-Undercity Stardust manufactory under raid — corridor and cooking floor breached by Kyra (breach-spell on the lock) and graft-merc Anton; four guards dead; three cooking-floor women explicitly killed by Anton on-page in graft-flood plus an unknown number continuing offscreen as Kyra crossed under the arch; shielded inner room intact and being approached with shield-breaker | Detective Ford's unsanctioned anti-Stardust contract in execution; cartel labour casualties unacknowledged on the merc side; manufactory's own glow-globe lighting rationed (most globes dimmed) as a tell of cartel-side mana economics |
 | Book-1 ch.1-13 | Active; multi-tiered slum | The economic and criminal substrate of the Skylands |
 | Book-1 ch.51 | Flooded; destroyed with the rest of the Skylands | The fall of the city |
 

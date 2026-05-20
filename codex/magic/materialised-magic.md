@@ -35,18 +35,20 @@ The material appears to grow out of nothing. Crystal structures have the distinc
 
 All Skylander firearms — revolvers, muzzle-loaders, repeaters — fire **crystal shot only**. There is no lead, iron, or non-materialised ammunition on the Skylands; the magic substrate of the city is too dense for non-crystal projectiles to behave consistently. The bullet itself is a small materialised-magic crystal slug; the casing is an enchanted shell that regenerates a new slug between shots.
 
-Firing is mechanical: the powder charge propels the crystal slug down the barrel. **The magical cost is the regeneration of the slug inside the casing after the shot.** The casing's enchantment pulls power from one of two sources, in order of preference:
+Firing is mechanical: the powder charge propels the crystal slug down the barrel. **The magical cost is the regeneration of the slug inside the casing after the shot, and that cost is paid by the wearer's personal Powerstone.** Per `magic/system.md` "Skylands mana economy", the Skylands has no thick ambient mana field outside the immediate Bowels — mana is rationed and held in containment fields (Powerstones for individuals). So:
 
-1. **Ambient magical field** — on the Skylands, where the field is dense (sustained by the Great Geyser's outflow), the casings regenerate almost entirely from ambient mana. Sustained fire by a competent merc in Skylander airspace barely touches their personal Powerstone.
-2. **Personal Powerstone** — when ambient is too thin (deep tunnels in the Bowels; off-Skylands; inside heavily warded rooms that consume the local field), the casings fall back to the wearer's Powerstone. This is the regime under which Skylanders run dry on the mainland and discover, in book-1's mid-act, how badly their kit calibrates for low-field environments.
+- **Every shot draws a measurable bite from the Powerstone.** A six-cylinder revolver fully discharged might consume a quarter to a third of a standard Powerstone's charge to regenerate; mercs with cheaper or older stones run dry faster.
+- **There is no "free" regeneration from ambient.** The casings will sit empty (no crystal slug) until the wearer's Powerstone has charge to give them. A merc with a depleted stone is carrying an empty gun.
+- **Refilling a Powerstone happens at a mana dispenser** — at the wearer's home, at the Guild, at a commercial charging post (premium-priced). The infrastructure is metered. Mercs budget their shots.
+- **Off-Skylands behaviour is a later discovery.** On the mainland the casings can pull regeneration from natural ambient mana (which is everywhere, unmetered). Kyra and the Pioneer expedition learn this only after they cross the Barrier; the discovery is voice-event-grade and should land as one. Before the mainland, the wearer assumes the Powerstone is the only source.
 
-A "reload" in Skylander parlance is therefore not the loading of fresh rounds (the casings are perpetual) but the swapping of a worn or fouled casing-set — typically done at home, not in the field. In a firefight a merc may "feed" their gun by holding the cylinder closer to their gorget Powerstone to accelerate regeneration when ambient is poor.
+A "reload" in Skylander parlance is therefore not the loading of fresh rounds (the casings are perpetual) but the swapping of a worn or fouled casing-set — typically done at home, not in the field. In a firefight a merc may **palm the cylinder over the gorget Powerstone** to accelerate regeneration when the stone is being slow to feed.
 
 ## In-text references
 
 | Scene | Use | Cost paid |
 | --- | --- | --- |
-| book-1 ch.1 scene-01 | Two crystal-shot revolver rounds (corridor + cooking floor); regeneration drawn from Skylands ambient field | Negligible Powerstone drain (Skylands ambient covers regeneration) |
+| book-1 ch.1 scene-01 | Breach-spell on cooking-floor lock + four crystal-shot revolver rounds (corridor + cooking-floor pillar guard + cooking-floor kneecap shot + closing pillar-temple shot) | Personal Powerstone; meaningful depletion (past half-charge by scene end) |
 | chapter-08 onward | Workshop, artificial ley lines, focusing towers | Ley-line power |
 | chapter-22 | Violet shroud for Valia; rope | Personal power |
 | chapter-23 | Telekinetic splint for femur | Personal power |

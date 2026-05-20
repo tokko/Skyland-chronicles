@@ -5,9 +5,9 @@
 
 ## Current state
 
-- **Stage**: **CANARY PAUSE — REVISION + BRUTAL-JADED POLISH APPLIED.** Scene 01 has been rewritten on user canary feedback (commit `f823b6f`) and then surgically polished by the orchestrator to nudge the pre-Anjali Kyra voice harder per user arc-level guidance (this commit). The arc-level voice rule is now codified in `voice-profile.md §Kyra` and `kyra-zorantis/voice.md`. The orchestrator remains paused awaiting user sample-read. Drain resumes only when `.canary-approved` exists at the repo root.
+- **Stage**: **CANARY PAUSE — SUBSTANTIAL REWRITE APPLIED.** User canary feedback (round 2) identified twelve issues — six structural worldbuilding (mana scarcity / no wallpaper / no birds / no lanterns / cadaver-graft origins / breach-as-spell), three dialog/phrasing problems ("Standard", "I don't want your post", "consequential motions"), one economy critique (Powerstone wage comparison meaningless to readers), and two register notes (be more gory; be more explicit about Anton's atrocities). The codex was updated to record the worldbuilding shifts (mana on the Skylands is strictly rationed, not ambient; the city's outgrown the Geyser; that scarcity is the trilogy's economic spine) and the scene was substantially rewritten — orchestrator-level pass, no new Sonnet spawn. The orchestrator remains paused awaiting user sample-read.
 - **Active scene**: none (canary committed; revision cycle closed)
-- **Last completed scene**: book-1 / chapter-01 / scene-01 — *The Breach* (2,034 words after polish; 3 of 3 Sonnet revision budget used; orchestrator-level polish applied on top per user voice note)
+- **Last completed scene**: book-1 / chapter-01 / scene-01 — *The Breach* (orchestrator-rewrite pass on top of the exhausted Sonnet budget; the scene now hews to the corrected mana economics and the material-absence rules)
 - **Canary scene approved**: **no** — awaiting user signoff
 
 ## Revision history
