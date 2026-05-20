@@ -228,6 +228,26 @@ All three narrators reach for the same surprised-mid-action reaction across the 
 
 **Fix**: vary by narrator. Kyra can use "The fuck?" sparingly because she swears as a mercenary. Marissa's "The fuck?" is character — keep two or three per book. Barengar should mostly express surprise non-verbally (a step back, a slow recognition, a question that does not start with "what") because his voice runs less profane than the others.
 
+## 25. Nature metaphors in Skylander-narrator register (Kyra pre-mainland; born-Skylander voices generally)
+
+The Skylands is a floating crystal monolith disconnected from the planet's biosphere for ~six centuries. Its ecology consists of materialised-magic crystal, fungus (the only living non-human matter on the city), and humans. No trees, no flowers, no birds, no mammals, no fish, no rivers, no soil, no rain. Plants and animals exist only as legend.
+
+Born-Skylander narrators cannot reach for nature as metaphor, comparison, or imagery while they are still on the Skylands or have not yet been exposed to mainland flora and fauna. This applies to Kyra in book-1 ch.1–8 absolutely; it applies to any other Skylander POV (Greg, Kendall, Anton, the Pioneer crew before they cross the Barrier) by default. Once a Skylander narrator has lived on the mainland, the vocabulary enters gradually — and the narration softens as it does. The arc-level rule: **nature-vocabulary acquisition tracks humanity-acquisition.**
+
+**Watch for**:
+
+- Direct comparisons: "clever as a fox", "sharp-eyed as an eagle", "graceful as a deer", "stubborn as a mule".
+- Metaphor verbs: "branching", "rooted", "blooming", "blossomed", "wilted", "nested", "swarming" (when not literal insects), "fruit of".
+- Hidden idioms (the easiest to miss): "dog-leg" (corridor or path), "hawk-eyed", "eagle-eyed", "ferret out", "panning across" (derives from gold-panning in rivers), "weeding through", "ploughing through", "pruning", "in full bloom", "fresh as a daisy", "snake in the grass", "barking up the wrong tree", "going to seed", "hibernating".
+- Compound nouns Kyra would not know: "buttercup", "rosewood", "honeycomb", "spider-web pattern" (no spiders).
+- Even single-word borrowings where Kyra has no referent: "fresh", "wild", "weed", "field" (as ecosystem) — these need to come from the mainland later, not from the Skylands chapters.
+
+**Fix**: substitute with materials Kyra knows. Crystal (and its colours: indigo, violet, dark-crystal), fungus (and its forms: cap, stalk, spore-bloom — yes "bloom" here is permitted because the Skylands has fungus), brass, gauze, gut, ore, fume, glow-globe, Powerstone, gorget, Skyway, the Geyser, the Bowels, scaffolding, lift-platform. When the prose wants a "sharp-eyed" comparison, give the character a specific tactical eye-detail (someone who tracks the angle of a muzzle without moving her head). When it wants "branching", give it "splitting" or "forking" (yes "fork" is fine — Kyra knows what a metal fork is). When it wants "rooted to the spot", give it "she had not moved her feet". When it wants "blooming colour", give it "the crystal field deepening".
+
+**For mid-book-1 onward (after Kyra reaches the Bizhjerai)**: nature words may enter one at a time. Each first-use should land as a voice event — the word arriving unfamiliar, sometimes via a Bizhjerai loanword, sometimes mis-applied. The rule is not "no nature in books 1+" — it is "no nature on the Skylands, and gradual unfamiliar acquisition once she leaves". The narration softens at the same pace.
+
+**For Marissa, Barengar, Anjali, Bizhjerai-raised characters**: this rule does NOT apply. They grew up with flora and fauna. They use nature words freely.
+
 ---
 
 This file is updated as the orchestrator notices new patterns during voice extraction and during reviewer audits. Reviewers cite entries here by section number when flagging violations.

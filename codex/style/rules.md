@@ -41,6 +41,11 @@ General prose rules for the rewrite. Sits alongside `voice-profile.md` (the posi
 - New terms get an INDEX.md entry the same commit they appear in.
 - A reader should be able to infer a new term's meaning from context on first encounter. No glossary-reliance.
 
+## Narrator lexicon and worldbuilding consistency
+
+- **Born-Skylander narrators do not use nature as metaphor, comparison, or imagery while on the Skylands.** The Skylands has crystal, fungus, and humans — nothing else. Plants and animals are six-centuries-ago legend. No "clever as a fox", no "sharp-eyed as an eagle", no "rooted to the spot", no "in full bloom", no "dog-leg corridor". See `voice/polish-targets.md §25` and `voice/voice-profile.md §Kyra` for the full rule and substitution palette. The vocabulary enters gradually after a Skylander narrator leaves the city, and the narration softens at the same pace.
+- Each narrator's lexicon is bounded by their lived experience. A Bizhjerai-raised character knows buffalo, plains, and storms. A Skylander narrator who has never seen daylight does not. The lexicon is itself characterisation; do not violate it for convenience.
+
 ## Length targets
 
 - Scene: 1,500–2,500 words typical. Hard-beat scenes may run to 3,500.

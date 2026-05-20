@@ -64,6 +64,18 @@ Kyra's humanity is **a function of love**. In ch.1 she has none — mother dista
 
 **Test for pre-Anjali voice**: no internal pity for civilians; no defensive trailing-clause justifications for brutal acts; no lyric closing image. When any of these creeps in, the voice has drifted toward spectral-Kyra. The fix is to cut, not to soften.
 
+### Skylander lexicon — no nature, ever (pre-mainland chapters)
+
+Born-Skylanders grew up on a floating monolith that has been disconnected from the planet's biosphere for ~six centuries. The Skylands has materialised-magic crystal (everything is built from it), fungus (the only living non-human matter on the city — fungal farms feed the population), and humans. No trees, no flowers, no birds, no mammals, no fish, no rivers, no soil, no rain. Plants and animals exist only as legend, mostly mangled across the centuries of retelling.
+
+**Pre-mainland Kyra (book-1 ch.1–8) cannot reach for any nature metaphor or comparison.** Not "clever as a fox" (no foxes), not "sharp-eyed as an eagle" (no eagles), not "rooted to the spot" (no roots), not "in full bloom" (no flowers), not "fresh as a daisy", not "weeds", not "branching path", not "fruit of her labour". The reflexive English idioms that bury a nature image — "dog-leg corridor", "ferreting out", "panning across" — are also forbidden in this register. Substitute with the materials she would actually know: crystal, fungus, brass, gauze, gut, ore, fume, glow-globe, the Skyway, the Geyser, the Bowels.
+
+If she does encounter a nature word in dialogue (a Skylander tale, a children's rhyme), she registers it as legend-vocabulary — half-remembered, possibly wrong. The first time someone mainland says "horse" to her in ch.9-ish, she does not have a referent.
+
+### Lexical softening tracks the Anjali arc
+
+Once Kyra leaves the Skylands and starts living among the Bizhjerai (ch.9 onward), nature words enter her vocabulary one at a time — **and the narration itself softens as they do**. The brutal-industrial register and the no-nature lexicon are the same register. The softer register and the nature-word vocabulary arrive together. Each first-use of a nature word (her first "tree", her first "wolf", her first "rain") is a small step in the same arc as her first private moment with Anjali. Reviewers should clock the first-use moments and let them land as voice events — the words come in unfamiliar, sometimes via Bizhjerai loanwords, sometimes mis-applied. After Anjali dies (ch.49 onward), the brutal register returns but the nature vocabulary is already learned and stays; what changes is the affect. Trees can now appear in the prose. They appear cold.
+
 ### Register (book 1)
 
 First-person past with present-tense interjections. Constantly editorialising — every observed person gets ranked, every choice gets second-guessed on the page, every body she touches gets graded. Bawdy by default. Self-deprecatingly funny. Snide about her own past. Tender only in private with Anjali, Marissa, or Mal.

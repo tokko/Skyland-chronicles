@@ -24,6 +24,8 @@ The monolith had multiple distinct strata:
 
 The city was sustained entirely by magic — water, light, transportation (the Skyway tram running beneath the monolith on a ley line arc), food (fungus farms; no animals could survive on the Skylands). Meat was such a luxury that the poor were sometimes butchered after they could no longer work (Kyra's father met this fate).
 
+**Ecology**: materialised-magic crystal (the substrate of every wall, floor, ceiling, building, tool, weapon, and projectile in the city), fungus (the only living non-human matter on the Skylands; sustains all human nutrition; "spore-bloom" is the only "bloom" Skylanders know), and humans. **No flora and no fauna of any other kind exist on the Skylands and have not for the ~six centuries since the city was founded.** Plants, animals, soil, weather, rivers, and the sea (which is visible from the Barrier but never touched) are six-centuries-ago legend to born-Skylanders. The narrative-voice consequence is documented in `voice/voice-profile.md` §Kyra and `polish-targets.md §25`: born-Skylander narrators cannot reach for nature as metaphor, comparison, or imagery while still on the Skylands. The vocabulary enters gradually once they leave, and the narration softens with it.
+
 The Great Barrier was an enchanted dome surrounding the entire monolith. It was kept impermeable for centuries; only after the Dragonkin invasion (book-1 ch.4) was a portal added to permit Pioneer/Second Expedition traffic.
 
 Destroyed in book-1 ch.51: Kyra Zorantis, in liche-form alongside Malkareth, dove into the Great Geyser and drank it until the column was thin enough to no longer support the monolith. The city tipped, fell, and crashed into the ocean. Two and a half million dead.
