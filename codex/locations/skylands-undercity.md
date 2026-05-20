@@ -14,7 +14,7 @@ last_updated_scene: book-1 chapter-51
 
 ## Description
 
-The lower levels of the Skylands monolith — caves and tunnels carved or grown beneath the upper-surface city. Dimly lit by sparsely placed glow globes with long dark sections between them. Most of the fungus farms that fed the city were down here; most of the poor lived in residential tunnels above the farm levels.
+The lower levels of the Skylands monolith — caves and tunnels carved or grown beneath the upper-surface city. Dimly lit by sparsely placed **glow globes** (small materialised-magic spheres that hold a low-grade light enchantment for years; cheap, durable, the standard Skylander interior lamp) with long dark sections between them. Powerstones, by contrast, are personal power stores (or building-scale power cores) and are not used for lighting — running a Powerstone as a lamp is comically wasteful, the kind of mistake mainland Mages make later in book 1 and that Skylanders mock them for. Most of the fungus farms that fed the city were down here; most of the poor lived in residential tunnels above the farm levels.
 
 Distinct sub-levels:
 
