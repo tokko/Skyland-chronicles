@@ -2,7 +2,7 @@ Two fingers in the dark. Anton on the far wall, his back to the indigo and his c
 
 He was twice as wide as I was and I am not a narrow woman.
 
-The breach-spell was set against the lock — my work, an hour earlier, traced into the bolt-mechanism in a held-circuit closed off my fingertip. It would burn through when I closed the loop. I'd been crouched in this passage for forty seconds while Anton waited and the cooking-fume residue found the back of my throat, and now I held up two fingers, my count-gesture, and started bringing them down.
+I had been crouched in this passage for forty seconds while Anton waited and the cooking-fume residue found the back of my throat. The breach was a simple spell — four strokes of glyph traced into the lock-plate with my forefinger, the kind every Skylander merc carried in her hands — and I drew it now, then held up two fingers, my count-gesture for Anton, and started bringing them down.
 
 Ford had told me Anton was reliable. Ford was three levels up in a courtyard, where assurances about other people cost nothing.
 
