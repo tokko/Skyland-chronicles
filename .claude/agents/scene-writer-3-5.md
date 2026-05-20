@@ -1,7 +1,7 @@
 ---
 name: scene-writer-3-5
-description: Sonnet-3.5 variant of scene-writer for the prose-quality A/B test on scene-02. Identical instructions; pinned to claude-3-5-sonnet-20241022 in frontmatter. Spawn alongside scene-writer (Sonnet 4.6) for the parallel A/B pass; do not use otherwise until the A/B has chosen a winner.
-model: claude-3-5-sonnet-20241022
+description: Older-Sonnet variant of scene-writer for the prose-quality A/B test on scene-02. Originally pinned to claude-3-5-sonnet-20241022; that model is not accessible in this environment, so the frontmatter has been re-pointed to claude-3-7-sonnet-20250219 (Sonnet 3.7) for the A/B. The agent name is preserved across sessions so the harness keeps recognising it; the file will be renamed scene-writer-3-7 in a fresh session.
+model: claude-3-7-sonnet-20250219
 tools:
   - Read
   - Write
