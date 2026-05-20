@@ -4,7 +4,7 @@ He was twice as wide as I was and I am not a narrow woman.
 
 The charge was already against the lock. I'd been crouched in this passage for forty seconds while he waited, and the cooking-fume residue found the back of my throat, and now I held two fingers up and started counting.
 
-I'd been assured he was reliable. I had been assured this by Detective Ford, who was currently waiting in a courtyard three levels up and who had outsourced the reliability question entirely to me.
+Ford had told me he was reliable. Ford was three levels up in a courtyard, where assurances about other people cost nothing.
 
 The lock blew inward on count two. The crack rang off the crystal walls and came back twice — once from the corridor ahead and once from the tunnel behind us — and the indigo dust hit my gorget and my cheeks and got in my teeth and up my nose. Shit. Standard. I spat once and went in.
 
@@ -14,7 +14,7 @@ I had the repeating revolver in my right hand and the sword in my left. Kendall'
 
 Two guards at the first bend. They'd heard the breach and gotten as far as drawing. I came around the corner while they were still registering the situation and put a round through the first one's throat, and he was down before his partner understood what was happening. Anton came in behind me and the crowbar took the second one across the temple with the sound of something wet and dense hitting something hollow. The man dropped against the indigo wall and slid down it.
 
-The crowbar swing had been past necessary. I registered that and kept moving.
+The crowbar swing had been past necessary. So would the next one. I kept moving.
 
 I didn't stop. Consequential motions — Kendall's teaching, from a long time back when I was young enough that he'd been physically pulling me along with him in hallways not unlike this one, and the lesson had been about staying mobile rather than about anything violent, but the principle held. You move until you have a reason to stop.
 
@@ -32,7 +32,7 @@ The cooking floor was a wide oval, maybe forty feet across. A half-dozen glow gl
 
 Eleven women at the tables. Ford had counted eight. Three weeks out of date, then, which was Ford's usual margin of error.
 
-The women were near-naked, headbands covering their hairlines, nothing else worth speaking of. The cartel's policy on the cooking floor: undress at the door, dress again when you leave, nothing in which to conceal product on your person. Twenty Coin a week. Legal Powerstones were running thirty Coin a week with the delivery fee, and these women couldn't afford them, so they were down here instead breathing residue and going home with their lungs full of sweet-smelling shit, and if they stopped moving their hands for longer than it took to cough, someone hit them. That was the shape of it.
+The women were near-naked, headbands covering their hairlines, nothing else worth speaking of. The cartel's policy on the cooking floor: undress at the door, dress again when you leave, nothing in which to conceal product on your person. Twenty Coin a week. Legal Powerstones were running thirty Coin a week with the delivery fee, and these women couldn't afford them, so they were down here instead breathing residue and going home with their lungs full of sweet-smelling shit, and if they stopped moving their hands for longer than it took to cough, someone hit them. Skylander rates. The wage was the leash.
 
 Every one of them had heard the lock blow. Every one of them had their hands moving on the work surfaces. Their eyes were on the door.
 
@@ -50,8 +50,8 @@ The sounds from that corner went on longer than necessary and then turned into s
 
 The screaming started from the north end of the room. A woman's voice, then two, then the sound of something heavier.
 
-I knew what graft-mercs did once the rage lit up. Anton was going to do it until he stopped, and I was not going to spend the energy it would take to get between a man in graft-flood and whatever he had decided was in his way. That was what the graft made them. That was the known side effect, and it was why people who needed the job done right did not hire them for jobs requiring restraint, and Ford had hired him anyway, and Ford was three levels up in a courtyard, and none of that changed what was happening in the room behind me or what I was going to do about it.
+Anton was in graft-flood. The room was his now. Whatever was in it with him belonged to whatever the graft was telling him about the room. Ford had hired him. I had work in the next room and was not paid to manage other people's chemistry.
 
 I walked toward the arched passage at the north end of the room, the shield-breaker in my hand, thumb finding the projector-warded seal by memory.
 
-The screaming continued. Behind me and to my left, through the glow-globe light, Anton's shoulder caught the angle of the nearest globe as he moved — the graft-flush deep across the skin, steam coming off him in the cooler air of the cooking floor. I did not look back at it. The hum of the shielded inner-room seal found its frequency in my bones as I stepped under the arch, low and exact, and I let it pull me forward.
+The screaming continued. Behind me and to my left, through the glow-globe light, Anton's shoulder caught the angle of the nearest globe as he moved — the graft-flush deep across the skin, steam coming off him in the cooler air of the cooking floor. I did not look back. The hum of the shielded inner-room seal found its frequency in my bones, low and exact. I stepped under the arch.

@@ -52,6 +52,18 @@ Regret. She has done terrible things — destroyed the Skylands, caused the deat
 
 The version of Kyra documented above is the *spectral* Kyra of books 2-3 — older, calmer, made of grief and pragmatism. **Living Kyra** in book 1 (her POV) is rougher, more sexually direct, more profane, and considerably more snide. The core register — short SVO, declarative, no euphemism — is the same. The differences below.
 
+### Arc-level register (cross-reference `voice-profile.md` §Kyra "Arc-level register")
+
+Living-Kyra is not one voice; it is three, in sequence:
+
+1. **Pre-Anjali (source ch.1–10)** — **brutal and jaded**. The hardest baseline. Tactical observation, no pity, no defensive justification. Kyra is partway down the road to monster. The reader must feel this in the opening chapters; the love-then-loss arc has no traction unless the start register lands cold.
+2. **With Anjali (source ch.11–48)** — the brutal-jaded baseline persists in professional contexts, but softens in private with Anjali (single-word tenderness, bawdy-funny, hints of self-amazement at being loved). Two voices on the same character, depending on scene type.
+3. **After Anjali (source ch.49 onward)** — the brutal-jaded register returns and exceeds itself. The Utopeia rampage, Iolan execution, Skylands destruction. The voice narrates atrocity in the same diagnostic register it used for the Stardust raid; the scale has grown to genocide.
+
+Kyra's humanity is **a function of love**. In ch.1 she has none — mother distant, Greg a colleague, Kendall a friend at arms-length. She becomes human through Anjali; remains human, as a shade, through Marissa. The opening scenes must show what she is when love is absent: a woman who is already most of a monster, with a job to do.
+
+**Test for pre-Anjali voice**: no internal pity for civilians; no defensive trailing-clause justifications for brutal acts; no lyric closing image. When any of these creeps in, the voice has drifted toward spectral-Kyra. The fix is to cut, not to soften.
+
 ### Register (book 1)
 
 First-person past with present-tense interjections. Constantly editorialising — every observed person gets ranked, every choice gets second-guessed on the page, every body she touches gets graded. Bawdy by default. Self-deprecatingly funny. Snide about her own past. Tender only in private with Anjali, Marissa, or Mal.

@@ -5,10 +5,10 @@
 
 ## Current state
 
-- **Stage**: **CANARY PAUSE — REVISION PASS COMPLETE.** Scene 01 of Book 1 Chapter 1 ("The Breach") has been rewritten on user canary feedback and re-committed. The orchestrator remains paused awaiting user sample-read. Drain resumes only when `.canary-approved` exists at the repo root.
+- **Stage**: **CANARY PAUSE — REVISION + BRUTAL-JADED POLISH APPLIED.** Scene 01 has been rewritten on user canary feedback (commit `f823b6f`) and then surgically polished by the orchestrator to nudge the pre-Anjali Kyra voice harder per user arc-level guidance (this commit). The arc-level voice rule is now codified in `voice-profile.md §Kyra` and `kyra-zorantis/voice.md`. The orchestrator remains paused awaiting user sample-read. Drain resumes only when `.canary-approved` exists at the repo root.
 - **Active scene**: none (canary committed; revision cycle closed)
-- **Last completed scene**: book-1 / chapter-01 / scene-01 — *The Breach* (2,063 words; 3 of 3 revision budget used; verdict `clean` on draft-3)
-- **Canary scene approved**: **no** — awaiting user signoff on the revised draft
+- **Last completed scene**: book-1 / chapter-01 / scene-01 — *The Breach* (2,034 words after polish; 3 of 3 Sonnet revision budget used; orchestrator-level polish applied on top per user voice note)
+- **Canary scene approved**: **no** — awaiting user signoff
 
 ## Revision history
 

@@ -10,6 +10,19 @@ Reviewers cite this file by section, e.g. `voice §Marissa.cadence` or `voice §
 
 ## Kyra (source book 1)
 
+### Arc-level register
+
+Kyra's voice in book 1 is not a single setting. It tracks the trilogy's central arc — the woman who rediscovers love and beauty through Anjali, has both ripped from her at Utopeia, and finishes the book as the monster she was already becoming. The voice has four registers, and the rewrite must hold them distinct:
+
+- **Pre-Anjali (book-1 opening, source ch.1–10)** — *brutal and jaded*. Kyra's humanity is at its lowest baseline. She is already partway down a bad road; the reader should feel it. The voice accounts; it does not pity. It does not defend or justify brutal acts — it walks past them. Tactical observation only; no internal pity for civilians; no defensive rationale for non-intervention. When Kyra walks past something horrible, she walks; she does not narrate her reasoning at length. When she kills, the kill is clinical, sometimes contemptuous, never apologetic. The "tradesperson assessing whether the day will end in a paycheck or a corpse" framing applies here, but with the harder edge — the tradesperson is also the kind of person who does not look down at what she just stepped over.
+- **With Anjali (source ch.11–48)** — *softening but tactical*. The brutal-jaded baseline persists in her professional voice. In private with Anjali, the voice opens — tenderness in single-word sentences ("Wife."), a hint of self-amazement at being loved, body-comedy that is bawdy rather than callous. The tactical voice still rules the battlefield scenes; the softer voice belongs to the tent, the fire, the dark.
+- **After Anjali (source ch.49 onward)** — *the monster, on-page*. The brutal-jaded baseline returns and exceeds itself. The Utopeia rampage, the Iolan execution, the dagger-suicide, the destruction of the Skylands. The voice now narrates atrocity in the same diagnostic register it used for the Stardust raid — but the scale has grown to genocide. The reader must feel that this is the same woman; that the journey from book-1 ch.1 to the Geyser is a straight line.
+- **Spectral (books 2–3)** — the older, wearier voice documented in the §Kyra.spectral section below. The brutality has been earned. The regret has been worked through. The voice can afford gentleness now because there is nothing more it is going to do to anyone.
+
+Kyra's humanity is *tied to love*. In pre-Anjali book 1 she has none of it (her mother is alive but distant; Greg is a colleague; Kendall is a friend at arms-length). She becomes a person again through Anjali; she stays a person, as a shade, through Marissa. The book's opening must establish what she is when love is absent — a woman who is already most of a monster, with a job to do and a city beneath her that she will eventually drown. The voice does not gesture at this; it lives there.
+
+**Reviewer note**: a scene set in the pre-Anjali register must pass two negative tests. First, no internal pity for civilians (the cooking-floor women are observed, not mourned). Second, no defensive justification for brutal acts (Kyra walking past Anton's rampage does not narrate her reasoning at length; she walks). When either test fails, the register has drifted toward the spectral-Kyra of books 2–3, which is the wrong voice for the opening chapters.
+
 ### Narrative distance
 
 First person, close, retrospective past tense. Kyra is older than Marissa (late twenties through early thirties across the book), already a working mercenary when the book opens, and the narration is wearier than her daughter's will be — less performative, more diagnostic. The camera is welded to her body and her judgements of other bodies (men's hands, other women's armour choices, her own breasts and how they have started to sag), but it is also welded to her professional eye: she ranks rooms by sight lines, gauges fights by what weapons the other side has, catalogues wounds.
