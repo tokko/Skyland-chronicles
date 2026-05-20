@@ -5,10 +5,11 @@
 
 ## Current state
 
-- **Stage**: **CANARY PAUSE — REVISIONS ROUND 3 APPLIED.** Round 3 of user canary feedback (five corrections on top of round 2): (1) Anton's atrocities re-framed as graft-craze, not sadism — the graft is the subject, Anton is the vehicle; (2) revolver mechanic corrected — firing is purely mechanical, casing enchantments are *manually* activated, so spent chambers stay empty until Kyra chooses to pay; (3) Kendall would not know about empty casings — cut the reference; (4) "manage other people's chemistry" replaced with "babysit a graft-craze"; (5) shield-breaker explanation paragraph cut (the device reveals itself at the arch when used); (6) closing image now shows Anton visibly drenched in gore. Codex `materialised-magic.md` updated for the new firearms mechanic; `kyra-zorantis/history.md` state-log updated to match. The orchestrator remains paused awaiting user sample-read.
-- **Active scene**: none (canary committed; revision cycle closed)
-- **Last completed scene**: book-1 / chapter-01 / scene-01 — *The Breach* (orchestrator-rewrite pass on top of the exhausted Sonnet budget; the scene now hews to the corrected mana economics and the material-absence rules)
-- **Canary scene approved**: **no** — awaiting user signoff
+- **Stage**: **DRAINING — scene-02 reviewed `minor`, edits applied, promoted to scene-02.md.** Canary approved (`.canary-approved` present at the repo root); scene-01 commits chain locked at `a07bf3f`. Scene-02 brief written; A/B test attempted but blocked twice (Sonnet 3.5 access locked, harness caches agent frontmatter so mid-session 3.7 re-point didn't take effect); per user direction the Sonnet 4.6 draft-1-A was accepted as draft-1 and run through the standard reviewer. Reviewer returned `minor` with eight inline edits (em-dash count brought from 12 to 2; one bird-idiom material absence ("crow's feet") closed; one spectral-Kyra forward reference about Micah converted to a backward reference; one portentous closer trimmed; cartel-calculus thesis tightened). Four additional dashes the reviewer's diff list missed were also brought down. Scene-02 (1,700 words after trims; slightly under the 1,800 target floor but beats and voice intact) promoted.
+- **Active scene**: none — scene-02 just promoted; scene-03 (*Raynard at the window*) is the next card up
+- **Last completed scene**: book-1 / chapter-01 / scene-02 — *The Shopfloor* (1,700 words; reviewer verdict `minor`; A/B blocked — see "A/B test outcome" below; codex state-logs updated)
+- **Canary scene approved**: **yes** — `.canary-approved` present at repo root (committed in `530cc46`)
+- **A/B test outcome**: **abandoned**. The harness did not have access to `claude-3-5-sonnet-20241022`, and a session-mid re-point to `claude-3-7-sonnet-20250219` failed because the harness caches agent frontmatter at session start. The Sonnet 4.6 draft-1-A was accepted as draft-1 and run through the standard reviewer. The scene-writer default stays at Sonnet 4.6. Future sessions may retry the A/B on a later scene if model access is sorted.
 
 ## Revision history
 
