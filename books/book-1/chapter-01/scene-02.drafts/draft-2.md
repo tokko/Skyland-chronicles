@@ -4,23 +4,23 @@ I raised the shield-breaker and put it against the shimmer.
 
 Kendall had built it into a grip the size of a small wrist-crossbow, the working end a flat emitter plate and the back end a crystal rod seated in its housing so precisely I could feel the slot-lines of the socket even through my glove. The device found the projector's frequency in the time it took me to breathe out. I pressed the trigger-post.
 
-The discharge went through my arm like a door slamming. The emitter plate cracked in three lines from the centre, the housing going dark, and the projector in the arch frame let out a sound like a glass container failing from the inside — a sharp pop and then a descending whine and then nothing. The shimmer collapsed in stages, starting at the centre and pulling inward toward the frame until the last of it was gone and the arch was just an arch.
+The discharge went through my arm like a door slamming. The emitter plate cracked in three lines from the centre, the housing going dark, and the projector in the arch frame let out a sound like a glass container failing from the inside. A sharp pop and then a descending whine and then nothing. The shimmer collapsed in stages, starting at the centre and pulling inward toward the frame until the last of it was gone and the arch was just an arch.
 
 I let the shield-breaker fall. The grip cracked when it hit the crystal floor. Kendall had told me the device was good for one use; he meant exactly that.
 
 The cost noted. I stepped through.
 
-The antechamber beyond was low and narrow, barely wide enough for two people abreast, the glow globes set at floor level along the base of the walls and throwing the light upward so everything had the wrong shadow-shape. Two men at the far end of it — not the Guard-issue kit of the bayonet team I had been told to expect, but cheaper labour, muzzle-loaders and a pair of shortswords and the kind of vest that stopped a blade if the man behind the blade was not trying. They had heard the shield break. One of them had his muzzle-loader to his shoulder and the other was still fumbling for his.
+The antechamber beyond was low and narrow, barely wide enough for two people abreast, the glow globes set at floor level along the base of the walls and throwing the light upward so everything had the wrong shadow-shape. Two men at the far end of it: not the Guard-issue kit of the bayonet team I had been told to expect, but cheaper labour, muzzle-loaders and a pair of shortswords and the kind of vest that stopped a blade if the man behind the blade was not trying. They had heard the shield break. One of them had his muzzle-loader to his shoulder and the other was still fumbling for his.
 
 The one with the muzzle-loader fired as I cleared the frame. The round caught my gorget at the collar-line and the deflection sent it into the arch overhead, where it hit the crystal and came back as a spray of indigo dust across my cheek and eye. The dust burned. My throat was unhurt, because the gorget was Kendall's work and it had done its job, but an unarmoured merc would have been standing in the antechamber with a hole in her neck. I blinked the indigo clear and put a round through his collarbone before he could reach for his sword. He sat down against the wall hard.
 
-The second man got his muzzle-loader up. He had it pointed roughly in my direction, which told me he had drilled on distance shooting and never on close work, because at six feet you do not aim — you point and fire. I went to my knees and the round passed over my head and punched into the archway behind me. I put my second shot through his kneecap, the same place I had sent Micah's man in the last cartel job, the same stop-drop geometry. He folded straight down. I crossed the last few feet to him and put the sword through his throat before he got his breath back to scream, then stepped over him and went to the other one.
+The second man got his muzzle-loader up. He had it pointed roughly in my direction, which told me he had drilled on distance shooting and never on close work, because at six feet you do not aim. You point and fire. I went to my knees and the round passed over my head and punched into the archway behind me. I put my second shot through his kneecap, the same place I had sent Micah's man in the last cartel job, the same stop-drop geometry. He folded straight down. I crossed the last few feet to him and put the sword through his throat before he got his breath back to scream, then stepped over him and went to the other one.
 
 The collarbone man was trying to hold the wound closed with his off hand. He had his sword arm pressed against his side and was looking at the far passage with the particular concentration of a man assessing whether he could reach it.
 
 He could not. I knelt and cut.
 
-The cooking-rig hall was through the far passage and the smell told me before I was through the door — the same sharp-sweet chemical note from the outer floor, but thicker here, more concentrated, the kind of density that settled in your clothes and stayed for a day. This was the inner operation, the refined-grade product Ford had said went to Surface buyers. The rigs here were full-scale, seven of them in two rows with the mana feeds running up from the floor in braided conduit, the glow globes burning at full overhead because the cartel rationed light but not where it affected the product quality.
+The cooking-rig hall was through the far passage and the smell told me before I was through the door. The same sharp-sweet chemical note from the outer floor, but thicker here, more concentrated, the kind of density that settled in your clothes and stayed for a day. This was the inner operation, the refined-grade product Ford had said went to Surface buyers. The rigs here were full-scale, seven of them in two rows with the mana feeds running up from the floor in braided conduit, the glow globes burning at full overhead because the cartel rationed light but not where it affected the product quality.
 
 Six guards this time, spread across the room in pairs. Two muzzle-loaders and four with the shorter blade-swords, the cheaper kind that snapped on crystal if you hit wrong. Behind the pairs, against the far wall: five women at the rigs, heads down, hands moving, the same headbands and nothing else, the same cartel policy as the outer floor.
 
@@ -28,7 +28,7 @@ The lead pair opened fire at the door.
 
 I went right and hit the floor behind the first rig-bench, the rounds cracking into the door frame behind me and throwing crystal chips across the hall. The bench had about four feet of solid crystal framing under the tabletop — cover enough for the moment, nothing more. One round came under the table and hit the floor two inches from my right knee and went wide. I did not think about that. I put a round through the ankle of the man trying to angle his muzzle-loader around the bench-leg, and when he dropped I put another through his collarbone on the way down and that was him. The revolver was down to three.
 
-I came up over the bench and cut the second paired man across the face before his blade found me — not a kill but enough that he staggered back. I drove into the gap it opened and got the sword into his chest between two ribs. He went down pulling the sword with him and I let it go and drew with my off hand from the belt-draw, the shorter blade.
+I came up over the bench and cut the second paired man across the face before his blade found me. Not a kill, but enough that he staggered back. I drove into the gap it opened and got the sword into his chest between two ribs. He went down pulling the sword with him and I let it go and drew with my off hand from the belt-draw, the shorter blade.
 
 The next pair came at me together. I was in the space between two rigs by then, too narrow for a sword-and-board style, which was what they were used to, and I had the shorter blade in close and the revolver point-blank on the right man before he had worked out how to bring the sword through the gap. The revolver round went into his neck and the blade found the other man's midsection. I put the revolver barrel against the back of the second man's head as he folded and did not bother with the trigger — used the barrel as an impact instead, the grip and frame of the revolver across the skull-plate above his ear. He went down hard.
 
@@ -36,25 +36,25 @@ The last pair, the two who had been covering the far wall, tried to run for the 
 
 Three chambers left and a room to cross and a bad angle. I kept moving. One of them was fast and got through before I was close enough; the other was slower and I caught him in the passage mouth and cut him across the back of the knee. He dropped against the frame and I finished it with the sword.
 
-The fast one had made it through the east passage. I did not follow him. He had not gone for a weapon and he was one man without a comms stone to call anyone with. The cartel's design was against him — these were compartmented rooms, no building-wide signal system. He was running blind into a lower exit. Ford's grey-coats would find him or he would find the street and keep running, and either way he was not my problem.
+The fast one had made it through the east passage. I did not follow him. He had not gone for a weapon and he was one man without a comms stone to call anyone with. He was running blind into a lower exit. Either way, he was not my problem.
 
 The five women at the rigs had not moved. Every hand was still moving on its work surface. I crossed the hall to the far passage and did not look back at them.
 
 The dispenser room was smaller, set off a short connecting corridor east of the rig hall — a twelve-foot square with a mana dispenser rig on one wall, the jury-built kind that sat inside an industrial casing that was not built for it, a Powerstone socket welded at an angle that only worked if you stood to one side. Three bayonet-team soldiers and a single man in Guard-issue plate, not the cheap vest of the hired labour. Off-duty Guard, the real thing, contracted at the cartel rate. The kind you brought in when you were protecting something worth protecting.
 
-They had positioned two of the bayonet-team with a woman each, hands at elbows, bayonets levelled. The third stood at the far wall with a muzzle-loader pointed at the door. The Guard-plate man stood to one side, sword drawn, which meant he had done this before — the pistol-users take the entry point, the blade-user takes the flanks.
+They had positioned two of the bayonet-team with a woman each, hands at elbows, bayonets levelled. The third stood at the far wall with a muzzle-loader pointed at the door. The Guard-plate man stood to one side, sword drawn, which meant he had done this before. The pistol-users take the entry point; the blade-user takes the flanks.
 
 I read the room in two strides from the passage mouth and went right behind the industrial casing of the dispenser unit. It was large enough to cover me from the knees up if I stayed low, and the man with the muzzle-loader discharged his piece at the movement and the round hit the casing and sent something internal in the unit rattling loose. The smell of hot metal and mana-bleed from the cracked casing came immediately, acrid and specific, the smell you get when the containment field around a mana-filled crystal fractures before the mana can bleed off cleanly.
 
 Except it was not just from the cracked casing. It was coming from the wall behind the dispenser unit.
 
-The ley-line conduit was running up the east wall, and the fitting where the line met the room was three times the width of a standard building-mana feed, fattened out with extra casing-work until it wore the extra metal like scar tissue. Jury-built and running openly, no attempt to conceal it. From behind the cover of the dispenser I could feel the pull of it on my magesense, dense and unmetered, the way the Bowels feel in the deeper tunnels near the Geyser channels — a bleed of ambient from the tap into the room itself, thin but real. Enough to feel. Enough to reach.
+The ley-line conduit was running up the east wall, and the fitting where the line met the room was three times the width of a standard building-mana feed, fattened out with extra casing-work until it wore the extra metal like scar tissue. Jury-built and running openly, no attempt to conceal it. From behind the cover of the dispenser I could feel the pull of it on my magesense, dense and unmetered, the way the Bowels feel in the deeper tunnels near the Geyser channels, a bleed of ambient from the tap into the room itself, thin but real. Enough to feel. Enough to reach.
 
-On the Skylands there was no ambient to reach. That was the point of the rationing, the dispensers, the metered lines — the city had squeezed its own ambient field down to nothing outside the Geyser's immediate environs, which nobody visited without a contract and a very good reason. The field in this room was thin, no thicker than a good Powerstone's local-containment radius. But it was not the same thing as a Powerstone.
+On the Skylands there was no ambient to reach. The field in this room was thin, no thicker than a good Powerstone's local-containment radius. But it was not the same thing as a Powerstone.
 
 I pressed against the dispenser casing, kept my head below the line of fire, and reached for the ambient instead.
 
-It was like drawing on a line with loose slack in it — there was resistance and then there was not, and the spell came together faster than it should have, a directional-force hex, the kind I used to push a charge off-center in a mass engagement. I held it for one breath. The Guard-plate man and the muzzle-loader man were both focused on the dispenser cover, the muzzle-loader already reloading by sound, the Guard-plate man taking two steps right to improve his angle.
+It was like drawing on a line with loose slack in it. There was resistance and then there was not, and the spell came together faster than it should have, a directional-force hex, the kind I used to push a charge off-center in a mass engagement. I held it for one breath. The Guard-plate man and the muzzle-loader man were both focused on the dispenser cover, the muzzle-loader already reloading by sound, the Guard-plate man taking two steps right to improve his angle.
 
 I released the hex.
 
@@ -62,7 +62,7 @@ The force took the industrial casing of the dispenser unit in the back and shove
 
 I came around the now-displaced casing with the revolver up.
 
-The Guard-plate man was working to free his hip from under the casing and was not getting far. I shot him through the exposed gap at the shoulder of his plate — the gorget-line was Guard-issue, not the custom fit Kendall had made for mine, and there was half an inch of clearance between the collarbone-plate and the neck-piece. He stopped moving.
+The Guard-plate man was working to free his hip from under the casing and was not getting far. I shot him through the exposed gap at the shoulder of his plate. The gorget-line was Guard-issue, not the custom fit Kendall had made for mine, and there was half an inch of clearance between the collarbone-plate and the neck-piece. He stopped moving.
 
 The muzzle-loader man had got to a knee. I put the second-to-last round into his chest and he sat back against the wall.
 
@@ -132,7 +132,7 @@ Ford was in the courtyard, his coat buttoned, his face tilted up toward the uppe
 
 One of Ford's men put a revolver to the back of the first worker's head and pulled the trigger.
 
-Above the courtyard the Skyway tram was passing on the level overhead, the carriages lit from inside, moving south toward the Geyser station. One of the mid-distance pressure plumes was up — the Geyser's overflow venting twice a night as it always did, the white column of mana-fluid catching the Barrier's light on its way to the dome and dispersing. The plume had been doing that since before my grandmother was time.
+Above the courtyard the Skyway tram was passing on the level overhead, the carriages lit from inside, moving south toward the Geyser station. One of the mid-distance pressure plumes was up — the Geyser's overflow venting twice a night as it always did, the white column of mana-fluid catching the Barrier's light on its way to the dome and dispersing. The plume had been doing that since before my grandmother's time.
 
 Below, the second shot.
 
