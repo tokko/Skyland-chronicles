@@ -1,6 +1,83 @@
 # Scene-02 Brief — Book 1 / Chapter 1 / Scene 02 — *The Shopfloor*
 
-> **REVISION PASS (after draft-1 read).** User canary feedback on scene-02 draft-1 (promoted at 1,700 words) identified six structural and one register problem. Scene-02 is being rewritten. Treat the previous scene-02.md as the **draft-1 you are revising from** — its voice and beat-compliance are mostly correct; its **scope is too narrow** and several mechanics are wrong on the page. The Revise-brief below carves out what changes; the rest of this document (which was the original brief) remains the source of canon and tone.
+> **REVISION PASS 3 (after draft-2 read).** User canary feedback on draft-2 identified thirteen line-and-structure problems. This is **draft-3, pass 3 of 3 in the Sonnet budget for this scene**. Treat the current `scene-02.md` as **draft-2 you are revising from** — voice and most structural fixes from draft-2 land cleanly; the items below are the additional corrections. The Revise-brief-3 section at the very top is authoritative when in conflict with the Revise-brief-2 section that follows it.
+
+## Revise-brief-3 (this pass — draft-3) — authoritative
+
+### Kept from draft-2 (do not throw away)
+- The shield-as-on-page-obstacle opening (lines 1–11), including the shield-breaker discharge and Kendall's-warning weight.
+- The multi-room trek structure (antechamber → cooking-rig hall → dispenser room → upper corridor → window).
+- The pre-Anjali register, brutal-jaded throughout.
+- The ambient-cast in the dispenser room from the cartel's illegal ley-line tap. Mechanics correct.
+- The closing structure (window, three shots, "I noted both things and did nothing else", "The third shot").
+- The "Anton stops when he stops, not when the threat stops" / "The graft stops when the meat stops" voice anchor in the death paragraph.
+
+### Fix — thirteen corrections
+
+**1. Remove the Micah forward-reference.** The line "the same place I had sent Micah's man in the last cartel job, the same stop-drop geometry" is wrong — Micah is not introduced until source-book-2; he should not be referenced by name this early. Replace with a generic prior-cartel-job reference or cut entirely.
+
+**2. No kneecap or trick shots when centre-mass is available.** Kyra is efficient and ruthless, not flashy. The antechamber sequence has her putting a round through the second defender's kneecap — replace with a clean centre-mass shot. Every "knee" / "kneecap" shot in the scene should be reconsidered: only keep one if Kyra has a specific tactical reason (the target is behind cover that exposes only the legs, for example). Default to chest.
+
+**3. The five women in the cooking-rig hall should be terrified at the bloodshed but still working** (cartel-policy keeps their hands moving even with their guards dead around them). The dramatic move: **one of the younger women — younger and prettier than the rest, the kind the cartel quietly enjoys having on the floor — breaks and runs.** She does not get far; she might escape, she might catch a stray crossfire round, the writer chooses. The other four keep their hands on the work surfaces because what the cartel will do to them if they stop is worse than what Kyra might do. Voice register: Kyra notes this without pity, professional accounting.
+
+**4. No brass anywhere on the Skylands.** Per the updated `codex/locations/the-skylands.md` Material absences and `polish-targets.md §25`: the Skylands has no brass, iron, copper, bronze. Every "brass fitting" in the prose becomes "crystal fitting" or just "fitting"; every "brass bracket" becomes "crystal bracket" or just "bracket". Check the whole scene for "brass" and replace.
+
+**5. No plaster, no stone, no concrete on the Skylands.** Same rule. The line "the plaster fell in a fine indigo powder across the floor" — plaster does not exist on the Skylands; the ceiling is crystal; what fell is "fine indigo crystal powder" or just "crystal dust". Check the scene for "plaster", "stone", "concrete", "mortar".
+
+**6. The "shorter blade found the gap under the smoothbore at the right angle and the angle was good and he went down" sentence is odd.** The repetition of "angle" reads wrong. Rewrite this line for clarity and economy. A clean strike doesn't need to comment on the angle twice.
+
+**7. Clarify the "three chambers left and a room to cross" countdown.** The mid-fight phrase reads ambiguously — is "chambers" the revolver count or the remaining rooms to clear? Either disambiguate ("three rounds left and a room to cross") or restructure the sentence. The same applies to other countdown beats: when Kyra notes a number, make clear what is being counted.
+
+**8. Hostages die in this scene.** The female human shields cannot all survive untouched. **At least one or two are killed** — either deliberately by the bayonet team (executed as cover-leverage when Kyra closes), or in the crossfire of the dispenser-room fight (a stray round catches one, a bayonet finds another when its holder goes down). Voice register: no pity, no editorial. Kyra registers it the way she registered Anton's death.
+
+**9. The source has OTHER attacking mercenaries.** Ford contracted multiple merc teams for this raid, not just Kyra-and-Anton. The other teams have been breaching the same manufactory from other entry points and they **converge in the final fight**. The dispenser-room or the upper corridor (writer's choice for best dramatic placement) should erupt into a **grand frenzied melee**: Kyra, one or two other Ford-contracted merc teams arriving from a different stairway or door, the last cartel guards (the bayonet team's reinforcements), and the female hostages caught in the middle. Brutal. Chaotic. Several hostages die in the crossfire. Several mercs die — not Kyra. Kyra exploits the chaos.
+
+**10. The corset-hit sentence is a run-on.** "The round hit my corset plate at the lower rib, the materialised-magic plate taking the impact and spreading it into the full frame of the vest, and the force of it sat in my body like a hard punch from a very large man but the slug did not go through because Kendall had built the corset for the full load range and this was inside it." — break this into two or three sentences. Same pass: check the whole scene for similar run-ons.
+
+**11. Anton's death stays exactly as written.** Sudden, gory, emotionless. Voice anchor preserved.
+
+**12. Revolver mechanics overhaul.** Per the updated `codex/magic/materialised-magic.md`:
+- **Primary revolver: 5 chambers.** Kendall-built; grip fitted to Kyra's hand.
+- **Backup revolver: 6 chambers.** Smaller frame, carried in coat pocket or hip holster.
+- **One speed loader per gun** (5 fresh casings for primary, 6 for backup) for fast reload.
+- **After speed loaders are empty, manual one-by-one** from a belt-pouch of loose casings.
+- **Spent casings are kept** — they go into Kyra's coat pocket or hip-pouch as she reloads. Casings are expensive (enchantment is custom-fitted to the weapon); a merc who throws them away is throwing money away. At home she'll drop them into the recharge cradle to regenerate slugs.
+
+**Count Kyra's shots through the scene.** Scene-01 ended with her at 2 chambers remaining (after firing 3 in scene-01; primary cylinder of 5). She enters scene-02 with 2 loaded + 3 spent casings still in the cylinder.
+
+Suggested accounting for draft-3:
+- Antechamber: fires both remaining (centre-mass kills, no kneecaps). Cylinder now empty (5 spent casings inside).
+- Between antechamber and rig hall: **breaks the cylinder open, dumps the 5 spent casings into her coat pocket, slots the speed-loader in for 5 fresh.** This is on-page. One paragraph.
+- Rig hall: fires 3–4 shots through the firefight, alternating with sword work. Several spent casings now (kept in cylinder until next reload).
+- Between rig hall and dispenser room: possibly a manual partial reload of 1–2 casings from the belt-pouch, or she carries the half-empty cylinder in.
+- Dispenser room: ambient-cast for the deadlock (no revolver shots from Powerstone). Then 1–2 revolver shots on the Guard-plate man and muzzle-loader man. **She may also throw the revolver as a distraction at the human-shield bayonet man** (per draft-2; if she does, she'll need to recover it).
+- The grand brawl: this is where she pulls the **backup revolver** (6 chambers). Fast cycle on multiple targets.
+- Upper corridor / back-stair shooter: backup revolver. Final two shots into the corset-shooter at contact range.
+- Scene-end inventory: primary revolver low/empty with some spent casings in cylinder; backup revolver low/empty; coat pocket full of spent casings; one speed loader spent, one possibly partly used.
+
+The writer should track shot counts within reason and not exceed the budget without on-page reloading. Don't over-narrate; the reader doesn't need every chamber tracked, but the major reloads and the speed-loader-to-manual transition should be visible.
+
+**13. Em-dash cap: still 2 across the whole scene.** Draft-2 went to 13 dashes initially before being cut down. Draft-3: build to the cap from the start. Use comma, colon, full stop, semicolon for appositives.
+
+### Forbid (do not bring back)
+- Micah's name.
+- Kneecap shots without specific tactical justification.
+- "Brass" anywhere.
+- "Plaster" anywhere.
+- Run-on sentences over ~40 words.
+- All hostages surviving.
+- The "shorter blade found the gap... the angle was good" phrasing.
+- Em-dashes above the cap of 2.
+
+### Length
+The brawl adds material; the rewrite cuts and tightens elsewhere. Target **3,000–3,800 words.** Hard ceiling 4,000 (this is the hardest-beat-dense scene in chapter-01).
+
+### Output
+Write to `books/book-1/chapter-01/scene-02.drafts/draft-3.md`. Do not overwrite draft-1-A.md or draft-2.md or scene-02.md.
+
+---
+
+## Revise-brief-2 (previous pass — for reference only; superseded by Revise-brief-3 above where they conflict)
 
 ## Revise-brief (treat as authoritative when in conflict with the original brief below)
 
