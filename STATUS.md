@@ -75,10 +75,22 @@ e11f426 kanban: seed scene cards for book 1 chapter 1 (canary)
 c6e89ee books/book-1: chapter outline (11 chapters)
 ```
 
+## Pending: model A/B test on scene-02
+
+Per user direction, scene-02 of book-1 chapter-01 is the one-shot prose-quality A/B test between Sonnet 4.6 (current default) and Sonnet 3.5 (`claude-3-5-sonnet-20241022`). When scene-02 dispatches:
+
+- Spawn both writers in parallel against the same brief: `scene-writer` (4.6) and `scene-writer-3-5` (3.5). Output paths `draft-1-A.md` and `draft-1-B.md`; the orchestrator records the A/B → model mapping in a side file the reviewer cannot see.
+- Reviewer reads both blind, scores both, picks a winner.
+- Winner becomes `draft-1.md` and continues through the standard pipeline. Loser is archived.
+- After scene-02 the winning model is locked in as the scene-writer for all subsequent scenes; the `.claude/agents/scene-writer.md` frontmatter (or which sibling agent is invoked) is updated accordingly and the decision noted in this STATUS file.
+- The A/B runs once, on scene-02 only, and is not repeated.
+
+The `scene-writer-3-5` agent is already in place; the protocol is documented in `CLAUDE.md` under Pipeline parameters.
+
 ## Next action
 
 **User to read `books/book-1/chapter-01/scene-01.md` and either**:
-1. **Approve** — `touch .canary-approved` at the repo root; the orchestrator resumes drain on scene-02.
+1. **Approve** — `touch .canary-approved` at the repo root; the orchestrator resumes drain on scene-02 with the A/B test.
 2. **Approve with forward-applying notes** — voice/style guidance to fold into the polish-targets / voice profile for scene-02 onward.
 3. **Reject** — revision budget for scene-01 is now exhausted (3/3 used). Further revision requires explicit instruction; the orchestrator does not auto-loop past the budget.
 
