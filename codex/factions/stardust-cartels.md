@@ -37,7 +37,7 @@ Profit. Maintain Stardust supply chain. Resist Constabulary raids.
 | Period | State | What changed |
 | --- | --- | --- |
 | Pre-book-1 (centuries) | Active and entrenched | Drug economy on the Skylands |
-| book-1 ch.1 scene-01 | One production site (cartel name unspecified) under active assault by Ford-contracted mercenaries — four outer/floor guards dead, merchandise and inner-room ledgers not yet seized | The status quo, one site at a time |
+| book-1 ch.1 scene-01 | One production site (cartel name unspecified) under active assault by Ford-contracted mercenaries — four outer/floor guards dead; unknown number of cooking-floor cookers (forcibly-retained near-naked workers) killed by graft-merc Anton in mid-rage; merchandise and inner-room ledgers not yet seized | The status quo, with the graft-merc's bloodlust adding directly to the labour-pool body count |
 | Book-1 ch.1-50 | Several major sites destroyed by Ford's raids; many survive | The status quo |
 | Book-1 ch.51 | Destroyed with the Skylands | All gone |
 
