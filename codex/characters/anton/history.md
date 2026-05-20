@@ -10,7 +10,8 @@ type: character-history
 
 | Scene | Location at scene end | Physical / injury changes | Knowledge gained | Knowledge lost / withheld | Relationship deltas | Possessions delta |
 | --- | --- | --- | --- | --- | --- | --- |
-| book-1 ch.1 (Stardust raid) | Manor hall, Skylands surface; dead | Killed by musket shot to the back of the head; brains spray Kyra | — | — | Killed | None |
+| book-1 ch.1 scene-01 | Cooking-floor antechamber, Lower Undercity Stardust manufactory | Alive; crowbar wet at heavy end; breathing shallow-fast (held-in-check); bloodlust rising | — | — | Working alongside Kyra; finished a downed guard past necessity; ordered crowbar against the wall | None |
+| book-1 ch.1 (chapter end) | Manor hall, Skylands surface; dead | Killed by musket shot to the back of the head; brains spray Kyra | — | — | Killed | None |
 
 ## Off-screen movements
 

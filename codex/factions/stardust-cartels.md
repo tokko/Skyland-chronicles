@@ -37,6 +37,7 @@ Profit. Maintain Stardust supply chain. Resist Constabulary raids.
 | Period | State | What changed |
 | --- | --- | --- |
 | Pre-book-1 (centuries) | Active and entrenched | Drug economy on the Skylands |
+| book-1 ch.1 scene-01 | One production site (cartel name unspecified) under active assault by Ford-contracted mercenaries — four outer/floor guards dead, merchandise and inner-room ledgers not yet seized | The status quo, one site at a time |
 | Book-1 ch.1-50 | Several major sites destroyed by Ford's raids; many survive | The status quo |
 | Book-1 ch.51 | Destroyed with the Skylands | All gone |
 

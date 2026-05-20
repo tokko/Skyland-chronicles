@@ -42,6 +42,7 @@ The base layer of book-1's worldbuilding. Where Kyra is from; where Greg lives; 
 
 | Scene | State | What changed |
 | --- | --- | --- |
+| book-1 ch.1 scene-01 | Active; one Lower-Undercity Stardust manufactory under raid — corridor and cooking floor cleared by Kyra and Anton, four guards dead, eleven workers scattered, shielded inner room intact | Detective Ford's unsanctioned anti-Stardust contract in execution |
 | Book-1 ch.1-13 | Active; multi-tiered slum | The economic and criminal substrate of the Skylands |
 | Book-1 ch.51 | Flooded; destroyed with the rest of the Skylands | The fall of the city |
 

@@ -4,7 +4,7 @@ chapter: 1
 scene: 01
 canary: true
 parallel: false
-status: pending
+status: done
 ---
 
 # Book 1, Chapter 1, Scene 01 — The Breach

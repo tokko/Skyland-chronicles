@@ -1,35 +1,45 @@
 # Status
 
 **Branch**: main
-**Generated**: 2026-05-19 (10-book restructure applied)
+**Generated**: 2026-05-19 (canary committed)
 
 ## Current state
 
-- **Stage**: Per-book outlines complete for the 10-book series. Awaiting chapter outlines for Book 1.
-- **Active scene**: none
-- **Last completed scene**: none
-- **Canary scene approved**: no (first scene committed will be surfaced for sample-read)
+- **Stage**: **CANARY PAUSE.** Scene 01 of Book 1 Chapter 1 ("The Breach") is committed. The orchestrator is paused awaiting user sample-read. Drain resumes only when `.canary-approved` exists at the repo root.
+- **Active scene**: none (canary completed)
+- **Last completed scene**: book-1 / chapter-01 / scene-01 — *The Breach* (1,847 words; 2 of 3 revision budget used; verdict `minor` cleared with two inline edits)
+- **Canary scene approved**: **no** — awaiting user signoff
+
+## Canary read-out for the user
+
+- **Prose**: `books/book-1/chapter-01/scene-01.md`
+- **Original brief**: `books/book-1/chapter-01/scene-01.brief.md`
+- **Drafts archive**: `books/book-1/chapter-01/scene-01.drafts/` (draft-1, review-1, draft-2, review-2)
 
 ## Series shape
 
-10 books in 3 arcs (3 + 4 + 3). Arc II grew from 3 to 4 books this turn to accommodate the climactic density of source-book-2 ch.21–28.
+10 books in 3 arcs (3 + 4 + 3). Arc II grew from 3 to 4 books to accommodate the climactic density of source-book-2 ch.21–28.
 
-- Arc I — Kyra (source-book-1): Book 1 *Stardust*, Book 2, Book 3
-- Arc II — Marissa (source-book-2): Book 4, Book 5, Book 6 *The Sacrifice*, Book 7 *Genocide*
+- Arc I — Kyra (source-book-1): Book 1 *Stardust*, Book 2 *Partnership*, Book 3 *The Fall*
+- Arc II — Marissa (source-book-2): Book 4 *Infiltrator*, Book 5 *Crucible*, Book 6 *The Sacrifice*, Book 7 *Genocide*
 - Arc III — Marissa + Barengar (source-book-3): Book 8 *The Apprentice*, Book 9 *The Demagogue*, Book 10 *Epitome*
 
-## Recent decisions (user-locked, 2026-05-19)
+## Recent user-locked decisions (2026-05-19)
 
-1. **9-book → 10-book restructure**: Old Book 6 (16 beats, source-book-2 ch.21–28) was too dense. Split into new Book 6 *The Sacrifice* (source ch.21–24, 6 hard beats) and new Book 7 *Genocide* (source ch.25–28, 10 hard beats). Arc II is now 4 books. Old Books 7/8/9 renumbered to 8/9/10.
-2. **H-mother-shade-farewell mechanic locked**: Kyra deliberately sacrifices herself into the Epitome's substrate as a moral vote — not as a passive backup. Her installed bias steers Epitome's first major orbital decision toward the Bizhjerai. The lever is also why Marissa refuses to shut Epitome down (her mother is now inside by her own choice), which earns Barengar's killing-stroke.
-3. **Raynard execution closes Book 1**: source-book-1 ch.17 is the structural break for Book 1. Added as soft beat `S-raynard-executed`.
-4. **Working title *The Apprentice* attaches to new Book 8** (the old Book 7 after renumber).
+1. 9-book → 10-book restructure (Arc II grew from 3 to 4 books).
+2. H-mother-shade-farewell: Kyra deliberately sacrifices herself into the Epitome as a moral vote toward the Bizhjerai.
+3. Raynard execution closes Book 1 (S-raynard-executed at source-book-1 ch.17).
+4. Working title *The Apprentice* attaches to new Book 8.
+5. Book 1 chapter outline (11 chapters) approved; canary seeded chapter-01 only.
 
 ## Kanban
 
 | Pending | In-progress | Review | Done |
 | ------- | ----------- | ------ | ---- |
-| 0 | 0 | 0 | 0 |
+| 3 | 0 | 0 | 1 |
+
+- **Done**: book-1-ch-01-scene-01 (canary, this commit)
+- **Pending**: book-1-ch-01-scene-{02, 03, 04}
 
 ## Beats
 
@@ -38,40 +48,42 @@
 | Hard | 0 | 76 |
 | Soft | 0 | 22 |
 
+Scene-01 advances H-kyra-merc-life and H-the-magic-shortages but lands neither. H-kyra-merc-life is expected to land at scene-03 (the full breach + Raynard + Ford payment sequence). H-the-magic-shortages lands across ch.1–3.
+
 ## Beat distribution per book (hard beats)
 
 | Book | Hard beats | Arc | Notes |
 | ---- | ---------- | --- | ----- |
-| 1 | 7 | I (Kyra) | canary book |
+| 1 | 7 | I (Kyra) | canary book — chapter outline complete, scene-01 in (canary pause) |
 | 2 | 3 | I (Kyra) | |
 | 3 | 7 | I (Kyra) | the Fall of the Skylands |
 | 4 | 9 | II (Marissa) | infiltration arc opens |
 | 5 | 11 | II (Marissa) | the box, the recogniser, the threesome |
-| 6 | 6 | II (Marissa) | *The Sacrifice* — savage trap, Valia falls, plan rigs |
-| 7 | 10 | II (Marissa) | *Genocide* — plan executes, sweep, Dun Traelak epilogue |
-| 8 | 10 | III (Marissa + Barengar) | *The Apprentice* — 25-year leap, Collegium, Oath |
-| 9 | 4 | III (Marissa + Barengar) | *The Demagogue* — Zandor reveal, Kendall dies, Jani |
+| 6 | 6 | II (Marissa) | *The Sacrifice* |
+| 7 | 10 | II (Marissa) | *Genocide* |
+| 8 | 10 | III (Marissa + Barengar) | *The Apprentice* — 25-year leap |
+| 9 | 4 | III (Marissa + Barengar) | *The Demagogue* |
 | 10 | 9 | III (Marissa + Barengar + Epitome) | *Epitome* — terminal book |
-
-Sum: 76. Matches `codex/beats/hard.md`.
 
 ## Recent commits
 
 ```
+(pending: book-1 ch-01 scene-01: the breach — canary committed)
+d944ed1 kanban: book-1-ch-01-scene-01 -> in-progress
+e11f426 kanban: seed scene cards for book 1 chapter 1 (canary)
+c6e89ee books/book-1: chapter outline (11 chapters)
+0003e50 codex/books: split Book 6, restructure to 10-book series
 c6e89ee codex/books: scaffold per-book outlines for the 9-book series
 2c71982 codex: cleanup sweep — corrections, INDEX merge, beats populated
-d9a50ee codex: extend entities to full three-book corpus
-d3adcf9 codex: extend voice profiles and beats to full three-book corpus
-2ee0bae codex: extend timeline + events to full three-book corpus
-f9a7f73 source: ingest full three-book trilogy (~472k words)
-8b40c62 codex: extract timeline and major events from manuscript
-2833dec Add files via upload
 ```
 
 ## Next action
 
-Scaffold chapter outlines for Book 1 (*Stardust*). `codex/beats/book-1.md` has 7 hard beats + 3 soft beats across source-book-1 ch.1–17. Chapter outline produces book-level scene cards in `books/book-1/chapter-MM/CHAPTER.md` and seeds `kanban/pending/`. Book 1 is the canary book; the first scene committed will pause the queue for user sample-read.
+**User to read `books/book-1/chapter-01/scene-01.md` and either**:
+1. **Approve** — create `.canary-approved` at the repo root (e.g. `touch .canary-approved`); the orchestrator can resume the drain on scene-02.
+2. **Revise** — flag specific edits (voice, AI-isms, continuity) and the orchestrator opens a fresh revision pass on scene-01.
+3. **Override the canary pause** — explicit instruction to proceed without `.canary-approved`. Not recommended — the canary is intentionally a checkpoint for voice calibration.
 
 ---
 
-_This file is regenerated when the orchestrator updates the codex. It is the resume-protocol entry point alongside CLAUDE.md and the auto-included context._
+_This file is regenerated by the orchestrator on every scene commit._
