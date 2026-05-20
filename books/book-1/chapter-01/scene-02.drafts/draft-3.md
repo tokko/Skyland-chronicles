@@ -118,9 +118,13 @@ One of the Ford mercs, a man I knew by the scar under his chin, pointed at the b
 
 Three of us still functional. Anton still running. Four coming up a narrow stair.
 
-I shot the first two through the door and the other Ford mercs took the next two in the stair-throat and that was the end of the reinforcements. The merc with the chin scar took a bayonet along the forearm on the third man and swore at length but the arm still worked. The woman crouched between the canisters had not moved. I did not tell her to.
+I shot the first two through the door as they came up. The third was faster and got a smoothbore off down the corridor before the chin-scar merc dropped him with a sword through the lower back.
 
-The upper corridor was clear. Anton was standing at the far end of it looking at the wall, which meant the craze was thinning — graft-flood loses its direction near the end, stops tracking targets and starts staring at surfaces. He would go down in a few minutes and sleep for a day.
+The smoothbore round caught Anton in the back of the head and the front of his skull came apart on its way out, the spray of it reaching the canisters stacked left of the corridor in a long red arc. He dropped mid-stride, the crowbar hitting the crystal floor a half-second before the rest of him did. The graft-craze does not wind down gradually. The graft stops when the meat stops.
+
+The fourth man came up next. One of the Ford mercs took him in the stair-throat. The merc with the chin scar took a bayonet along the forearm on the way down and swore at length but the arm still worked. The woman crouched between the canisters had not moved. I did not tell her to.
+
+The upper corridor was clear. Anton was on the floor between the canisters where he had landed, the dead-meat strips at his collarbones still twitching on residual mana from his Powerstone going through its last cycle. They would keep twitching for another few minutes. The graft does not know when the man is done.
 
 A guard had been posted at the far end of the corridor. One man, light vest, sword in hand, whoever had been assigned to the upper-level watch. He had pressed himself into the far wall during the brawl and now he looked at me and at Anton and put his sword on the floor without being asked.
 
