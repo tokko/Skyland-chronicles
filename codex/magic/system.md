@@ -49,9 +49,50 @@ Kyra's magesense changes fundamentally after she duels Grasax and acquires his d
 
 **Powerstone**: see Personal Powerstones below.
 
-### Personal magical shields (Kyra-specific gear)
+### Personal magical shields — two distinct forms
 
-Kyra carries a **personal shield generator built into her left gauntlet** — a Kendall-built device fed off the Powerstone seated in her gorget. The shield is a deliberate-deployment, deliberate-shape barrier of translucent energy. It is not always-on.
+Every trained Skylander Mage carries **two distinct personal-shield mechanisms**, which the prose must hold separately. They serve different threat models and cost the practitioner differently. A third form, the ad-hoc cast directional pane that a mage without gauntlet gear can throw up by hand-shaping, is documented under "Ad-hoc cast shields" below.
+
+#### Form A — the subcutaneous personal shield (universal trained-mage baseline)
+
+A thin magical barrier sitting **just beneath the skin**, integrated into the body. Carried by every trained Mage as a baseline self-defense. Not a device; not a deliberate-deployment cast; it is a low-level continuous integration into the practitioner's own soul-field, maintained passively at a small steady mana drain.
+
+**What it protects against**:
+- **Direct-magic-on-organs attacks**. The "boring insta-kills" of magical combat: stopping a heart from across the room, filling someone's lungs with water from the inside, inducing an embolism or a stroke, vapourising a section of brain tissue, reversing peristalsis until the gut bursts. A trained mage attacking another trained mage cannot reach for these as a default opener — the subcutaneous shield catches the casting at the skin-line and dissipates it before it touches an organ. The attacker has to do real work to overcome it (a high-mana sustained attack, a precision-shaped piercing spell, finding a gap when the subcutaneous is drained or down).
+- This is the reason mage-on-mage combat in the source defaults to **external force projection** (Anjali's spear of fire, the violet ribbons of force, the explosive-impulse spells) rather than direct organ-attack — the latter doesn't reliably work against another trained mage, and a mage who tries it and fails has wasted a casting.
+
+**What it does NOT protect against**:
+- Physical projectiles. Bullets pass through it cleanly; it does not register as a barrier against kinetic matter. A crystal round to the chest of a mage with full subcutaneous shield active will still kill them. (This is why Kyra's crystal-shot kills cartel mages reliably; the mage's subcutaneous catches no metal.)
+- Blades. Same as above. Bayonets, swords, daggers all go through it without resistance.
+- Blunt trauma. A crowbar to the temple kills a mage as cleanly as it kills anyone.
+- Indirect magical effects via the environment (a focused beam that ignites the air around the mage and burns them; a structural-collapse spell that drops a ceiling on them). The shield protects against magic targeting the body directly, not against magic that uses the world as the weapon.
+
+**Cost**:
+- Low steady passive drain on the mage's own soul. Negligible at rest; mildly tiring on a long day; comparable to the cost of carrying any maintained spell.
+- A practitioner can voluntarily drop the subcutaneous shield to save mana when they are certain no magical attack is coming — for sleep, for long travel, for high-mana casting where every drop counts. Dropping it is a deliberate act. Picking it back up costs a moment of focus.
+
+**Visible signature**:
+- None to the naked eye. Visible on magesense as a thin field-glow at the practitioner's skin-line, the same colour as their soulfire (crimson for Kyra; voice-coded by character). Another mage with magesense can read the shield's state — up, down, drained — at line-of-sight.
+
+**Voice-event implications**:
+- The subcutaneous shield is in the background of every Mage scene. It is rarely on-page named because it is the default. When the prose reaches for it, it is because something has tested it: another mage tried an organ-attack and was caught, or Kyra had to drop it to spend the mana on a heavy cast, or the shield is leaking after a long fight.
+- The Pioneer-expedition era Kyra has this shield as a working professional, picked up during her Guard training under Micah. She does not narrate carrying it; she narrates the moments it does work or fails to.
+
+#### Form B — the expanded egg / sphere (subcutaneous shield deployed at full radius)
+
+The subcutaneous shield can be **expanded outward** into a hardened egg-shaped or spherical barrier around the body, at a radius of one to two feet from the skin. In this form it absorbs **both force and magic** — bullets, blades, blunt strikes, casting, fire, blast fronts.
+
+**Cost**:
+- **Severe.** The expanded form is the practitioner's emergency last-resort defence, not a default. Sustaining the egg for more than a few seconds at full hardness can drain a practitioner's reserves to the brink of unconsciousness. Most Mages cannot hold the egg through more than two or three heavy impacts before their reserves give out and the shield drops.
+- Powerstone-fed gear (gorget Powerstones, dedicated capacitor stones) can extend the duration, but the egg drains stones at orders of magnitude faster than the gauntlet directional pane.
+
+**Voice-event implications**:
+- The egg is reserved for the moment a Mage is bracketed (multiple incoming, no time to use the directional pane), or facing a single overwhelming threat (an exploding manufactorium, a dragon's breath at close range), or absolutely committed to surviving the next five seconds at any cost. It is the spell that empties a practitioner.
+- A Mage in the egg cannot cast offensively at full power — the egg consumes the casting bandwidth. A practitioner who has just dropped from the egg is fatigued, slow, sometimes briefly unconscious.
+
+#### Form C — the gauntlet shield (Kyra-specific gear, Kendall-built)
+
+A separate mechanism from the subcutaneous: a **device** worn on the left gauntlet that projects a directional translucent pane in front of the practitioner. Fed off the gorget Powerstone, not the practitioner's soul reserves.
 
 **Deployment**: Kyra raises her left arm and engages the gauntlet; the shield manifests in front of her, defaults to a directional pane projected forward. She dismisses it by lowering the arm or dropping the gauntlet's engagement. The shield is visible to her and to opponents — translucent, slightly distorting, audibly humming when struck.
 
@@ -74,8 +115,22 @@ Kyra carries a **personal shield generator built into her left gauntlet** — a 
 - She can cast offensively while shielded but at compounded drain. The prudent thing is to drop the shield between magical exchanges.
 
 **Voice-event implications**:
-- Pre-Anjali Kyra deploys the shield deliberately and economically. She does not run it as a default. She raises the gauntlet when the situation demands it (an enemy mage casting, a charging line of muzzle-loaders, an explosive incoming) and dismisses it the moment the threat passes. This is a working merc's relationship to expensive kit, not a default-protective-bubble of an over-cautious character.
-- The shield is a Kendall-built device. Every time the prose references it, the Kendall-tagged-tool register from scene-01 carries forward (the gauntlet, the revolver grip, the shield-breaker — all Kendall's work).
+- Pre-Anjali Kyra deploys the gauntlet shield deliberately and economically. She does not run it as a default. She raises the gauntlet when the situation demands it (an enemy mage casting, a charging line of muzzle-loaders, an explosive incoming) and dismisses it the moment the threat passes. This is a working merc's relationship to expensive kit, not a default-protective-bubble of an over-cautious character.
+- The gauntlet shield is a Kendall-built device. Every time the prose references it, the Kendall-tagged-tool register from scene-01 carries forward (the gauntlet, the revolver grip, the shield-breaker — all Kendall's work).
+
+#### Form D — ad-hoc cast directional shields (no gauntlet gear)
+
+A trained Mage without gauntlet gear can throw up a directional shield by hand-shaping the cast — one or two hands shaping a pane in front of them, fed off ambient if available or off their own Soul. This is the cartel mage's mechanism in scene-02 (her shield is "a tighter, more directional pane than mine, held one-handed, fed off the room's ambient rather than her own stone").
+
+**Cost**: Personal Soul or ambient, depending on what the mage can reach. Tighter and more directional than Kyra's gauntlet pane because the mage is hand-shaping it precisely; smaller area covered.
+
+**Voice-event implications**: This is the default for Bizhjerai shamans, untrained-but-soulful magic users, and any Mage without specialised gear. The cast pane drops the moment the mage stops focusing on it.
+
+### Why the distinction matters
+
+The subcutaneous baseline (Form A) is why mage-on-mage combat is interesting at all in this world — the cheap insta-kills don't work. The expanded egg (Form B) is the last-resort spell that empties a mage's reserves; the prose can use it as a stakes-raise. The gauntlet (Form C) is Kyra's specific advantage; she carries Kendall's device in addition to her trained subcutaneous shield. The ad-hoc cast (Form D) is the default for any mage without gauntlet gear. The four are not interchangeable; the prose must hold them separate.
+
+When a mage in the prose is mage-attacked at the body (heart-stop, lung-fill), the prose handles it via Form A. When a mage is hit by external force (a bullet, a blast, a force-ribbon), the prose handles it via Form C if Kyra is on-page, Form D otherwise, or Form B as last-resort. The egg appears at most a handful of times across the trilogy and only at moments where the stakes earn it.
 
 **Power cores / storage crystals**: Physical objects that store magical energy. Can be embedded in the body (Marissa has crystals in her breast implants), carried externally, or built into constructions. Can be engineered to detonate explosively (explosive power cores).
 
