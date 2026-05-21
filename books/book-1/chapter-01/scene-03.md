@@ -1,4 +1,4 @@
-The stairs to the upper level were in the passage beyond the dispenser room. Narrow crystal steps worn smooth in the centre, a glow globe in a wall-fitting at the first landing. I went up two at a time.
+The stairs to the upper level were in the passage beyond the tap room. Narrow crystal steps worn smooth in the centre, a glow globe in a wall-fitting at the first landing. I went up two at a time.
 
 Anton caught up to me on the stairs.
 

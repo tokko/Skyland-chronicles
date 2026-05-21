@@ -18,7 +18,7 @@ The second man got his muzzle-loader up. He had it pointed roughly in my directi
 
 I crossed to them. The first man was still moving, working at something with his off hand. The sword. I knelt and cut, then moved to the second to be certain.
 
-Primary cylinder was empty. I broke it open and tipped the five spent casings into my coat pocket, one at a time they went in, all of them, because you do not leave casings on the floor of someone else's building when they cost money. Then the speed loader from my belt, five fresh, rotated in with one motion, cylinder snapped shut. Clean. Ten seconds, maybe twelve. I had done it faster. I went forward through the far passage.
+Primary cylinder was empty. I broke it open and tipped the five spent casings into my coat pocket, one at a time, all of them, because you do not leave casings on the floor of someone else's building when they cost money. Then I opened the belt-pouch and loaded five fresh casings one at a time, manual, the way you do it when nothing in the next room has heard you yet and the door at the far end is still closed. The speed loader stayed on my belt. You did not waste a speed loader on an empty antechamber. Cylinder closed. I went forward through the far passage.
 
 The cooking-rig hall was through the far passage and the smell told me before I was through the door. The same sharp-sweet chemical note from the outer floor, but thicker here, more concentrated, the kind of density that settled in your clothes and stayed for a day. This was the inner operation, the refined-grade product Ford had said went to Surface buyers. The rigs here were full-scale, seven of them in two rows with the mana feeds running up from the floor in braided conduit, the glow globes burning at full overhead because the cartel rationed light but not where it affected the product quality.
 
@@ -44,7 +44,7 @@ The four still-standing women at the rigs had not moved. Every hand was still on
 
 I filed all of it and crossed the hall toward the connecting corridor.
 
-The dispenser room was smaller, set off a short passage east of the rig hall: a twelve-foot square with a mana dispenser rig on one wall, the jury-built kind, a Powerstone socket fitted at an angle that only worked if you stood to one side. Three bayonet-team soldiers and a single man in Guard-issue plate. Off-duty Guard, the real thing, contracted at cartel rate. The kind you brought in when you were protecting something worth protecting.
+The tap room was smaller, set off a short passage east of the rig hall: a twelve-foot square with a standard mana dispenser bracketed on one wall, the jury-built kind, a Powerstone socket fitted at an angle that only worked if you stood to one side. The dispenser was nothing special. Every Skylander building had one, throwing its low ambient field across the room the way every household appliance threw whatever it threw. The reason the cartel called this the tap room and put their off-duty Guard in it had nothing to do with the dispenser and everything to do with what was on the east wall behind it. Three bayonet-team soldiers and a single man in Guard-issue plate. Off-duty Guard, the real thing, contracted at cartel rate. The kind you brought in when you were protecting something worth protecting.
 
 They had positioned two of the bayonet-team with a woman each, hands at elbows, bayonets levelled. The third stood at the far wall with a muzzle-loader pointed at the door. The Guard-plate man stood to one side, sword drawn. The pistol-users take the entry point; the blade-user takes the flanks. Whoever had set this position had done it before.
 
@@ -76,16 +76,16 @@ That left the two bayonet men with women.
 
 The nearest one had let his bayonet drift a finger's width off his hostage's spine while watching the Guard-plate man go down. The hostage was looking at the floor with the kind of stillness that comes when a body decides it is no longer its own. I put a backup round through the bayonet man's eye over the top of her shoulder.
 
-He went down behind her, taking the bayonet with him, and she stood there for one breath, not understanding she was free, before the next bayonet man's smoothbore swung toward her. He was already turning, the other hostage still in his off arm, and the geometry of trying to use the smoothbore one-handed with a person under the other was not going to work for him in time.
+He went down behind her, taking the bayonet with him, and she stood there for one breath, not understanding she was free.
 
-I drew the ambient again. There was still enough bleed in the room. The hex I shaped this time was tighter, more directional, a sideways shove against the smoothbore — the barrel jerked left half a foot and discharged into the hostage in his off arm at point-blank range. The round opened the side of her chest. She made one sound that was not a word and slid out of his grip and was on the floor before her knees touched it.
+The second bayonet man was already turning. The other hostage was still in his off arm against his ribs and the smoothbore was in his main hand coming around toward me. He was trying to use the smoothbore one-handed and the smoothbore did not want to be used one-handed.
 
-He was still trying to bring the smoothbore back when I put two backup rounds through his sternum.
+I put a backup round through the hostage in his off arm. Centre of her chest, through her ribs, and into him behind her. They went down together. She was dead before her knees touched the floor. He died on top of her.
 
-Two in the backup. The free hostage was still standing with the dead bayonet man behind her, not moving, not making a sound. I did not tell her to do anything.
+Three in the backup. The first hostage, the one I had freed by accident, was still standing with the dead bayonet man behind her, not moving, not making a sound. I did not tell her to do anything.
 
 I went back across to the rig hall and pulled the longer sword from between the ribs of the man who had taken it. Wiped the blade on his sleeve. Sheathed it.
 
-Then I came back to the dispenser room and unspooled the primary. Five spent casings into the coat pocket. Belt-pouch open, five fresh loose casings loaded one at a time, smooth, the way you do it when you have the time. Cylinder closed. Powerstone was still strong. Sword in its sheath. Primary at five. Backup at two.
+Then I came back to the tap room and unspooled the primary. Five spent casings into the coat pocket. Belt-pouch open, five fresh loose casings loaded one at a time, smooth, the way you do it when you have the time. Cylinder closed. Then the backup: four spent into the coat pocket, four fresh loose casings loaded one at a time, the same rhythm, the same accounting. Cylinder closed. Powerstone was still strong. Sword in its sheath. Primary at five. Backup at six. Both speed loaders still on my belt.
 
 I went back to the passage. The schedule Ford had given me allowed for fifteen minutes total and I had been in this manufactory for twelve. Somewhere behind me, through the rig hall, the wet recurring sound of Anton's crowbar told me the graft was still working the inner rooms. Not my problem.

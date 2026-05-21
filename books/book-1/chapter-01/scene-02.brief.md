@@ -6,9 +6,9 @@
 
 ### Kept from draft-2 (do not throw away)
 - The shield-as-on-page-obstacle opening (lines 1–11), including the shield-breaker discharge and Kendall's-warning weight.
-- The multi-room trek structure (antechamber → cooking-rig hall → dispenser room → upper corridor → window).
+- The multi-room trek structure (antechamber → cooking-rig hall → tap room → upper corridor → window).
 - The pre-Anjali register, brutal-jaded throughout.
-- The ambient-cast in the dispenser room from the cartel's illegal ley-line tap. Mechanics correct.
+- The ambient-cast in the tap room from the cartel's illegal ley-line tap. Mechanics correct.
 - The closing structure (window, three shots, "I noted both things and did nothing else", "The third shot").
 - The "Anton stops when he stops, not when the threat stops" / "The graft stops when the meat stops" voice anchor in the death paragraph.
 
@@ -49,7 +49,7 @@ Suggested accounting for draft-3:
 - Antechamber: fires both remaining (centre-mass kills, no kneecaps). Cylinder now empty (5 spent casings inside).
 - Between antechamber and rig hall: **breaks the cylinder open, dumps the 5 spent casings into her coat pocket, slots the speed-loader in for 5 fresh.** This is on-page. One paragraph.
 - Rig hall: fires 3–4 shots through the firefight, alternating with sword work. Several spent casings now (kept in cylinder until next reload).
-- Between rig hall and dispenser room: possibly a manual partial reload of 1–2 casings from the belt-pouch, or she carries the half-empty cylinder in.
+- Between rig hall and tap room: possibly a manual partial reload of 1–2 casings from the belt-pouch, or she carries the half-empty cylinder in.
 - Dispenser room: ambient-cast for the deadlock (no revolver shots from Powerstone). Then 1–2 revolver shots on the Guard-plate man and muzzle-loader man. **She may also throw the revolver as a distraction at the human-shield bayonet man** (per draft-2; if she does, she'll need to recover it).
 - The grand brawl: this is where she pulls the **backup revolver** (6 chambers). Fast cycle on multiple targets.
 - Upper corridor / back-stair shooter: backup revolver. Final two shots into the corset-shooter at contact range.
@@ -139,7 +139,7 @@ Tied to fix #1 — the shield-breaker is the load-bearing introduction of "thing
 ### Scene structure target (suggested)
 1. **Under the arch / shield discharge** (~250–400 words). The shield as an obstacle. Kyra fires the shield-breaker. The projector cracks. The shield falls. Cost noted. She steps through.
 2. **The connecting antechamber / first inner room** (~400–600 words). One or two cartel defenders. Fast, brutal. First armour-save. Possibly a sword finish on a wounded.
-3. **The dispenser room / bayonet-team encounter / deadlock & direct-cast** (~800–1,100 words). The illegal ley-line tap is visible. The bayonet team uses workers as cover. Kyra is pinned behind cover. She draws the ambient mana from the tap **directly** (not via Powerstone) — held spell from cover — and breaks the deadlock. Cylinder activation happens *after* the room is cleared. Worker as individual lands here. Anton's catch-up is either at the end of this room or in the next.
+3. **The tap room / bayonet-team encounter / deadlock & direct-cast** (~800–1,100 words). The illegal ley-line tap is visible. The bayonet team uses workers as cover. Kyra is pinned behind cover. She draws the ambient mana from the tap **directly** (not via Powerstone) — held spell from cover — and breaks the deadlock. Cylinder activation happens *after* the room is cleared. Worker as individual lands here. Anton's catch-up is either at the end of this room or in the next.
 4. **Anton's death** (~150–300 words). Sudden. Gory. Emotionless. Kyra notes him and keeps moving.
 5. **The grand hall / final inner space** (~400–600 words). Final defenders. Sword work for the wounded. Final clean. The blood-cost-paid Kyra: she is not in pain, but she has spent real charge, the shield-breaker is dead, the gauntlet is warm, the casings are empty, and she has used the sword more than she expected to.
 6. **The upper-level corridor / window / courtyard** (~400–600 words). Per draft-1 — preserved structure. Ford below, executions, the pacing-brake observation, the no-named-emotions close.
