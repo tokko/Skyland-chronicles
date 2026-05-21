@@ -18,7 +18,10 @@ The criminal drug-manufacturing and -dealing network of the Skylands. Stardust i
 
 Multiple competing cartels exist; the Bowels-based Robin Hoods are a rival magic-power-stealing gang that complicates the market. The Constabulary leadership is corrupt and accepts bribes; Detective Ford's unsanctioned anti-Stardust unit using mercenaries (Kyra, Greg, Anton, others) is the only sustained law-enforcement pressure on the cartels.
 
-## Manufacture (two-stage process)
+## Manufacture (two-stage process — canon expansion vs. source)
+
+> **Canon expansion note**: The source manuscript (book-1 ch.1) describes Stardust manufacture as a single-room chemical-industrial process — long tables, chemical fumes, near-naked cookers, no separate curing step, no ambient-mana requirement, no visibly mana-affected workers. The two-stage "curing room with baked workers" mechanic documented below is a **deliberate canon expansion** for the rewrite. It is consistent with the source's implied magic-as-input to the Stardust economy (the Robin Hoods subplot — book-1 chs.1-2 — has the rival gang stealing mana off mainlines or draining people for it, with the implication that this stolen mana feeds the cartels' demand). The curing-room is the on-page articulation of what the source only implies: that the cartels need mana, and the only thing they could need it for is the product itself. Reviewers should treat this as locked canon for the rewrite even though it is not in the source manuscript.
+
 
 Stardust is made in **two distinct rooms** in any cartel manufactory of meaningful size:
 
