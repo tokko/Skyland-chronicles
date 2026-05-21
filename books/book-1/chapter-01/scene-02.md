@@ -2,7 +2,7 @@ The shield was a shimmer across the arch. Not a wall, nothing solid to press you
 
 I reached for it with my magesense.
 
-The barrier itself was a steady pull on the field, a projector running clean off a Powerstone seated inside the arch frame. Beyond the barrier the field went thin again, the way the field always went thin once you were past the projector. I could not push much further than that. Pre-Grasax magesense had to work for distance, and there were two doors and a corridor between me and anything worth feeling. But the cartel had set this projector here, and that meant the cartel had something on the other side worth setting a projector for.
+The barrier itself was a steady pull on the field, a projector running clean off a Powerstone seated inside the arch frame. Beyond the barrier the field went thin again, the way the field always went thin once you were past the projector. I could not push much further than that. Magesense had to work for distance, and there were two doors and a corridor between me and anything worth feeling. But the cartel had set this projector here, and that meant the cartel had something on the other side worth setting a projector for.
 
 I let the sense drop.
 
@@ -16,7 +16,7 @@ I let the shield-breaker fall. The grip cracked when it hit the crystal floor. K
 
 The cost noted. I stepped through.
 
-The antechamber beyond was low and narrow, barely wide enough for two people abreast, the glow globes set at floor level along the base of the walls and throwing the light upward so everything had the wrong shadow-shape. I reached again, briefly. Two practitioner-light signatures at the far end of it, neither carrying a Powerstone above the cheapest grade. Cheap labour, the kind of vest that stopped a blade if the man behind the blade was not trying. They had heard the shield break. I came through.
+The antechamber beyond was low and narrow, barely wide enough for two people abreast, the glow globes set at floor level along the base of the walls and throwing the light upward so everything had the wrong shadow-shape. I reached again, briefly. Nothing in the antechamber answered. No Powerstone, no working, no enchanted gear. Cheap labour, then, whatever the cartel had scraped off the corner for the deep work. The kind of vest that stopped a blade if the man behind the blade was not trying. They had heard the shield break. I came through.
 
 The one with the muzzle-loader fired as I cleared the frame. The round caught my gorget at the collar-line and the deflection sent it into the arch overhead, where it hit the crystal and came back as a spray of indigo dust across my cheek and eye. The dust burned. My throat was unhurt, because the gorget was Kendall's work and it had done its job, but an unarmoured merc would have been standing in the antechamber with a hole in her neck. I blinked the indigo clear and put a round through the centre of his chest. He sat down against the wall hard.
 
@@ -38,13 +38,13 @@ I went right and hit the floor behind the first rig-bench, the rounds cracking i
 
 I came up over the bench and cut the nearest sword-man across the face before his blade found me. Not a kill, but enough that he staggered back. I drove into the gap it opened and got the longer sword into his chest between two ribs. He went down pulling the sword with him, the blade jammed between the ribs the way a blade does when you put it in honestly. I would come back for it.
 
-The next pair came at me together. I was in the space between two rigs by then, too narrow for the wide guard-stance they were used to working with. I had the shorter blade in close and the revolver point-blank on the right man before he had worked out how to bring the sword through the gap. The round went through the side of his neck. The other man came in and I got the shorter blade up into his midsection, and when he folded I used the revolver frame across the back of his skull to finish it. One round left.
+The next pair came at me together. I was in the space between two rigs by then, too narrow for the wide guard-stance they were used to working with. I had the shorter blade in close and the revolver point-blank on the right man before he had worked out how to bring the sword through the gap. The round went through the side of his neck. The other man came in and I got the shorter blade up into his midsection, and when he folded I used the revolver frame across the back of his skull to finish it. Two rounds left.
 
 The last pair, the two covering the far wall, broke for the east passage.
 
 I was still twenty feet back. The younger woman was in the path of the faster man and he caught her by the arm without slowing down, dragged her two steps, then let go and ran for the passage. She fell between the rigs and stayed down. Maybe smart, maybe hurt, maybe done. The slower guard was nearly to the passage mouth when I caught him and put the shorter blade across the back of his knee. He dropped against the frame and I finished it.
 
-One round left in the primary and the fast one gone through the east passage.
+Two rounds left in the primary and the fast one gone through the east passage.
 
 The four still-standing women at the rigs had not moved. Every hand was still on the work surfaces. The older one nearest me had a cut above her eye from the crystal chips and was bleeding into her work without looking at it. The one at the second rig who had taken the round to the throat was where she had fallen, head turned the wrong way. The woman beside her had blood across her cheek from the spray and her hands had not stopped moving.
 
@@ -60,48 +60,68 @@ Several signatures stood inside it.
 
 One was a Guard-plate Powerstone, big and steady, set at the south side. Two more were smaller Powerstones, the bayonet-team kit, each set near a worker-light signature. A fourth signature was different. A live practitioner holding their own working in their hand, not yet shaped into a spell, just at the ready. Mage-grade. The cartel had paid for a real defender.
 
-The thin worker-signatures, four of them, were curers. The chronic ambient had soaked into them the way long-term Stardust soaks into a user; I could feel their thinned readings the way I felt my own when I was tired. They were not going to react quickly to anything.
+The thin worker-signatures, four of them, were curers. The chronic ambient had soaked into them the way long-term Stardust soaks into a user; I could feel their thinned readings the way I felt my own when I was tired. Awake, all four of them. Afraid.
 
-The mage knew I was there. They had felt my magesense reach in. The working in their hand sharpened from idle to ready.
+The mage knew I was there. She had felt my magesense reach in. The working in her hand sharpened from idle to ready.
 
 I raised my left arm and engaged the gauntlet shield as I came through the door.
 
-The pane manifested in front of me, translucent and humming, the trick of the engagement going down my forearm and into the bones of my hand. The mage's spell hit it half a second after. A violet ribbon of force I had read in their hand before they cast. I angled the shield to take it on the slant. The ribbon refracted sideways and split a curing rack along the south wall. Cured Stardust crystals came off the rack in a cascading purple shower and the spillage of mana off the broken stones turned the room briefly brighter as the field around them flared and dissipated.
+The pane manifested in front of me, translucent and humming. The mage's spell hit half a second after. A violet ribbon of force I had read in her hand before she cast. I angled the shield to take it on the slant; the ribbon refracted sideways and split a curing rack along the south wall. Cured Stardust crystals came off the rack in a cascading purple shower and the spillage of mana off the broken stones turned the room briefly brighter as the field around them flared and dissipated.
 
-I read the room in the instant before the second exchange.
+The youngest curer bolted east. Her bayonet man swung his smoothbore around and shot her in the back. The round came out the front of her chest in a fist-sized spray and she went down through the doorway and stayed there. He started a reload he was never going to finish.
 
-The curing room was bigger than the cooking-rig hall. Twenty feet on a side, the ceiling high enough to accommodate the long curing racks running the south and north walls. Product on shelves. Product on the racks still in the field. Product in trays on a low central table. Three bayonet-team soldiers and the Guard-plate man positioned with four baked women, hands at the curers' elbows, bayonets up. The mage stood at the far north corner, a thin woman in a dispenser-warden's robe, the haze of her ambient-fed working visible to me on the magesense as a low purple glow around her left hand. She had set her own shield half a beat before mine — a tighter, more directional pane than mine, held one-handed, fed off the room's ambient instead of her own stone.
+One bayonet. One spent round. Not on me.
 
-I took her first. Crystal-shot would not punch her shield from the front but she had given me her flank when she pivoted to cast. I dropped my shield's draw to nothing, lifted the primary in the half-second of unshielded I had, and put my last primary round through the gap between her ribs and her elbow on her unshielded side. The round opened the side of her chest. Her shield collapsed. She went sideways against the curing rack behind her and brought another rack down with her on the way to the floor.
+I read the room.
 
-I re-engaged my shield and switched to the backup as the bayonet team started to bring smoothbores around.
+The curing room was bigger than the cooking-rig hall. Twenty feet on a side, the ceiling high enough to accommodate the long curing racks running the south and north walls. Product on shelves. Product on the racks still in the field. Product in trays on a low central table. The mage stood at the far north corner, a thin woman in a dispenser-warden's robe, the haze of her ambient-fed working visible to me on the magesense as a low purple glow around her left hand. She had set her own shield half a beat before mine. A tighter, more directional pane than mine, held one-handed, fed off the room's ambient instead of her own stone.
 
-I had read the curers when the magesense first reached the room. They had not moved at the mage's casting. They were not going to move now. Their thinned-out signatures floated next to the bayonet men as if the men had been holding furniture instead of people. The closest curer had a faint violet tinge in the capillaries under her eyes and the kind of haze across the iris that came after months of standing inside a curing field for fourteen-hour shifts. Her hands were still curled in the position they had been holding the crystals.
+The other three curers were naked the way the cooking floor had been naked, cartel policy carrying into the senior room. Months of standing in the curing field had marked them: a violet tinge in the capillaries under the eyes and along the inside of the forearms where the veins ran shallow, a pallor across the rest. Thin. Hands red and raw from the work. The dead one through the doorway had told them what the next minute was.
 
-The Guard-plate man had got a hand on his smoothbore. I put a backup round through the exposed gap at the seam of his neck-piece, the gap that the cartel's Guard-issue plate left wide. He went down sideways against the central table and the tray of product on it slid off the edge and broke across the floor.
+I cast back.
+
+I had soulfire ready under my off hand and I let it go in a tight crimson lance at the mage's shield. It hit her pane and ran along the surface and dissipated; she had read the cast and angled the shield the same way I had. The bleed of crimson and the bleed of her violet met in the air between us and went dark together. Her left hand was already shaping the next thing.
+
+The second curer broke. She made two steps from her handler before he drove the bayonet through her back from behind. The point came out under her sternum. He let her drop forward off the blade and the blade did not come with her clean; it caught on her rib on the way out and his off-hand went wet to the wrist.
+
+Behind the mage, the east door came open hard.
+
+Two of the other Ford-contracted mercs came through it shoulder to shoulder. One I knew by the haircut. The other I did not. They had cleared their floor and come up through the connecting passage and they had hit the curing room from the back at exactly the moment the mage's attention was on me.
+
+The haircut-merc shot the reloading first bayonet through the side of the head before he had got his second cartridge home. The second Ford merc went past me with a sword and took the second bayonet through the side of the neck while his blade was still hung up in the curer's ribs.
+
+Two more bayonets down. Two more cartel deaths the curers had bought me.
+
+The third curer twisted out of her handler's grip as he turned to face the new threat. She got two steps toward the spilled crystals on the south side. He swung his smoothbore around and fired into her side at point-blank. She came down between the rack and the floor and did not come back up. His smoothbore went empty.
+
+The mage cast again. A flat sheet of crimson coming in low at my knees, designed to take the legs out from under a shielded opponent. I dropped the shield to a knee-high slant and the sheet went over my head along the angle. The fire caught the central table on the way past and the trays of product on it flashed white-hot before they had finished sliding off the edge.
+
+I cast back at the same beat. A second soulfire lance, narrower this time, angled high at her shield's upper edge where the one-handed cast was thinnest. Her pane took it but the angle held it for a full second and her shield bowed inward at the corner before it recovered. The bleed of light off the bowing flared white across her face. Her next cast, already shaping, fell apart in her hand.
+
+I lifted the primary in the window that opened and put a round through the gap between her ribs and her elbow on her unshielded side. The round opened the side of her chest. Her shield collapsed. She went sideways against the curing rack behind her and brought another rack down with her on the way to the floor. The mana bled off the cascading crystals in a thin purple haze that drifted south across the room.
+
+One round left in the primary.
+
+The Guard-plate man had the last curer twisted up against him as a shield, her shoulder under his chin, his smoothbore up over her head. He fired across the room at me. The round caught my shield at the centre of the pane and shattered into a fine indigo dust against it. The shield hummed louder for the half-second of impact and settled back to its hum. His smoothbore went empty and the curer was still in his off arm and he was working the action one-handed with his teeth on the lever.
+
+I put my last primary round through the gap at the seam of his neck-piece, the gap that the cartel's Guard-issue plate left wide. He went down hard against the central table. The curer came down with him; her temple caught the edge of the table on the way and she stayed where she landed.
+
+Primary empty.
+
+I switched to the backup as the third bayonet worked the action of his empty smoothbore and understood it was empty. I put a backup round through his sternum before he got the second cartridge out of his belt-pouch.
 
 Five in the backup.
 
-The first bayonet man brought his smoothbore around with the curer still in his off arm. I put a backup round through his eye over the top of her shoulder. He went down behind her and she did not move.
+The Guard-plate man was still moving. I crossed to him and put the shorter blade through the side of his throat to be certain. The haircut-merc and the second Ford merc had already turned for the east door; the haircut-merc was holding her off hand against a wound along her ribs and not slowing for it. She gave me a nod on the way past. They had their own rooms to clear.
 
-Four in the backup.
+The mage was still alive on the floor, breathing through the open side of her chest. Her hand was working without her arm, the muscle memory of a final cast, the fingers shaping a glyph that would not finish. I crossed to her, drew the shorter blade for the second time, and put it through her throat.
 
-The second bayonet man fired his smoothbore at me from across the room. The round caught my shield at the centre of the pane and shattered into a fine indigo dust against it, the shield humming louder for the half-second of impact and then settling back to its hum. I put a round through his sternum. Three in the backup.
+I dismissed the shield. The gorget Powerstone read at a fifth charge. The shield-sustain plus two mage-deflects plus two soulfire casts had cost me real.
 
-The last bayonet man tried to drag his curer toward the back of the room. She moved when he moved because his hand was at her elbow, but the motion was passive. She was being walked. He had three steps before he understood he was alone. I shot him through the side of the head from across the room. The curer kept walking another two steps before she registered her elbow was free, and then she stopped, and stood where she had stopped, looking at nothing.
-
-Two in the backup.
-
-The mage was still alive on the floor, breathing through the open side of her chest. Her hand was working without her arm — the muscle memory of a final cast, the fingers shaping a glyph that would not finish. I crossed to her, drew the shorter blade, and put it through her throat.
-
-I dismissed the shield. The gorget Powerstone read at a quarter charge. The shield-sustain plus the mage-deflect had cost me real.
-
-The curing rack she had brought down with her was bleeding mana off the broken crystals in a thin purple haze that was settling across the south side of the room. The unbroken product on the shelves was still glowing faintly in the ambient. The dispenser on the east wall was still throwing its field. The illegal tap behind it was still drinking off the public ley line.
+The curing room held what it held. Four dead curers across the floor. Five dead cartel men among them. The dispenser on the east wall was still throwing its field. The illegal tap behind it was still drinking off the public ley line. The product on the shelves was still glowing faintly in the ambient. The central table was charred where the fire-sheet had passed and the burned trays were spitting tiny white sparks of mana bleed where the product had gone to slag.
 
 I went back across to the rig hall and pulled the longer sword from between the ribs of the man who had taken it. Wiped the blade on his sleeve. Sheathed it.
 
-Then I came back to the curing room and unspooled the primary. Five spent casings into the coat pocket. Belt-pouch open, five fresh loose casings loaded one at a time, smooth, the way you do it when you have the time. Cylinder closed. Then the backup: four spent into the coat pocket, four fresh loose casings loaded the same way. Cylinder closed. Powerstone at a quarter, not strong, not dry. Sword in its sheath. Primary at five. Backup at six. Both speed loaders still on my belt.
+Then I came back to the curing room and unspooled the primary. Five spent casings into the coat pocket. Belt-pouch open, five fresh loose casings loaded one at a time, smooth, the way you do it when you have the time. Cylinder closed. Then the backup: one spent into the coat pocket, one fresh loose casing loaded the same way. Cylinder closed. Powerstone at a fifth. Sword in its sheath. Primary at five. Backup at six. Both speed loaders still on my belt.
 
-The mage's curer was still standing where she had stopped. The other three were still in their bayonet positions, hands curled the way the bayonet men had left them. None of them looked at me. None of them looked at each other. They were not going to.
-
-I went back to the passage. The schedule Ford had given me allowed for fifteen minutes total and I had been in this manufactory for fourteen. Somewhere behind me, through the rig hall, the wet recurring sound of Anton's crowbar told me the graft was still working the inner rooms. Not my problem.
+I went back to the passage. Ford's schedule had allowed fifteen minutes and I had been in this manufactory for fourteen. Somewhere behind me, through the rig hall, Anton's crowbar told me he was still working. Not my problem.
