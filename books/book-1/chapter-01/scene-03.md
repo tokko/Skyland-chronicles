@@ -2,7 +2,7 @@ The stairs to the upper level were in the passage beyond the curing room. Narrow
 
 Anton caught up to me on the stairs.
 
-He came through the passage below at speed, blood across his face and chest and both forearms, the crowbar still in his left hand, the seam-scars at his collarbones running high and dark with the graft-heat underneath. The graft-flood was still full; he was not driving. He came up the stairs behind me and I stayed ahead of him up the last flight and through the door at the top.
+He came through the passage below at speed, blood across his face and chest and both forearms, the crowbar still in his left hand, the seam-scars at his collarbones running high and dark with the graft-heat underneath. The chemistry was still full on him. He was still hunting, in the chemically narrowed sense the flood allowed for hunting; he had the work he had been doing on the cooking floor and he was looking for more of it. He came up the stairs behind me and I stayed ahead of him up the last flight and through the door at the top.
 
 The upper corridor was already a fight when I came through it.
 
@@ -12,29 +12,29 @@ Two women from somewhere below had made it this far. One was crouched between th
 
 She did not make it. A bayonet man two-thirds of the way down had his blade swung wide for a Ford merc behind her, and the bayonet caught her in the side as she crossed his arc. She went down between two canisters and did not come back up.
 
-I had the backup revolver out before the door had finished swinging behind me. Four chambers.
+I had the backup revolver out before the door had finished swinging behind me. Six chambers.
 
-I shot the man who had just killed the running woman through the chest. He stumbled and the Ford merc behind him drove a sword through the stumble. Three in the backup. Down the corridor, a cartel reinforcement was standing over a downed Ford merc trying to work his smoothbore's reload, his feet too close to her ribs. I put the next round through the back of his head. The Ford merc he had been standing on rolled out from under him and crawled toward the canisters.
+I shot the man who had just killed the running woman through the chest. He stumbled and the Ford merc behind him drove a sword through the stumble. Five in the backup. Down the corridor, a cartel reinforcement was standing over a downed Ford merc trying to work his smoothbore's reload, his feet too close to her ribs. I put the next round through the back of his head. The Ford merc he had been standing on rolled out from under him and crawled toward the canisters.
 
-Two in the backup.
+Four in the backup.
 
 The remaining three bayonet men were working a pair of Ford mercs into the far corner past the back stair. The chin-scar merc I knew by silhouette was at the stair-throat itself, his sword across the gap, holding the position. He had been there since the brawl started and the bodies on the steps below him said he had been earning his contract.
 
 Anton came through the corridor door behind me.
 
-I felt the graft-heat before I saw him. The air-temperature shift you get from a body running its mana too hard, the steam coming off the skin. He went past me on the left, the crowbar already swinging, and took the nearest bayonet man across the side of the head before the man had registered that there was a problem on his flank. Then the next. Then the next. The graft-flood does not aim but it does not need to aim at close range, and the three bayonet men working the corner of the Ford mercs were not braced for what came out of nowhere from their left.
+I felt the graft-heat before I saw him. The air-temperature shift you get from a body running its mana too hard, the steam coming off the skin. He went past me on the left, the crowbar already swinging, and took the nearest bayonet man across the side of the head before the man had registered that there was a problem on his flank. Then the next. Then the next. He was not aiming so much as letting the chemistry compress the loop between seeing and swinging; at close range no aim was needed. The three bayonet men working the Ford mercs into the corner were not braced for what came out of nowhere from their left.
 
 The pair of Ford mercs in the corner saw what was happening and got out of the way. Anton stood at the corner with the crowbar dripping and the next-moving thing in his field of view was the chin-scar merc at the stair-throat.
 
 "Anton," I said.
 
-The graft-flood did not hear voices. It tracked motion.
+He did not hear voices. The flood would not let him. He tracked motion.
 
 The chin-scar merc saw the read in the same moment I did. He did not move. He kept his sword across the stair-throat and his eyes on Anton and called over his shoulder: "More on their way up. Four. Maybe five."
 
-Anton stopped moving. The graft did not give up its tracking; it just had nothing to track when chin-scar did not move and I did not move and the dead Ford merc on the floor between the canisters did not move. He stood there breathing through his teeth, the crowbar in his left hand, the seam-scars at his collarbones twitching with the graft running on residual power. Then the first reinforcement came up the stair behind chin-scar's elbow.
+Anton stopped moving. He had not given up the tracking; there was just nothing to track when chin-scar did not move and I did not move and the dead Ford merc on the floor between the canisters did not move. He stood there breathing through his teeth, the crowbar in his left hand, the seam-scars at his collarbones twitching with the chemistry running on residual power. Then the first reinforcement came up the stair behind chin-scar's elbow.
 
-Anton's head turned. The graft tracked.
+Anton's head turned. The chemistry brought him forward.
 
 He went past chin-scar without touching him, took the first reinforcement across the top of the head before the man had cleared the top step, and the body went back down two steps and stopped against the stair wall. Anton kept going. The second reinforcement was on the step below the first and Anton was already at the stair-throat looking down at him.
 
@@ -46,7 +46,7 @@ The round caught Anton in the centre of the upper chest and went out his back. A
 
 He looked at me from the knee with the look of a man whose body has just been informed that it is done.
 
-The third reinforcement came up over the second. Anton tried to swing again and was not fast enough. The third reinforcement's smoothbore caught him in the back of the head at point-blank from the step below — the angle of the stair giving the shooter a clean line up at the base of Anton's skull from underneath — and the front of Anton's skull came apart on its way out. The spray reached the canisters stacked left of the corridor in a long red arc. He dropped mid-stride, the crowbar hitting the crystal floor a half-second before the rest of him did. The graft-craze does not wind down gradually. The graft stops when the meat stops.
+The third reinforcement came up over the second. Anton tried to swing again and was not fast enough. The third reinforcement's smoothbore caught him in the back of the head at point-blank from the step below — the angle of the stair giving the shooter a clean line up at the base of Anton's skull from underneath — and the front of Anton's skull came apart on its way out. The spray reached the canisters stacked left of the corridor in a long red arc. He dropped mid-stride, the crowbar hitting the crystal floor a half-second before the rest of him did. Graft-craze does not wind down gradually. The chemistry stops when the body stops.
 
 The chin-scar merc dropped the third reinforcement with a sword through the throat as the man cleared the top step.
 
@@ -54,9 +54,9 @@ I shot the fourth as he came up. The chin-scar merc took the fifth in the stair-
 
 The back stair went quiet.
 
-The upper corridor was clear. Anton was on the floor at the top of the back stair where he had landed, the dead-meat strips at his collarbones still twitching on residual mana from his Powerstone going through its last cycle. They would keep twitching for another few minutes. The graft does not know when the man is done.
+The upper corridor was clear. Anton was on the floor at the top of the back stair where he had landed, the dead-meat strips at his collarbones still twitching on residual mana from his Powerstone going through its last cycle. They would keep twitching for another few minutes. The chemistry does not know when the man is done.
 
-One in the backup.
+Three in the backup.
 
 The two Ford mercs who had been in the corner came out to take stock. One of them was bleeding from a cut along the jaw and one of them was holding his off arm against his ribs in a way that meant something inside it was broken. The merc with the chin scar was tying off his forearm with a strip from his shirt. The Ford merc I had pulled off the floor was sitting against the canisters with her hand against her side.
 
@@ -86,6 +86,6 @@ Above the courtyard the Skyway tram was passing on the level overhead, the carri
 
 Below, the second shot.
 
-My hand was in my coat pocket. The backup revolver was down to one round; the primary at five. The spent casings in my pocket were a weight I would drop into the recharge cradle tonight, the full pouch of them, and tomorrow they would hold slugs again. I noted both things and did nothing else.
+My hand was in my coat pocket. The backup revolver was down to three rounds; the primary at five. The spent casings in my pocket were a weight I would drop into the recharge cradle tonight, the full pouch of them, and tomorrow the household dispenser would put slugs back inside them at metered cost. The metering would itself be the night's second smaller wound. The city's mana ledger had grown short enough that a heavy contract paid twice: once at Ford's hand, once at the home meter. I noted both things and did nothing else.
 
 The third shot.
