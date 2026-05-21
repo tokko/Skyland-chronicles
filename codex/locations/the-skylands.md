@@ -34,6 +34,23 @@ The monolith had multiple distinct strata:
 
 The city was sustained entirely by magic — water, light, transportation (the Skyway tram running beneath the monolith on a ley line arc), food (fungus farms; no animals could survive on the Skylands). Meat was such a luxury that the poor were sometimes butchered after they could no longer work (Kyra's father met this fate).
 
+### Mana dispensers — scarce, function-specific
+
+Per `magic/system.md` "Skylands mana economy" the city is mana-rationed. **Dispensers are not ubiquitous.** A dispenser is a piece of metered infrastructure that pulls mana off an artificial ley line and throws a low ambient field across a room — like a small radiator of magical energy. They are installed only in rooms with a specific functional need:
+
+- **Mage workshops, training rooms, and casting halls** — where mages cast spells repeatedly and need ambient mana to draw from cheaply (without burning through their personal Powerstones for routine work).
+- **Rooms with heavy use of mobile enchanted items** that the operator does not want to keep charging via Powerstone — workshops, manufactory subprocesses, certain Constabulary armouries.
+- **Specific industrial processes that require an ambient mana field as part of the production process** — see Stardust-curing under the cartel-operations corollary below.
+- **High-end residences of practicing mages and the very rich**, as a household amenity (premium-priced; rare).
+
+The household dispenser in Kyra's apartment is for the gauntlet, the Powerstone-cradle, and the few enchanted appliances she keeps; it is NOT a default Skylander household fitting. Most Undercity households have no dispenser at all and rely entirely on portable Powerstones charged at public stations. Most rooms in any building on the city have no dispenser. When the prose encounters a dispenser, it is doing specific work and the prose should treat the dispenser as evidence of what is happening in that room.
+
+### Cartel operations corollary (Stardust manufacture)
+
+Stardust is manufactured in two stages: **cooking** (chemical synthesis of the crystalline precursor — no mana cost, just chemistry, no dispenser needed in the cooking-rig hall) and **curing** (the cooked precursor is bathed in a thick ambient mana field for hours, which gives the finished product its magical potency and addictive kick). The curing room is the dispenser room: it has a standard mana dispenser AND, in the larger illicit operations, an illegal ley-line tap that boosts the local ambient field well beyond what the dispenser alone would provide. The curing room is the operation's most valuable space — it holds the in-progress product, the finished product, the dispenser-and-tap infrastructure, and the most experienced workers. The cartel guards it accordingly: this is the room where the off-duty Guard with bayonet kits and the cartel-employed mage are stationed.
+
+Workers who spend their shifts in the curing room are visibly affected by chronic exposure to the ambient mana field. The skin takes on a faint violet tinge in the capillaries near the surface; the eyes haze with a thin purple film; the mental affect flattens (chronic ambient exposure dulls executive function the way long-term Stardust use does, since the curing field is essentially low-grade ambient-Stardust-soup). Cartel cant for these workers is *baked* — they are walking advertisements for the product they are curing, and the cartel does not let them leave because their flat affect makes them docile and their bodies are evidence.
+
 **Ecology**: materialised-magic crystal (the substrate of every wall, floor, ceiling, building, tool, weapon, and projectile in the city), fungus (the only living non-human matter on the Skylands; sustains all human nutrition; "spore-bloom" is the only "bloom" Skylanders know), and humans. **No flora and no fauna of any other kind exist on the Skylands and have not for the ~six centuries since the city was founded.** Plants, animals, soil, weather, rivers, and the sea (which is visible from the Barrier but never touched) are six-centuries-ago legend to born-Skylanders. The narrative-voice consequence is documented in `voice/voice-profile.md` §Kyra and `polish-targets.md §25`: born-Skylander narrators cannot reach for nature as metaphor, comparison, or imagery while still on the Skylands. The vocabulary enters gradually once they leave, and the narration softens with it.
 
 **Material absences that follow from the ecology**:

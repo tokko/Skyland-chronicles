@@ -18,6 +18,24 @@ The criminal drug-manufacturing and -dealing network of the Skylands. Stardust i
 
 Multiple competing cartels exist; the Bowels-based Robin Hoods are a rival magic-power-stealing gang that complicates the market. The Constabulary leadership is corrupt and accepts bribes; Detective Ford's unsanctioned anti-Stardust unit using mercenaries (Kyra, Greg, Anton, others) is the only sustained law-enforcement pressure on the cartels.
 
+## Manufacture (two-stage process)
+
+Stardust is made in **two distinct rooms** in any cartel manufactory of meaningful size:
+
+1. **The cooking-rig hall**. Chemical synthesis of the Stardust crystalline precursor — distillations, reductions, controlled exotherms. Pure chemistry. No mana required at this stage. The cooking-rig hall has cookers (the near-naked forcibly-retained workers per the description above), guards, the cooking fumes, the rig-benches with crystal framing. It does not have a mana dispenser. It does not need one.
+
+2. **The curing room**. The cooked precursor is bathed in a thick ambient mana field for hours. The mana is what gives the finished Stardust its potency and its addictive magical kick. A standard Skylander mana dispenser provides the ambient field at minimum strength; the larger illicit operations supplement this with **an illegal ley-line tap that boosts the local ambient well beyond what the dispenser alone delivers**. The curing room is therefore the only room in the operation that needs a dispenser AND is also where the cartel siphons stolen mana off the public network. It is the most valuable space in the manufactory: in-progress product on the curing racks, finished product on the shipping shelves, the dispenser-and-tap infrastructure on the wall, and the most experienced workers (the curers). The cartel guards it with its highest-tier defenders — the off-duty Skylander Guard with bayonet kits, and the cartel-employed mage if one is on staff.
+
+**The curers** — the workers stationed in the curing room — develop the visible chronic-mana-exposure signs documented in `locations/the-skylands.md` under "Cartel operations corollary". Cartel cant for them is *baked*. They are docile from the chronic exposure (chronic ambient mana exposure flattens executive function the way long-term Stardust use does — they are walking advertisements for the product they are curing). The cartel does not let them leave the curing room except to sleep; their bodies are evidence and their flat affect makes them low-management.
+
+## Resistance forces in a major raid
+
+A senior manufactory raid will typically face, in order of encounter from the outer floor to the curing room:
+
+- Cheap-labour guards on the perimeter and at the cooking-rig hall (muzzle-loaders, shortswords; cartel pays them in dust and rent).
+- A bayonet team of off-duty Skylander Guard in the curing room (premium pay; the cartel's serious defender layer).
+- A cartel-employed mage, when one is on staff — typically a Construction Mage-grade practitioner who can throw small directional spells and maintain a personal shield. The mage is normally stationed in or near the curing room (the dispenser-and-tap ambient field lets the mage operate without burning their own Powerstone). The mage is the operation's hard counter to any merc raid that does not bring its own mage.
+
 Destroyed with the rest of the Skylands in book-1 ch.51.
 
 ## Allegiance
