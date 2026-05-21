@@ -22,12 +22,13 @@ Two fingers held up in the dark of an indigo alley. Anton on the far wall, waiti
 ## Closing hand-off
 Kyra in her own tub, water cooling. The bills counted. The bruise on her throat. The taste in her mouth that she cannot quite place. Sleep — but not yet rest.
 
-## Scene count (preliminary)
-4 scenes.
-- scene-01 — *The breach.* The detonation, the corridor work, the room with the workers, the run-in with the other team and the gantry. Reaches the room with the cooking site cleared.
-- scene-02 — *The shopfloor.* The shielded room, the women used as cover, the bayonet team, the cleared hall. Ends with Kyra at the open window in cooling armour, looking down at Ford in the courtyard.
-- scene-03 — *Raynard at the window.* The encounter. The cheering courtyard. The fold of Raynard's bills into the coat. The walk past Ford for payment as the captives are executed.
-- scene-04 — *The ride home.* Skyway. The Barrier. The Great Geyser. Her apartment. The tub.
+## Scene count
+5 scenes (originally outlined as 4; split mid-chapter after scene-02 grew past the hard-beat ceiling — the brawl + window beats that were the back half of scene-02 became their own scene-03; existing scene-03 and scene-04 renumbered up to scene-04 and scene-05).
+- scene-01 — *The breach.* The detonation, the corridor work, the cooking floor with the workers, Anton's graft-flood rampage. Reaches the arch with the shield-breaker primed.
+- scene-02 — *The shopfloor.* The shield discharge, the antechamber, the cooking-rig hall, the dispenser-room ambient-cast deadlock-break. Reaches the passage to the stairs.
+- scene-03 — *The brawl / the window.* The upper-corridor convergence of all Ford-contracted breach teams; the cartel reinforcements coming up the back stair; Anton's death at the stair-throat; the surrendered upper-watch guard executed with the sword; the window above the courtyard; the three executions.
+- scene-04 — *Raynard at the window.* The encounter. The cheering courtyard. The fold of Raynard's bills into the coat. The walk past Ford for payment as the captives are executed.
+- scene-05 — *The ride home.* Skyway. The Barrier. The Great Geyser. Her apartment. The tub.
 
 ## Codex state at chapter open
 - Characters present: kyra-zorantis, anton (one-mission partner), raynard (Skylander mercenary, lover of convenience), detective-ford (off-page contractor); kendall named in reference only.
