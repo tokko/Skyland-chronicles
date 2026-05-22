@@ -32,6 +32,17 @@ In book 2 Kyra exists as a spectral presence, summoned only when the magic field
 
 Petite woman, short for a Skylander. Curly purple hair (dyed-in-her-twenties; never naturally) by shoulder-blade length. Scar through one eyebrow from earlier mercenary work. Multiple scars across her body — battles before book 1 left her with thigh-claw scar from the Dragonkin, burn scars on the inside of one arm and the back of her legs.
 
+### Loadout (book-1 era)
+
+- **Primary repeating revolver**: 5-chamber, heavy frame, Kendall-built, grip fitted to her hand. Worn at the right hip.
+- **Backup repeating revolver**: 6-chamber, lighter frame. Cross-draw on the left hip.
+- **Longer sword**: sheathed at the **right hip** (alongside the primary holster).
+- **Shorter blade**: sheathed across the **small of her back**, drawn with the left hand.
+- **Materialised-magic armour**: gauntlet (left), gorget, corset, helmet. Powerstone seated in the gorget. The gauntlet projects the personal directional shield (Form C, per `magic/system.md`).
+- **Speed loader per revolver** on the belt; **belt-pouch of loose casings** for manual reload; **hip-pouch / coat pocket for spent casings** taken home and recharged at the household dispenser.
+
+The longer sword is NOT carried over the shoulder. (Prior draft error.)
+
 After book-1 ch.34 onward (the assault on Grasax's barrier and her duel with him): loses her right arm below the elbow, replaced with a materialised-magic crystal prosthetic. Glowing violet eyes after her liche transition (book-1 ch.50-51). Veins glow when she draws power. Burn scars across the left side of her face and neck from the wound that nearly killed her in the Grasax fight. After Archoning at the Geyser her body is gone entirely — she manifests only as a spectral image in dense magic fields, drawn from the memory of her last living form.
 
 ## Voice
