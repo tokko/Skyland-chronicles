@@ -1,0 +1,21 @@
+# Soft Beats
+
+The default scaffold. The orchestrator may drop, replace, reorder, or invent soft beats when it serves pacing. Soft beats may be promoted to hard with the user's explicit approval.
+
+IDs use the form `S-<short-slug>`.
+
+## Format
+
+Same as `hard.md`. Soft beats are typically scene-level pacing, character interaction, voice-establishment, or pacing brakes that the source delivers but the rewrite has discretion over.
+
+## Beats
+
+---
+
+### S-EXAMPLE — [Short title]
+- **Source**: source-book-N / ch.MM
+- **Target arc / book**: arc-N / book-M
+- **Description**: [What this beat would deliver. Pacing function, character interaction, voice register, etc.]
+- **Status**: pending | dropped | landed (scene: <book-N/ch-MM/scene-PP>) | promoted-to-hard
+
+[Add soft beats as you outline. Typically 50–200 soft beats across a multi-book project.]

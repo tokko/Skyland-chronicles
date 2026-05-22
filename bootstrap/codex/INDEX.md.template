@@ -1,0 +1,66 @@
+# Codex Index
+
+The live catalogue of every entity tracked by the codex. Read this file every turn — it tells the orchestrator and subagents what exists, what state it is in, and where to look up details.
+
+This file is updated at the same time as any scene commit that adds or alters an entity.
+
+## How to read
+
+Each entry: `[type] slug — short tag — status — file path`.
+
+- **type**: character | location | faction | magic | event | artifact
+- **slug**: lowercase-hyphenated identifier used in cross-references
+- **short tag**: one-line description so the orchestrator can decide whether the entity is relevant without opening the file
+- **status**: alive/dead, intact/destroyed, active/dormant, known/hidden, etc.
+- **file path**: where the full entry lives
+
+## Last updated
+
+- Last scene committed: _(none yet — no scenes drafted)_
+- Last codex sweep: _(YYYY-MM-DD — description)_
+
+---
+
+## Characters
+
+[Add character entries as they are codified.]
+
+[character] example-slug — short tag — status — codex/characters/example-slug/identity.md
+
+## Locations
+
+[Add location entries as they are codified.]
+
+## Factions
+
+[Add faction entries as they are codified.]
+
+## Magic system
+
+[Add magic-system entries as they are codified.]
+
+## Major events
+
+[Add event entries as they are codified, in narrative-chronological order.]
+
+## Artifacts and motifs
+
+[Add artifact entries as they are codified.]
+
+---
+
+## Books and chapters (kanban summary)
+
+The target series is **[N] books** in **[M] arcs**. [Describe the arc structure — e.g. "Arc I covers source-book-1, Arc II covers source-book-2", etc.]
+
+| Book | Arc | Working title | Source chapters | Scenes pending | Scenes in-progress | Scenes done |
+| ---- | --- | ------------- | --------------- | -------------- | ------------------ | ----------- |
+| 1 | | _(tbd)_ | | 0 | 0 | 0 |
+| 2 | | _(tbd)_ | | 0 | 0 | 0 |
+| [...] | | | | | | |
+
+## Open continuity questions
+
+[Track unresolved continuity issues from the source here. Examples: "Character X's fate post-chapter-N is unclear in the source; the rewrite must decide." or "The source contradicts itself about which character holds artifact Y by chapter Z; flag for resolution."]
+
+[As you discover these during codex-build, add them here so the orchestrator can resolve them before they hit a scene draft.]

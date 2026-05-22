@@ -1,0 +1,93 @@
+# Voice Profile
+
+Extracted from the source manuscript(s) listed in `CLAUDE.md`. The narrative voice the rewrite preserves while suppressing the bad habits catalogued in `polish-targets.md`.
+
+If the source uses multiple POV narrators, each gets its own section below. Habits that travel across all narrators are author-level voice — the rewrite keeps them across the board. Habits unique to one narrator are character-level voice and must be held distinct.
+
+Reviewers cite this file by section, e.g. `voice §<narrator>.<aspect>`.
+
+---
+
+## [NARRATOR_1]
+
+### Arc-level register
+
+[How the narrator's voice changes across the arc. Are there registers — e.g. brutal-and-jaded early, softening through relationship, transformed by trauma, mature/distant late? List the registers and what triggers each shift. Reviewers must hold the right register for the right chapter range.]
+
+### Narrative distance
+
+[First/third? Past/present? Retrospective or in-the-moment? Close camera or middle distance? How much editorial does the narrator deliver per page? Where does the narrator notice — what kinds of things does the camera land on?]
+
+Representative passage:
+
+> [Paste a 2–4 sentence passage from the source that exemplifies the narrative distance for this narrator.]
+
+Why it works as distance: [explain the load-bearing features of the passage.]
+
+### Sentence rhythm
+
+[Default sentence length. Common openings (SVO, participial, fragment). Where fragments earn their place. Where long sentences live. Where short sentences live. Comma-splice habits. Em-dash habits. Semicolon habits.]
+
+### Cadence
+
+[How paragraphs build. Where the narrator brakes for emphasis. Where the rhythm carries. The narrator's signature pacing-brake (a fragment? a single image? a one-line quote of dialogue?).]
+
+### Lexicon
+
+[Vocabulary domains the narrator uses precisely: trade vocabulary, magic-system register, military / merc / academic / regional jargon. Personal idioms. Profanity register and frequency. Pet names. Self-deprecation patterns. Loan words from other cultures. Forbidden words (registers the narrator never reaches for).]
+
+### Punctuation habits
+
+[Em-dash frequency. Comma-splice frequency. Semicolon frequency. Italics usage. Ellipsis usage. Exclamation point frequency in narration vs dialogue.]
+
+### Recurring imagery
+
+[Three to seven recurring motifs the narrator returns to. Each should be specific and load-bearing (not generic-fantasy default). For each motif, explain what it does in the prose and where it appears in the source.]
+
+### Voice anchors
+
+Strong passages from the source that exemplify the voice at its best. The rewrite leans on these.
+
+**[NARRATOR_1] anchor 1 — [Source location, brief description].**
+
+> [2–6 sentence passage from the source.]
+
+What works: [load-bearing features of the passage.]
+
+[Add more anchors as needed — typically 5–8 per narrator.]
+
+### Voice anti-anchors
+
+Weak passages from the source that exemplify the voice at its worst. The rewrite trims, restructures, or replaces these.
+
+**[NARRATOR_1] anti-anchor 1 — [Source location, brief description].**
+
+[Description of what's wrong with the passage. Often: over-explanation, info-dump, lecture format, generic-fantasy reach, register drift, repetition.]
+
+[Add more anti-anchors as needed — typically 2–5 per narrator.]
+
+---
+
+## [NARRATOR_2]
+
+[Repeat the structure above for each additional narrator.]
+
+---
+
+## Cross-narrator notes
+
+Things that hold across all narrators (author-level voice, keep):
+
+- [Comma-splice as default sentence-joiner.]
+- [Engineering precision in description of magic / machinery.]
+- [Casual profanity (with character-varied frequency).]
+- [Whatever the source author always does.]
+
+Things that change between narrators (character-voice, hold separate):
+
+- [Fragment frequency: narrator A high, narrator B low.]
+- [Self-deprecation patterns.]
+- [Editorialising distance.]
+- [Magic-system register: user vs designer vs learner.]
+
+If any rewrite scene has more than one POV in play (only specific chapters alternate), the writer's brief must specify which voice is on the page and the reviewer must enforce. Cross-POV bleed is the single most common reviewer-flag risk for any multi-narrator novel.

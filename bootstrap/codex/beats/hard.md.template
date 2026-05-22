@@ -1,0 +1,47 @@
+# Hard Beats
+
+The spine. Every beat listed here **must** be reached, on-page, in logical and naturally-motivated fashion. Hard beats may arrive earlier or later than originally outlined. They may not be skipped, off-screened, summarized, or downgraded.
+
+This file is auto-included in every turn so the orchestrator always knows what's still owed to the story.
+
+Beats are listed in narrative-chronological order. IDs use the form `H-<short-slug>`. Source references point to chapters in the source manuscript(s) under `source/`.
+
+## Format
+
+Each beat:
+
+```
+### <BEAT-ID> — <Short title>
+- **Source**: source-book-N / ch.MM
+- **Target arc / book**: arc-N / book-M
+- **Why hard**: the structural reason it cannot be cut
+- **Description**: what occurs, including the felt shift in the POV character
+- **Status**: pending | landed (scene: <book-N/ch-MM/scene-PP>)
+```
+
+## Beats
+
+---
+
+### H-EXAMPLE — [Short title]
+- **Source**: source-book-1 / ch.1
+- **Target arc / book**: arc-I / book-1
+- **Why hard**: [Why this beat cannot be cut or off-screened.]
+- **Description**: [What occurs on-page. The action, the relational shift, the moment the POV character changes register.]
+- **Status**: pending
+
+[Add hard beats in narrative order. Aim for the spine of the entire series — typically 30–80 hard beats across a multi-book project, depending on length.]
+
+---
+
+[For multi-book projects, group hard beats by arc:]
+
+## Arc I — [Arc title]
+
+[Hard beats for arc I.]
+
+## Arc II — [Arc title]
+
+[Hard beats for arc II.]
+
+[etc.]
