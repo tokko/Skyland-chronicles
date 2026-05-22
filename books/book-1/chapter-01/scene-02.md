@@ -114,7 +114,7 @@ The Guard-plate man was still moving. I crossed to him and put the shorter blade
 
 The mage was still alive on the floor, breathing through the open side of her chest. Her hand was working without her arm, the muscle memory of a final cast, the fingers shaping a glyph that would not finish. I crossed to her, drew the shorter blade for the second time, and put it through her throat.
 
-I dismissed the shield. The gorget Powerstone read at a fifth charge. The shield-sustain plus two mage-deflects plus two soulfire casts had cost me real.
+I dismissed the shield. The Powerstone at my throat read at a fifth charge. The shield-sustain plus two mage-deflects plus two soulfire casts had cost me real.
 
 The curing room held what it held. Four dead curers across the floor. Five dead cartel men among them. The dispenser on the east wall was still throwing its field. The illegal tap behind it was still drinking off the public ley line. The product on the shelves was still glowing faintly in the ambient. The central table was charred where the fire-sheet had passed and the burned trays were spitting tiny white sparks of mana bleed where the product had gone to slag.
 
