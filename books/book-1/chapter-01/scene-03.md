@@ -20,7 +20,7 @@ The remaining three musketeers were working a pair of Ford's other hires into th
 
 Anton came through the corridor door behind me.
 
-I felt the graft-heat before I saw him. The air-temperature shift you get from a body running its mana too hard, the steam coming off the skin. He went past me on the left, the crowbar already swinging, and took the nearest musketeer across the side of the head before the man had registered that there was a problem on his flank. Then the next. Then the next. He was not aiming so much as letting the rage compress the loop between seeing and swinging; at close range no aim was needed. The three musketeers working the mercs into the corner were not braced for what came out of nowhere from their left.
+I felt the graft-heat before I saw him. The air-temperature shift you get from a body running its mana too hard, the steam coming off the skin. My own breath was loud through the visor slit by then and the inside of the helmet was a long ridge of sweat from the brow to the crown. He went past me on the left, the crowbar already swinging, and took the nearest musketeer across the side of the head before the man had registered that there was a problem on his flank. Then the next. Then the next. He was not aiming so much as letting the rage compress the loop between seeing and swinging; at close range no aim was needed. The three musketeers working the mercs into the corner were not braced for what came out of nowhere from their left.
 
 The pair of mercs in the corner saw what was happening and got out of the way. Anton stood at the corner with the crowbar dripping and the next-moving thing in his field of view was Vass at the stair-throat.
 

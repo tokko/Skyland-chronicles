@@ -2,7 +2,7 @@ Two fingers in the dark. Anton on the far wall, his back to the indigo and his c
 
 He was twice as wide as I was and I am not a narrow woman.
 
-I had been crouched in this passage for forty seconds while Anton waited and the cooking-fume residue found the back of my throat. The breach was a simple spell. Four strokes of glyph traced into the lock-plate with my forefinger, the kind every Skylander merc carried in her hands. I drew it now, then held up two fingers, my count-gesture for Anton, and started bringing them down.
+I had been crouched in this passage for forty seconds while Anton waited and the cooking-fume residue found the back of my throat. Sweat was already running into the inside of the helmet at the temples. The breach was a simple spell. Four strokes of glyph traced into the lock-plate with my forefinger, the kind every Skylander merc carried in her hands. I drew it now, then held up two fingers, my count-gesture for Anton, and started bringing them down.
 
 Ford had told me Anton was reliable. Ford was three levels up in a courtyard, where assurances about other people cost nothing.
 
@@ -64,6 +64,6 @@ I checked the Powerstone reading on my gorget. The breach-spell had taken real c
 
 Anton was deep in graft-craze and would be until the rage burned off. Ford had hired him for what he did when the rage was up. I had work in the next room. Babysitting a man in graft-craze was not in the contract, and neither was talking him down.
 
-I walked toward the arched passage at the north end of the room, the shield-breaker in my hand, thumb finding the projector-warded seal by memory.
+I walked toward the arched passage at the north end of the room, the shield-breaker in my hand, thumb finding the projector-warded seal by memory. My breath was whistling through the visor slit by now and the inside of the corset was wet against my ribs.
 
 The screaming continued. Behind me and to my left, through the glow-globe light, I caught Anton in motion. Wet to the elbows, the crowbar slick the full length of it, blood across his chest in long arterial sprays, more across his jaw and his ear where someone had opened at close range. The graft-heat ran under all of it, steam coming off the skin in the cooler air of the cooking floor, the dead-meat strips at his collarbones twitching where the borrowed blood ran wrong with the rage. He was not going to look down at his own arms. Graft-craze does not leave a man room for that. I did not look back either. The hum of the shielded inner-room seal found its frequency in my bones, low and exact. I stepped under the arch.

@@ -36,7 +36,7 @@ The lead pair opened fire at the door.
 
 I went right and hit the floor behind the first rig-bench, the rounds cracking into the door frame behind me and throwing crystal chips across the hall. The bench had about four feet of solid crystal framing under the tabletop. Cover enough for the moment, nothing more. One round came under the table and hit the floor two inches from my right knee and went wide. Another went high and caught the woman at the second rig in the throat, and she went down off the bench like dropped weight. The four others kept their hands on the work surfaces. I put a round through the chest of the man trying to angle his muzzle-loader around the bench-leg. When he dropped I put the next through the second man's collarbone as he advanced on me. Down.
 
-I came up over the bench and cut the nearest sword-man across the face before his blade found me. Not a kill, but enough that he staggered back. I drove into the gap it opened and got the longer sword into his chest between two ribs. He went down pulling the sword with him, the blade jammed between the ribs the way a blade does when you put it in honestly. I would come back for it.
+I came up over the bench and cut the nearest sword-man across the face before his blade found me. My own breath was loud in my ears, whistling through the visor slit. Not a kill, but enough that he staggered back. I drove into the gap it opened and got the longer sword into his chest between two ribs. He went down pulling the sword with him, the blade jammed between the ribs the way a blade does when you put it in honestly. I would come back for it.
 
 The next pair came at me together. I was in the space between two rigs by then, too narrow for the wide guard-stance they were used to working with. I had the shorter blade in close and the revolver point-blank on the right man before he had worked out how to bring the sword through the gap. The round went through the side of his neck. The other man came in and I got the shorter blade up into his midsection, and when he folded I used the revolver frame across the back of his skull to finish it.
 
@@ -114,7 +114,7 @@ The Guard-plate man was still moving. I crossed to him and put the shorter blade
 
 The mage was still alive on the floor, breathing through the open side of her chest. Her hand was working without her arm, the muscle memory of a final cast, the fingers shaping a glyph that would not finish. I crossed to her, drew the shorter blade for the second time, and put it through her throat.
 
-I dismissed the shield. The Powerstone at my throat read at a fifth charge. The shield-sustain plus two mage-deflects plus two soulfire casts had cost me real.
+I dismissed the shield. The Powerstone at my throat read at a fifth charge. The shield-sustain plus two mage-deflects plus two soulfire casts had cost me real. The inside of the helmet was wet against my forehead and the sweat had begun to sting at the corner of one eye.
 
 The curing room held what it held. Four dead curers across the floor. Five dead cartel men among them. The dispenser on the east wall was still throwing its field. The illegal tap behind it was still drinking off the public ley line. The product on the shelves was still glowing faintly in the ambient. The central table was charred where the fire-sheet had passed and the burned trays were spitting tiny white sparks of mana bleed where the product had gone to slag.
 

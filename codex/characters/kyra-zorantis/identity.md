@@ -38,13 +38,11 @@ Petite woman, short for a Skylander. Curly purple hair (dyed-in-her-twenties; ne
 
 - **Choker**: thin band of materialised-magic crystal worn at the throat. **The Powerstone is seated in the choker.** This is the permanent seat of her magical resources. Everything else materialised flows in and out of this single stone.
 - **Gauntlet**: Kendall-built device on the left wrist. Carries the interface gem she uses to select armour / outfit presets, and the shield projector. Draws mana from the choker's Powerstone via magitech link.
-- **Coat**: physical garment, fungal-fibre weave, long enough to cover mid-thigh.
 - **Gunbelt** at the hips, carrying:
   - **Primary repeating revolver**: 5-chamber, heavy frame, Kendall-built, grip fitted to her hand. Right-hip holster.
   - **Backup repeating revolver**: 6-chamber, lighter frame. Cross-draw on the left hip.
   - **One speed loader per revolver** (5-shot for the primary, 6-shot for the backup).
   - **Belt-pouch of loose casings** for manual reload after speed loaders are empty.
-  - **Hip-pouch / coat pocket for spent casings** (taken home and recharged at the household dispenser).
 - **Longer sword (enchanted)**: sheathed at the **right hip** alongside the primary holster. Kendall-enchanted; the only blade in her kit with a working spell on it.
 - **Shorter blade**: sheathed across the **small of her back**, drawn with the left hand. Plain crystal, not enchanted.
 
@@ -52,20 +50,24 @@ The longer sword is NOT carried over the shoulder. (Prior draft error.)
 
 **Materialised-from-the-Powerstone** (presets stored in the choker's enchantment; she switches between them via the gauntlet gem):
 
-The choker's enchantment carries a small library of outfit-and-armour presets that materialise on demand. Each preset costs mana to maintain (a small steady drain on the Powerstone) and reclaims mana when dissolved. She can switch between presets in seconds, and she can dissolve any preset to nothing — leaving just the choker physical at her throat — to reclaim its mana for casting in extremis.
+The choker's enchantment carries a small library of outfit-and-armour presets that materialise on demand. Each preset costs mana to maintain (a small steady drain on the Powerstone) and reclaims mana when dissolved. She can switch between presets in seconds, and she can dissolve any preset to nothing — leaving just the choker at her throat — to reclaim its mana for casting in extremis.
 
 Standard presets in her enchantment:
 
 - **Combat preset**: helmet, gorget (over the choker), corset (chest armour), bracers, leggings. Heavy mana drain to maintain; high protection. The kit she wears into a contract.
-- **Casual preset**: bra and thong. Minimal mana cost; covers what needs covering. The kit she keeps on at home and on the Skyway.
+- **Casual preset**: bra and thong. Minimal mana cost; covers what needs covering. Underlayer for going out in public looking civilian.
 - **Civilian preset**: a longer dress / civilian outfit for occasions when she does not want to read as a merc. (Used rarely; mostly when meeting Kendall's family.)
+- **Coat preset**: the long fungal-fibre-weave coat she wears over whatever else she has materialised. Functional pockets hold her loose casings, spent casings, bills, and whatever else she carries off-belt. Kept materialised through every contract; dissolved only at home in the tub or when she needs every drop of mana the choker can give her.
+- **Rag preset**: a small square of fabric she can materialise into her hand for quick cleanup. Cheap to maintain. Dissolves when she lets it fall.
 - **Bare** (no preset): only the always-physical items. Used in the tub at home or in extremis when she wants every drop of mana for a spell.
 
-**Cost mechanic**: dissolving the combat preset and materialising the casual preset is net-positive on the Powerstone (combat costs more than casual reclaims). Dissolving to bare is net-most-positive (reclaims everything). Materialising the combat preset from bare is the most expensive single transition. She does not transition mid-fight unless she has to.
+**Cost mechanic**: dissolving the combat preset and materialising the casual preset is net-positive on the Powerstone (combat costs more than casual reclaims). Dissolving the coat alongside is net-most-positive (reclaims everything). Materialising the combat preset from bare is the most expensive single transition. She does not transition mid-fight unless she has to.
 
 **Wreckage**: a materialised preset that takes damage in combat or otherwise has its shape disrupted is not permanently broken — the mana under the shape is intact and the configuration will re-form on command. She can dissolve a disrupted preset and re-materialise it cleanly. This is a deliberate design choice: physical clothes get wrecked, materialised configurations do not.
 
-**Sacrificial casting**: if Kyra needs more mana than the Powerstone currently holds, she can voluntarily dissolve materialised pieces — the gorget, the corset, even the casual bra-and-thong — to recover their mana for the cast. The choker itself is the permanent seat of the Powerstone and cannot be dissolved. She is leaving armour or clothing only in extremis; the merc-economy default is to keep what is covering you covering you.
+**Pocket inventory**: the coat preset's pockets hold real physical items (casings, bills, etc.). When she dissolves the coat, the choker's enchantment carries the contents in suspension and re-materialises them with the coat next time. The bookkeeping is invisible to her; the items are where they were when she selects the coat preset again.
+
+**Sacrificial casting**: if Kyra needs more mana than the Powerstone currently holds, she can voluntarily dissolve materialised pieces — the gorget, the corset, the coat, even the casual bra-and-thong — to recover their mana for the cast. The choker itself is the permanent seat of the Powerstone and cannot be dissolved. She is leaving cover only in extremis; the merc-economy default is to keep what is covering you covering you.
 
 After book-1 ch.34 onward (the assault on Grasax's barrier and her duel with him): loses her right arm below the elbow, replaced with a materialised-magic crystal prosthetic. Glowing violet eyes after her liche transition (book-1 ch.50-51). Veins glow when she draws power. Burn scars across the left side of her face and neck from the wound that nearly killed her in the Grasax fight. After Archoning at the Geyser her body is gone entirely — she manifests only as a spectral image in dense magic fields, drawn from the memory of her last living form.
 
