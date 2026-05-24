@@ -12,15 +12,13 @@ The courtyard executions were on the fourth shot by then. Ford was still at the 
 
 I touched the gem on my left gauntlet.
 
-The combat preset began to sublimate. The helmet went first because there was less of it. The visor's outer rim thinned to indigo vapour and the vapour pulled inward toward the choker the way smoke goes the wrong direction toward a closing draw. The brow-piece followed, dissolving from the edge inward, the indigo haze drawing down across the cheek-plates and into the gorget's collar. The gorget went next: the outer rim of the materialised collar first, then the body of it, the mana running back into the choker in long inward strokes. The corset's plates softened from the seams in. By the time the chest-piece had bled the last of its mana inward I was standing in the open window in nothing but the coat over the choker, and the choker over my bare wet collarbone.
+The combat preset began to sublimate into the casual. The helmet went first because there was less of it. The visor's outer rim thinned to indigo vapour and drew inward. The brow-piece followed, dissolving from the edge in, the haze drawing down across the cheek-plates and into the gorget's collar. The air hit my wet forehead and my temples and the sweat-soaked roots of my hair in the same instant the helmet stopped being there. The gorget went next, the outer rim of the materialised collar first, then the body of it, the mana running back into the choker in long inward strokes. The corset's plates softened from the seams in, and as the chest-piece thinned to nothing the casual preset was already coming up underneath it: a bra materialising across my breasts and a thong settling at my hips, the transition seamless, one configuration bleeding into the next without a beat of bare skin between them.
 
-The cool air came through the cut in the crystal wall and across the soaked skin under the coat at the throat and the chest and the small of the back where the armour had held the heat in for the last hour. I drew a breath that did not whistle through anything and held it. The relief was almost embarrassing.
+I stood at the window in the coat over the casual, the choker tight and comfortable around my throat, and the cool air found me through every seam. Through the collar. Through the gap where the coat's buttons started. Through the coat's hem at my thighs. The sweat at the back of my neck went cold in one long line down my spine. The inside of my elbows. The undersides of my breasts where the corset had held the heat against me for an hour. I drew a breath that did not whistle through anything and held it. The relief was close to obscene.
 
-I touched the gem again and selected the casual.
+The choker's draw steadied. I had more charge in the Powerstone than I had had before the dissolution; the combat preset cost more mana to maintain than the casual would reclaim, but most of what I had spent in the manufactory had come back to me.
 
-A bra and a thong materialised back under the coat. Black, simple, snug. The preset I had set into the enchantment years ago and kept because it covered what needed covering and cost the least mana to maintain. The choker's draw steadied. I had more charge in the Powerstone than I had had before the dissolution; the combat preset had used more than the casual would reclaim, but most of what I had spent in the manufactory had come back to me.
-
-I stood in the open window with the cool Bowels-air on me. The sweat at the back of my neck found the air first and the chill ran down to the small of my back in a slow line. The ribs were sore where I had hit the floor in the cooking-rig hall earlier. The cheek and eye still burned from the indigo dust off the gorget deflection in the antechamber. The gauntlet shield had cost me real, but the gauntlet itself was crystal and it had not cost me anything beyond the charge. My back ached the way it always ached after a long contract, in the small of it, where the shorter blade rode. I rolled the shoulder. The blade-sheath shifted against the muscle and settled.
+The ribs were sore where I had hit the floor in the cooking-rig hall earlier. The cheek and eye still burned from the indigo dust off the gorget deflection in the antechamber. The gauntlet shield had cost me real, but the gauntlet itself was crystal and it had not cost me anything beyond the charge. My back ached the way it always ached after a long contract, in the small of it, where the shorter blade rode. I rolled the shoulder. The blade-sheath shifted against the muscle and settled.
 
 The fifth shot rang up from the courtyard. Then the sixth.
 
@@ -34,9 +32,11 @@ I did not turn around.
 
 He was in the doorway. I did not need to see him to know how he was standing. One shoulder against the frame, hand on the back of his shaved scalp, looking at me with the smile that had cost me more than I had ever counted up. The voice did the rest.
 
-"You spent your whole fee on the shield-breaker, Kyra," he said. "I watched you blow it at the arch. Kendall's one-use grip, those don't come cheap. The Detective doesn't add bonuses. You'll walk out of here with the choker at your neck and not much else."
+"You spent your whole fee on the shield-breaker, Kyra," he said. "I saw the grip on the floor at the arch. Kendall's one-use work, those don't come cheap. The Detective doesn't add bonuses. You'll walk out of here with the choker at your neck and not much else."
 
 "I knew the price going in." My voice came out lower than I had meant it to. The thong was already not quite enough for what was happening underneath it.
+
+Raynard did not know that Kendall had given me the shield-breaker for nothing. He did not know that Kendall had been giving me things for nothing since my twenty-fifth birthday. He did not need to know. Let him think I was broke.
 
 He laughed. It was the laugh that had always done the worst of it.
 
@@ -70,7 +70,7 @@ He caught my wrist before I had got two inches and pulled it back behind me and 
 
 I tried to twist my left hand free of the sill and he saw it coming and put his weight on me and pinned that one too. I had no hand left.
 
-He finished on the small of my back with both my hands held and the orgasm I had been about to have still gathered under my skin with nowhere to go. The warmth of him ran down toward the band of my thong and I closed my eyes against three things at once. The lost climax. The body that had wanted him in the first place and would want him again. The man who had known exactly how to do this to me, the way he had always known.
+He slid himself between my cheeks with both my hands held behind me and ground against me once, slowly, and then again, and the wet heat of the first splash hit the small of my back. The second landed lower, across the top of my ass, and I felt it run. He kept grinding as he finished and the slick heat of it spread across both cheeks and down into the crease and the sound he made against the back of my neck was the satisfied sound of a man who had got exactly what he had set out to get. The orgasm I had been about to have was still gathered under my skin with nowhere to go. I closed my eyes against three things at once. The lost climax. The body that had wanted him in the first place and would want him again. The man who had known exactly how to do this to me, the way he had always known.
 
 His weight came off me. He stepped back. My hands came free, but the moment was past — I was nowhere near the edge any more — and going for it now in front of him would have been the second humiliation on top of the first. I left my hands on the sill.
 
@@ -86,21 +86,21 @@ I heard the rasp of his belt buckle. I heard him drop something on the floor.
 
 The latch went. The door closed.
 
-I stood there for a moment, looking out at the courtyard, with him still running down the back of my thigh.
+I stood there for a moment, looking out at the courtyard, with him still running down the back of my thigh and the inside of both cheeks.
 
 Then I straightened up off the sill, rolled my shoulders, and turned to look at what he had left on the floor.
 
 Three high-denomination bills. He had thrown them on top of one of the dead musketeers from the brawl. The man's hand was open and one of the bills had landed in his palm. The bill said the same thing across its face that every Skylander bill said: Issued by the Authority of the Sky-Council. The same face that had been on every bill I had ever held. I had been paid in worse.
 
-I crouched and picked them up one at a time and folded them into the inside pocket of my coat. I did not look at the dead man. I had killed two musketeers in this room half an hour ago and one of them was him.
+I crouched and picked them up one at a time and folded them into the inside pocket of my coat.
 
-I materialised a rag from the choker into my left hand. A small square of fabric, the cheapest preset in the enchantment, the one every merc kept in the library for exactly this. I wiped the worst of him from me with it and let it fall on top of the dead man where the bills had been. The cloth sublimated as it dropped, the indigo vapour pulling back inward toward the choker. What had been on the cloth could not go that direction; it splatted down onto the dead man's chest as the mana left it. The vapour went one way, the soiling went the other.
+The room around me was what it was. One of the musketeers was folded against the canisters with his head at the wrong angle and a long dark smear down the crystal behind him where he had slid. Another was on his back near the stair-throat with his mouth open and the crowbar-damage still visible across the top of his skull, the bone caved in along a line and the inside of it showing. The woman who had run through the middle of the brawl was between two canisters where the chopping sword had caught her in the side; she had bled out face-down and the blood had spread in a wide pool that had reached the base of the canister stack and started to thicken there. The smell of it was the smell of every room I had been in tonight: the wet-crystal tang of recent death, the granule-fume from the discharged smoothbores, the fainter sweetness of the Stardust residue that came up through the floor from the cooking-rig hall below. Anton was at the top of the back stair where he had fallen, his crowbar beside him, the dead-meat strips at his collarbones still and dark. The Powerstone had finished its last cycle while Raynard had been finishing his.
 
-The bra's shape was disrupted where his elbow had landed and the thong's preset had flickered when he had pulled it aside without bothering with the waistband. The mana under both was unharmed; the configurations would re-form on command. I touched the gem on the gauntlet and let them dissolve back into the choker. The Powerstone took the draw. The casual preset went dark. I would walk to Ford's payment with the choker at my throat and nothing else materialised on me.
+I materialised a rag from the choker into my left hand. I wiped the worst of him from me with it and let it fall on top of the dead musketeer where the bills had been. The cloth sublimated as it dropped, the indigo vapour pulling back inward toward the choker. What had been on the cloth could not go that direction; it splatted down onto the dead man's chest as the mana left it. The vapour went one way, the soiling went the other.
+
+The bra's shape was disrupted where his clawing fingers had torn the fabric aside to get at my breasts. He had found the nipple he was looking for and twisted it hard enough to leave a mark I would carry for a week. The thong's preset had flickered when he had pulled it aside without bothering with the waistband. The mana under both was unharmed; the configurations would re-form on command. I touched the gem on the gauntlet and let them dissolve back into the choker. The Powerstone took the draw. The casual preset went dark. I would walk to Ford's payment with the choker at my throat and nothing else materialised on me.
 
 I buttoned the coat over the bare skin. It covered me from the throat to mid-thigh as long as I did not walk with too long a stride. Some of my cleavage was inside the coat. Some was not. I would flash thigh at every other step. Half the men in the courtyard would look. Half of them would not. I knew which half was which.
-
-The room behind me held three dead from the brawl and Anton at the top of the back stair, his crowbar still where it had fallen. The dead-meat strips at his collarbones had stopped twitching by now. The Powerstone had finished its last cycle while Raynard had been finishing his.
 
 I went out into the corridor and down the back stair past the bodies on the steps. I did not slow at Anton. I did not look back at the window.
 
@@ -128,7 +128,13 @@ Ford's eyes did dip then, briefly, to the line of my chest and back to my eyes, 
 
 I started to walk away.
 
-Behind me Ford gave the order. The mercs at the wall lined up behind the last two captives. One of them was a young woman in cleaner clothes than the cookers. The bookkeeper, maybe, or one of the cartel middle layer's daughters set up with a clerical position to keep her off the streets. She went to her knees and started begging. I heard her before I had reached the courtyard gate. *Please. Please, I am twenty-one. I have a daughter at home. My mother needs me. Please.* The grey-coats did not respond. They did not respond because they had been given the order and because Ford could not let her go. The raid was unsanctioned. Anyone left breathing here would sell Ford to his superiors by the end of the week. The plausible-deniability column closed with everyone in it dead and that included the bookkeeper. She was a criminal in the same column as the cookers and the musketeers and the Guard-plate. The Sky-Council recognised no degrees.
+Behind me Ford gave the order. The mercs at the wall lined up behind the last two captives. One of them was a young woman in cleaner clothes than the cookers. The bookkeeper, maybe, or one of the cartel middle layer's daughters set up with a clerical position to keep her off the streets. She went to her knees and started begging. I heard her before I had reached the courtyard gate. *Please. Please, I am twenty-one. I have a daughter at home. My mother needs me. Please.*
+
+The grey-coats did not respond.
+
+The raid was unsanctioned. Ford could not run this through the official channels even if he had wanted to, because the official channels were as rotten as the cartels they were supposed to police. The Guard took cartel money. The Detective Corps took cartel money. The Sky-Council took cartel money, or turned its face the other way, which amounted to the same thing. Ford had watched the Stardust epidemic eat through the lower districts for years while the system that was supposed to stop it grew fat on the proceeds. He had decided, at some point I had never asked him about, that the greater good was worth the law he was breaking to get there. He embezzled the money to pay us. He hired mercs because the Guard could not be trusted. He ordered the captives killed because anyone left alive here would sell him out within the week, and if the wrong people in the Guard or the Detective Corps learned what Ford had done, Ford would be the one at the wall.
+
+The bookkeeper was a criminal in the same column as the cookers and the musketeers and the Guard-plate. The column closed with everyone in it dead. The Sky-Council recognised no degrees. Ford recognised no degrees either, because he could not afford to.
 
 The shot came. The begging stopped mid-word.
 
