@@ -1,47 +1,35 @@
 # Status
 
-**Branch**: main
-**Generated**: 2026-05-20 (canary revision pass committed)
+**Branch**: rewrite/book-1-ch-01
+**Generated**: 2026-06-15 (codex reconciliation after ch.1 rewrite)
 
 ## Current state
 
-- **Stage**: **DRAINING — scene-02 split into two scenes; both promoted.** User canary feedback after the draft-3 promotion identified that scene-02 had grown to 3,658 words (over the hard-beat ceiling), the writer had introduced a "synth-metal" material that doesn't exist, the dispenser-room reload logic was broken (mid-combat manual reloads instead of using backup/magic/sword), the surrendered upper-watch guard was wasted on bullets, Anton's death geometry was muddled, and a list of line-level issues (Micah-free, kneecap-free, etc) carried forward. Per user direction, **scene-02 was split** into two scenes: scene-02 (arch → antechamber → cooking-rig hall → curing room) and scene-03 (stairs → upper-corridor brawl → window). Both written via orchestrator-level edits on top of the existing prose (no new Sonnet pass needed); all flagged issues addressed. Chapter outline updated 4 → 5 scenes. Existing scene-03 (Raynard) and scene-04 (Ride home) cards renumbered up.
+Book-1 chapter-01 has been fully rewritten to a **5-scene structure** that tracks the source manuscript more closely than the prior pipeline version. The chapter is complete and pending human review.
 
-**Curing-room canon expansion (this turn)**: per user direction, Stardust manufacture is canonically a two-stage process — cooking (chemistry, no mana, no dispenser) and curing (cooked precursor bathed in a thick ambient mana field for hours, which gives the drug its potency). The cartel's senior room IS the curing room: dispenser + illegal ley-line tap + product + baked workers (chronic-mana-exposed; faint violet capillary tinge under the eyes, hazed iris, flat affect) + bayonet team + cartel mage. This is a deliberate expansion beyond the source (the source's single Stardust scene has chemistry-only cooks, no curing step, no mana-affected workers) but is consistent with the source's Robin-Hoods-mana-trafficking subplot. Flagged in `stardust-cartels.md`.
+**5-scene structure (new truth):**
+- scene-01: Alley breach — Kyra + Anton enter; first room cleared; breach-glyph + gem-trigger flashbang; 1 primary round + 2 backup rounds; gauntlet deflect on 5th gunman; Anton in graft-flood, charges ahead
+- scene-02: Cooking floor — near-naked women at benches; door-bolt cast; sword duel (no revolver); Anton headshot mid-raid by three corridor muzzle-men; stair-and-gantry hall revealed; Kyra alone from this point
+- scene-03: Gantry and target room — standoff; second breach party (one-scene strangers: blond merc, braided-redhead spearwoman, two-pistol companion); boss's office; cartel men use women as shields; slaughter; blond merc headshot dead after bayoneting a man over Kyra; Kyra burns a face via gauntlet; redhead executes surrendering man; boss not found; Kyra at window, dissolves armour, watches mercs begin raping captives in courtyard
+- scene-04: Raynard — abusive window encounter (psychological/charismatic hold, not magic); Ford payment; Ford executes captives as policy; cannibal-economy reflection (father butchered, mother aged)
+- scene-05: Ride home — Skyway vista (Barrier/Geyser/satellite); home; bath; Soul-Bound Powerstone (Kendall's gift, reference only); bed
 
-**Magesense + personal shield canon (this turn)**: Kyra's pre-Grasax magesense is active, deliberate, line-of-sight, magic-only, qualitative — she has to reach for it; she can sense Powerstones, shields, active spells, and the structure of a lock-enchantment, but not bodies or heartbeats. Both mechanics now in `magic/system.md`; both used on-page in scene-02 (curing-room mage exchange) and scene-01 (cooking-floor pillar guard's smoothbore deflect + magesense ping before the cooking-floor door).
+**Codex reconciled this session** (2026-06-15):
+- `codex/characters/anton/history.md` — scene-01/02/chapter-end rows updated to new truth (death at corridor mouth before gantry hall, not back-stairs upper corridor; kneecapped guards and back-stairs flanker removed)
+- `codex/characters/kyra-zorantis/history.md` — all ch.1 rows replaced (5-scene structure; shield-breaker, curing room, four Ford teams, antechamber, Vass, cartel mage, upper-corridor brawl all removed; correct Powerstone state LOW, correct revolver counts, correct injuries)
+- `codex/factions/stardust-cartels.md` — scene-01 and scene-02 state history rows updated; manufacture worldbuilding (two-stage cooking+curing) preserved; no curing room on-page in ch.1
+- `codex/magic/materialised-magic.md` — in-text references rows for scene-01 and scene-02 corrected (breach-glyph + gem-trigger + gauntlet deflect; door-bolt cast; no shield-breaker anywhere)
+- `codex/INDEX.md` — Last updated line refreshed; Ford added to Characters
+- `codex/characters/ford/identity.md` — new minimal stub created
+- `STATUS.md` — this file (full refresh)
 
-**Full chapter-01 pass for all canon changes (this turn)**: scene-03 reworked for the Anton-as-actor rule (every "the graft tracked / the graft did not give up its tracking / Anton's head turned, the graft tracked" reframed with Anton as the subject), inventory continuity (backup revolver now starts at 6/6 entering scene-03 per scene-02's reload, ends at 3/6 after three shots — was 4/6 → 1/6 in the stale state), and H-the-magic-shortages seeded explicitly at the window with the "city's mana ledger had grown short enough that a heavy contract paid twice" beat. Em-dashes held at 2 per scene. Word counts: scene-01 at 2,110, scene-02 at 2,882, scene-03 at 1,880; chapter total 6,872 (within the 7-9k target).
+## Canary
 
-**Anton's graft reframed as berserker enhancement, not possessing spirit (prior turn, applied across all three scenes this turn)**: per user direction, Anton remains the actor at all times. The graft chemically loads him with aggression and bloodlust and suppresses higher-order judgement, but the swing of the crowbar, the choice of target, and the cruelty are all Anton's. Scenes 01 and 03 rewritten throughout (scene-02 has no Anton); every "the graft turned him" / "the graft was on her" / "the graft does not look down at its own arms" / "the graft tracked" replaced with Anton as the grammatical subject and the graft as the chemistry that loaded him to that state. Anton's identity file (`codex/characters/anton/identity.md`) gained a new "Graft-mercs in the cartel and underworld economy" section documenting the worldbuilding: berserker-grafted enforcers are valued for the reputation more than the soldiering — a known unreliable killer in the room makes the room compliant; useful as front-line shock asset where the brief is slaughter and destruction; useless for restraint or surgical violence (Kyra is the foil). The reputation feedback loop (each public slaughter is advertising; the next manufactory's defenders fold faster) is part of why the graft persists in the trade.
+`.canary-approved` present at repo root (committed in prior branch work). Chapter-01 rewrite on this branch is the successor; canary approval carries forward unless the user specifies otherwise.
 
-**Personal shields documented in four forms** (`magic/system.md`):
-- **Form A — subcutaneous baseline.** Every trained Mage carries a thin shield just beneath the skin, integrated into the body. Protects against direct-magic-on-organs attacks (heart-stop, lung-fill, embolism, stroke, vapourise-brain — the "boring insta-kills"); does NOT stop physical attacks (bullets, blades, blunt trauma) or environmental-magic attacks. Low passive drain on the practitioner's Soul. The reason mage-on-mage combat defaults to external force projection rather than organ-attack.
-- **Form B — the egg.** The subcutaneous expanded outward into a hardened egg/sphere at 1–2 ft radius. Absorbs both force and magic. **Severe mana cost** — most mages cannot sustain it through more than two or three heavy impacts. Last-resort emergency defence; empties the practitioner.
-- **Form C — gauntlet shield (Kyra-specific).** Kendall-built device on left gauntlet, Powerstone-fed, deliberate-deployment, directional pane in front, reshapeable. Stops bullets/shrapnel/blast fronts reliably; magic less reliably (must be angled to glance). Drains gorget Powerstone, not Soul.
-- **Form D — ad-hoc cast.** A mage without gauntlet gear hand-shapes a directional pane. The cartel mage's mechanism in scene-02.
+## A/B test outcome
 
-The four forms are not interchangeable; the prose must hold them separate.
-
-- **Active scene**: none — scene-01 polished, scene-02 fully rewritten with curing-room climax + cartel mage, scene-03 untouched this turn
-- **Last completed scene**: book-1 / chapter-01 / scene-02 — *The Shopfloor* (2,882 words; arch → antechamber → cooking-rig hall → curing room → passage; mage killed on-page; gauntlet shield engaged for the mage exchange; magesense use confirmed; baked workers established; one curer killed by smoothbore-discharge crossfire)
-- **Canary scene approved**: **yes** — `.canary-approved` present at repo root (committed in `530cc46`)
-- **A/B test outcome**: **abandoned**. The harness did not have access to `claude-3-5-sonnet-20241022`, and a session-mid re-point to `claude-3-7-sonnet-20250219` failed because the harness caches agent frontmatter at session start. The Sonnet 4.6 draft-1-A was accepted as draft-1 and run through the standard reviewer. The scene-writer default stays at Sonnet 4.6. Future sessions may retry the A/B on a later scene if model access is sorted.
-
-## Revision history
-
-| Pass | Verdict | Notes |
-| ---- | ------- | ----- |
-| draft-1 | `significant` | Continuity invention (Micah named as cartel ledger-keeper); voice drift toward spectral-Kyra; opening hook missed; em-dash overuse |
-| draft-2 | `minor` | Two inline edits applied during promotion; voice work landed but Anton's graft and the cooking-women plot beat were both absent — surfaced for user sample-read |
-| user canary feedback | — | Six canon clarifications (Anton's artificial muscle graft + active blood rage; cooking women near-naked & beaten if they pause; women heard the breach; glow-globes vs Powerstones; crystal-only ammunition with ambient-mana casing regeneration). Codex updated in commit `2bd69a6`. Card returned to in-progress for draft-3. |
-| draft-3 | `clean` | All six canon corrections landed; all 11 Keep items preserved; voice steady; Kyra's jaded non-intervention is the moral spine; closing under the arch with Anton's graft-shoulder caught in glow-globe light behind |
-
-## Canary read-out for the user
-
-- **Prose**: `books/book-1/chapter-01/scene-01.md` (2,063 words)
-- **Original brief**: `books/book-1/chapter-01/scene-01.brief.md`
-- **Drafts archive**: `books/book-1/chapter-01/scene-01.drafts/` (draft-1 + review-1, draft-2 + review-2, draft-3 + review-3)
+Abandoned on the prior branch. The scene-writer default is Sonnet 4.6 for all subsequent scenes. Not pending.
 
 ## Series shape
 
@@ -55,10 +43,9 @@ The four forms are not interchangeable; the prose must hold them separate.
 
 | Pending | In-progress | Review | Done |
 | ------- | ----------- | ------ | ---- |
-| 3 | 0 | 0 | 1 |
+| 0 | 0 | 0 | 5 |
 
-- **Done**: book-1-ch-01-scene-01 (canary, this commit cycle)
-- **Pending**: book-1-ch-01-scene-{02, 03, 04}
+- **Done**: book-1-ch-01-scene-01, scene-02, scene-03, scene-04, scene-05 (all 5 scenes of the rewritten chapter; pending human review before next chapter)
 
 ## Beats
 
@@ -67,50 +54,11 @@ The four forms are not interchangeable; the prose must hold them separate.
 | Hard | 0 | 76 |
 | Soft | 0 | 22 |
 
-Scene-01 advances H-kyra-merc-life (now with the moral-jadedness layer on-page) and the ambient layer of H-the-magic-shortages. Neither beat lands yet; H-kyra-merc-life lands at end-of-scene-03 (Raynard / Ford payment); H-the-magic-shortages lands across ch.1–3.
-
-## Codex changes this cycle
-
-- **Commit `2bd69a6`** (canon clarifications from user feedback):
-  - `anton/identity.md` — artificial muscle graft as specific mechanism; failure modes (burnout / cardiac); bloodlust as known side-effect
-  - `materialised-magic.md` — new "Skylander firearms" section: crystal shot only, mechanical firing, casing regeneration from ambient mana first / Powerstone second
-  - `skylands-undercity.md` — glow globes vs Powerstones distinction
-  - `stardust-cartels.md` — forced retention, near-naked labour policy, beatings for pausing
-- **This commit** (state-log updates after draft-3):
-  - `kyra-zorantis/history.md` scene-01 row revised — Kyra's deliberate non-intervention now recorded
-  - `anton/history.md` scene-01 row revised — Anton in active graft-flood, killed corridor + kneecapped guards + unknown number of cooking-floor women
-  - `skylands-undercity.md` state-log row revised — cooking-floor women casualties acknowledged
-  - `stardust-cartels.md` state-log row revised — labour pool body count noted
-
-## Recent commits
-
-```
-(pending: book-1 ch-01 scene-01: the breach (canary revision -- draft-3, clean))
-2bd69a6 codex: clarify Anton's graft, Skylander firearms, glow-globes, cartel labour policy
-c455f71 book-1 ch-01 scene-01: the breach (canary)
-d944ed1 kanban: book-1-ch-01-scene-01 -> in-progress
-e11f426 kanban: seed scene cards for book 1 chapter 1 (canary)
-c6e89ee books/book-1: chapter outline (11 chapters)
-```
-
-## Pending: model A/B test on scene-02
-
-Per user direction, scene-02 of book-1 chapter-01 is the one-shot prose-quality A/B test between Sonnet 4.6 (current default) and Sonnet 3.5 (`claude-3-5-sonnet-20241022`). When scene-02 dispatches:
-
-- Spawn both writers in parallel against the same brief: `scene-writer` (4.6) and `scene-writer-3-5` (3.5). Output paths `draft-1-A.md` and `draft-1-B.md`; the orchestrator records the A/B → model mapping in a side file the reviewer cannot see.
-- Reviewer reads both blind, scores both, picks a winner.
-- Winner becomes `draft-1.md` and continues through the standard pipeline. Loser is archived.
-- After scene-02 the winning model is locked in as the scene-writer for all subsequent scenes; the `.claude/agents/scene-writer.md` frontmatter (or which sibling agent is invoked) is updated accordingly and the decision noted in this STATUS file.
-- The A/B runs once, on scene-02 only, and is not repeated.
-
-The `scene-writer-3-5` agent is already in place; the protocol is documented in `CLAUDE.md` under Pipeline parameters.
+Chapter-01 advances H-kyra-merc-life (moral-jadedness layer on-page; closes at scene-03 window beat and scene-04 Ford payment) and the ambient layer of H-the-magic-shortages. Neither beat is formally landed until the reviewer confirms them in a review pass.
 
 ## Next action
 
-**User to read `books/book-1/chapter-01/scene-01.md` and either**:
-1. **Approve** — `touch .canary-approved` at the repo root; the orchestrator resumes drain on scene-02 with the A/B test.
-2. **Approve with forward-applying notes** — voice/style guidance to fold into the polish-targets / voice profile for scene-02 onward.
-3. **Reject** — revision budget for scene-01 is now exhausted (3/3 used). Further revision requires explicit instruction; the orchestrator does not auto-loop past the budget.
+Human review of the 5-scene rewritten chapter-01. If approved, proceed to chapter-02 scene planning.
 
 ---
 

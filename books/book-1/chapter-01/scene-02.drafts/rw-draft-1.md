@@ -1,6 +1,6 @@
 Anton's arm was coming down when I rolled through the doorway onto one knee and got the revolver up.
 
-The room was dominated by a long table running its length, three rigs on each side and a seventh at the far end, the feed-lines braided up from the floor in the same configuration as the outer room. Glow globes overhead at full, the cartel rationing light everywhere except where it touched the product. The chemical reek of a Stardust cook coated the back of my throat, that sharp-sweet concentration that meant cooking, not curing. The table was lined with women in headbands and nothing else. A dozen of them, maybe more; I did not count. Near-naked was the cartel's policy at the cooking floor: shift ends, workers get searched, less places to hide product. The door would stay locked until then.
+The room was dominated by a long table running its length, three rigs on each side and a seventh at the far end, all the chemical feeds braided up from the floor in the same configuration as the outer floor. Glow globes overhead at full, the cartel rationing light everywhere except where it touched the product. The chemical reek was thick enough to taste, that sharp-sweet concentration that meant we were in the cooking, not the curing. The table was lined with women in headbands and nothing else. A dozen of them, maybe more; I did not count. Near-naked was the cartel's policy at the cooking floor — shift ends, workers get searched, less places to hide product. The door would stay locked until then.
 
 The women were trying to get away from Anton.
 

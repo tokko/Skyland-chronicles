@@ -1,4 +1,6 @@
-The three musketeers stood at the base of the stairs, Anton's body between us in the corridor mouth, looking at me over the corpse and doing the arithmetic on their ramrods. The walkway above ran in shadow between the sparse globes along its rail. The fastest of them reached for his.
+The three muzzle-loaders were pointed at me and their hammers were still forward. They had all just fired at once into the corridor when the breach party hit the hall from below, and their ramrods were still in their barrels. I read that.
+
+The hall was large, a stair-and-gantry space, the kind a manufactory builds when it wants a single point to funnel foot traffic through. Crystal steps rose on the far left to a walkway along the upper wall, glow globes sparse along the rail, the rest of the space in shadow between them. The three men across the hall were at the base of the stairs, Anton's body between us in the corridor mouth. They were looking at me over the body and doing the arithmetic on their ramrods. The fastest of them reached for his.
 
 From up on the gantry, a body came down into the space between us.
 
@@ -26,7 +28,7 @@ There was a short corridor beyond the gantry: four doors, all closed, two on eac
 
 At the far end, a set of double doors. Crystal, like everything else, but the carvings on them were the expensive kind. The manufactory's cartel boss did not economise on his own office.
 
-Two more mercs came up the stair behind us before we reached the doors. Women, both of them. The one with the braids had red hair and a spear and a cut across her left cheek that was still seeping and had been for a while, the blood dried in a line down to her jaw and wet at the wound's edge. Her partner wore a vest covered in plates of crystal bonded to the padding in overlapping rows, crude armour, the kind you built from what was available rather than what was designed, but she had made it and the shoulder I could see had a bruise the size of my hand developing under the sleeve where the jacket had saved her from something that would otherwise have been through her. Two smoothbore pistols, one on each hip.
+Two more mercs came up the stair behind us before we reached the doors. Women, both of them. The one with the braids had red hair and a spear and a cut across her left cheek that was still seeping and had been for a while, the blood dried in a line down to her jaw and fresh at the wound's edge. Her partner wore a vest covered in plates of crystal bonded to the padding in rough scale rows, crude armour, the kind you built from what was available rather than what was designed, but she had made it and the shoulder I could see had a bruise the size of my hand developing under the sleeve where the jacket had saved her from something that would otherwise have been through her. Two smoothbore pistols, one on each hip.
 
 "There room?" the redhead said.
 
@@ -52,7 +54,7 @@ They ran in different directions, one left and one right, and the men behind the
 
 My companions fired into the chaos. I stepped through.
 
-A woman at the end of the line howled and fell as one of the gantry mercs' rounds went into her at the wrong angle. I did not stop moving. A panicking woman with tears all over her face and a knife raised came at me directly and I opened her belly with the longer sword to reach the man who had been standing behind her. He tried to swing his chopping sword and I shot him through the chest before the swing came all the way around. I moved deeper into the room.
+A woman with particularly full breasts howled and fell as one of the gantry mercs' rounds went into her at the wrong angle. I did not stop moving. A panicking woman with tears all over her face and a knife raised came at me directly and I opened her belly with the longer sword to reach the man who had been standing behind her. He tried to swing his chopping sword and I shot him through the chest before the swing came all the way around. I moved deeper into the room.
 
 Cut and thrust. The blade work was faster than the revolver from close quarters but the revolver was faster when a gap opened up. One round left — I had a read on it without looking. I held it.
 
@@ -80,7 +82,7 @@ The target was not here. I checked the room: the men we had killed were armed la
 
 I crossed to the window.
 
-The courtyard below was lit by two glow-globe lanterns on poles, throwing small circles of light on the crystal cobblestones. Detective Ford stood near the dry fountain at the centre, the kind of fountain where the mechanism had run out of mana years back and nobody had contracted to fix it. He had his coat buttoned. He was talking to someone I could not see, his back to the lanterns, his face tilted slightly down. The cluster of captives, women from the cooking floors, from the hall, from wherever the cartel had kept them, were off to Ford's right, guarded by two of his grey-coat men.
+The courtyard below was lit by two glow-globe lanterns on poles, throwing small circles of light on the crystal cobblestones. Detective Ford stood near the dry fountain at the centre, the kind of fountain where the mechanism had run out of mana years back and nobody had contracted to fix it. He had his coat buttoned. He was talking to someone I could not see, his back to the lanterns, his face tilted slightly down. The cluster of captives — women from the cooking floors, from the hall, from wherever the cartel had kept them — were off to Ford's right, guarded by two of his grey-coat men.
 
 I sheathed the sword. I picked the primary revolver off the floor where I had dropped it, confirmed the empty cylinder, and holstered it. I reached up and undid the clasp at the back of the helmet and lifted it off.
 
@@ -100,4 +102,6 @@ I leaned against the window frame and let the night air do its work.
 
 More men went toward the shadow at the base of the wall. I watched the courtyard long enough to know what it was and then I let my eyes go to the glow-globe lanterns and the dry fountain and the far wall instead.
 
-The Powerstone at my throat held what it held. I had the walk home and the Skyway ride and the spent-casing cradle and the recharge cost and the metered morning after ahead of me.
+The Powerstone at my throat held what it held. I had the walk home and the Skyway ride and the spent-casing cradle and the recharge cost and the metered morning after. The night was cooling.
+
+I leaned there and let it cool.

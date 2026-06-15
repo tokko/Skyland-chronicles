@@ -12,7 +12,7 @@ I took my hand off my magesense and looked at the dark wall across the track.
 
 The tram arrived. I boarded without looking at him.
 
-The Skyway went underground first, the way it always did. Tunnel walls close on either side, glow globes strobing past the windows in their regular count. Then the tunnel opened and the tram launched out from the Skylands' underside into open air, and there was nothing under the carriage any more but the long drop to the ocean.
+The Skyway went underground first, the way it always did. Tunnel walls close on either side, glow globes strobing past the windows in their regular count. Then the tunnel opened and the tram launched out from the Skylands' underside into open air, and the bottom dropped out of the world.
 
 The Barrier was off to the left: a sphere of brilliant blue that flamed around the city at every point, the edge of everything I had ever known. The light off it turned the tram's interior blue for a few seconds before the arc of the track curved us away. Below the city, where the sphere opened at its base, the Great Geyser spewed its column of mana from the ocean floor and the collector ribs on the Skylands' underside drank from it. The gap was the only place the Barrier was permeable. Everything else: sealed, and had been since before anyone breathing could say when.
 
@@ -26,7 +26,7 @@ Then it was past, and the tram followed the arc of the stream around the Skyland
 
 My stop was the fourth. I got off and walked home with my hand on the backup revolver inside my coat. The neighbourhood required it. Nothing tried me. Ten minutes, quiet, and I was at the door.
 
-One mechanical lock. I keyed it and went in and stood in the dark a moment before I found the home dispenser and switched it on. The household containment field hummed up around me, low ambient, warm, the frequency of home that nowhere else quite matched. I set the spent casings in the recharge cradle beside the dispenser. Full by morning. The cost of tonight would show on the meter by end of week.
+One mechanical lock. I keyed it and went in and stood in the dark a moment before I found the home dispenser and switched it on. The household containment field hummed up around me, low ambient, warm, the specific frequency of home that nowhere else quite matched. I set the spent casings in the recharge cradle beside the dispenser. Full by morning. The cost of tonight would show on the meter by end of week.
 
 I unstrapped the gauntlet and set it on the table, then the gunbelt. Primary revolver on the hook, backup beside it. The longer sword. The belt-pouch of loose casings. The shorter blade on the shelf above the bed. Under the coat I was down to the choker.
 
@@ -48,7 +48,7 @@ I reached down and traced myself with my fingertips and drew my hand back with a
 
 I submerged until the water closed over my face and held it there, held until I stopped counting and the pressure in my lungs became a colour behind my eyes, held a little longer than that, then pushed back up. I came up gasping. Pushed the wet hair off my face. Breathed.
 
-The bruise was already colouring at my throat where his hand had gripped. I could feel the edge of it without touching it, that specific warmth of a new bruise doing its work in the dark. The bills were on the table. The spent casings were in the cradle. The shorter blade was on the shelf.
+The bruise was already colouring at my throat where his hand had gripped. I could feel the edge of it without touching it, that specific warmth of a fresh bruise doing its work in the dark. The bills were on the table. The spent casings were in the cradle. The shorter blade was on the shelf.
 
 I soaked until the water went cold, which did not take long.
 

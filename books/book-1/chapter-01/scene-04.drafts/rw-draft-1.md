@@ -4,7 +4,7 @@ I did not have to turn around. Something in my body already knew from the sound 
 
 "Oh, what a prize I have found."
 
-Something low in me pulled tight at the sound of it before my judgement had a word to say. That was Raynard. That was what his voice had always done to me, and I had stopped being surprised by it some years ago and had not stopped hating it at all. I had been close enough to my own death tonight that some old piece of me was now interested in being alive in the oldest available way, and Raynard's voice was the closest available proof of life. I did not have to be proud of it.
+The jolt went down my spine and into my groin before my judgement had a word to say about it. That was Raynard. That was what his voice had always done to me and I had stopped being surprised by it some years ago and had not stopped hating it at all. I had been close enough to my own death tonight that some old piece of me was now interested in being alive in the oldest available way, and Raynard's voice was the closest available proof of life. That was the whole of the explanation. I did not have to be proud of it.
 
 I stayed at the window.
 
@@ -34,7 +34,7 @@ He went in hard, the way he always did. I made a sound against my will. His hand
 
 He was not gentle. Raynard was never gentle. What he was, was exact. He knew the angle that would undermine me and he used it, and the rhythm he set was the right rhythm to build what he wanted to build, and what he wanted to build was not my release but everything that led up to it so he could take it away. I had been through this enough times to know the shape of it. Knowing the shape of it had never once helped.
 
-He thrust harder and I shifted my weight and gripped the sill until the edge was cutting my palms, and the courtyard mercs cheered each time he pulled me back into him. My knees went once and he caught me by the hair and pulled me up and did not stop. The want of it was building in the way it always built with him, low and insistent, and there was not one thing I could do to stop it gathering, which was the problem with Raynard in a sentence.
+He thrust harder and I shifted my weight and gripped the sill until the edge was cutting my palms, and the courtyard mercs cheered each time he pulled me back into him. My knees went once and he caught me by the hair and pulled me up and did not stop. The want of it was building in the way it always built with him, low and specific and gathering, and I was angry about that too but being angry did not change what my body was doing, which was the problem with Raynard in a sentence.
 
 Then he threw me.
 
@@ -48,7 +48,7 @@ He growled. His open hand came across my face and my jaw snapped sideways and I 
 
 "Harder," I said. My voice was a croak. "Fucking pansy."
 
-He increased the pressure and the pace. The blood on my tongue was sharp and flat and familiar. The bright tunnel narrowed. His hands did not move from my throat and the thrusting went on and my legs went up around him because that was what they did and the want of it was back and it was higher now and faster and it was very nearly here, I could feel the edge of it cresting, it was on its way up through the bottom of me and I held onto it because this was going to be the part where I got what I had been building toward and then the hands left my throat and his weight came off me and he pulled out.
+He increased the pressure and the pace. The blood on my tongue tasted like copper filings would taste if copper were a material I had any frame of reference for. The bright tunnel narrowed. His hands did not move from my throat and the thrusting went on and my legs went up around him because that was what they did and the want of it was back and it was higher now and faster and it was very nearly here, I could feel the edge of it cresting, it was on its way up through the bottom of me and I held onto it because this was going to be the part where I got what I had been building toward and then the hands left my throat and his weight came off me and he pulled out.
 
 The orgasm broke open without completing. Every piece of it still assembled, nowhere to go. My hand was off the floor and going for the front of the thong before I had decided to move it, reaching for the last inch of what he had built and then refused to deliver, and his hand found my wrist and batted it to the side.
 
@@ -70,7 +70,7 @@ Raynard smiled. He was already adjusted and straightened and looking at me with 
 
 "Hardly," I said. "You were merely the closest available dick."
 
-He looked at me the way he always looked at me after, the look of a man who knew I was lying and did not bother to say so because we both knew it. He reached out and opened my coat. His eyes went over me the way they went over anything he considered his property.
+He looked at me the way he always looked at me after, which was the look of a man who knew I was lying and did not bother to say so because we both knew it. He reached out and opened my coat. His eyes moved over me the way his eyes always moved over anything he considered his property.
 
 "Ain't that just a work of art," he said. He reached into my coat pocket and pushed two bills into it, his knuckles brushing the front of me on the way in. My body responded. I hated it and it responded anyway. "You should wear it more often. It makes you look the part of the whore that you are."
 
@@ -82,7 +82,7 @@ He went to the door without looking at me again. The door opened and closed.
 
 I stood there.
 
-I was aware of the blood running from my lip, and of the dead woman near my feet whose dress I had grabbed on the way down, and of my own heartrate, and of all the things Raynard had built in me over the last however many minutes and then taken with him when he went out the door. The hold he had on me was not magic. It was not a spell. It was the quality of his voice and the way his hands knew where to go and the certainty that he was always going to do this to me, that he would always know exactly how to build it and exactly when to stop, and that the only thing between me and it happening again was the door that had just closed.
+I was aware of the blood running from my lip, and of the dead woman near my feet whose dress I had grabbed on the way down, and of my own heartrate, and of all the things Raynard had built in me over the last however many minutes and then taken with him when he went out the door. The hold he had on me was not magic. It was not a spell. It was something about the specific quality of his voice and the specific way his hands knew where to go and the specific knowledge that he was always going to do this to me, that he would always know exactly how to build it and exactly when to stop, and that the only thing between me and it happening again was the door that had just closed.
 
 The door being closed was the only thing that had ever helped.
 
@@ -92,7 +92,7 @@ The crack of it was satisfying for approximately one quarter of a second.
 
 My groin ached. My lip ached. My lip was going to swell. I had blood on the back of my coat from the dead woman's pool and something else on my belly from Raynard, and my knees were not entirely done embarrassing me yet.
 
-I dissolved the bra and thong back into the choker. They were not physically wrecked; materialised configurations do not wreck. I was done with them, and the mana ran back into the choker. There was a moment of bare skin under the coat and then I buttoned the coat from the bottom up to the collar and stood in the room and breathed through my nose.
+I dissolved the bra and thong back into the choker. They were not physically wrecked — materialised configurations do not wreck — but I was done with them and the Powerstone took the draw. There was a moment of bare skin under the coat and then I buttoned the coat from the bottom up to the collar and stood in the room and breathed through my nose.
 
 I could reach my sword. My hand could touch the grip. I thought about Raynard in the corridor.
 
@@ -100,7 +100,7 @@ My arm did not draw it.
 
 I crossed to the dead cooker-room woman I had slid into, the one whose belly I had opened, and went through her clothing until I found a piece that was clean enough. I wiped the worst of what Raynard had left on me. I dropped the cloth on the floor and it lay there, not indigo, not mine.
 
-The room was what it was. The cartel dead. The women who had been the shield. The blond merc by the door where he had dropped. Anton was down in the corridor mouth below the gantry hall, where the round had put him down.
+The room was what it was. The cartel dead. The women who had been the shield. The blond merc by the door where he had dropped. Anton was down at the foot of the gantry stair, where the round had put him down.
 
 In the courtyard below the window, the braided-redhead merc was riding one of the breachers from team three on a stack of crystal cargo-cases, both knees braced on the edge, both hands in his hair, and she was not being quiet about it. The cheer that went up when she finished was the honest cheer of people who had all nearly died tonight and were glad to be the ones who had not. She deserved that. She had fought her way here the same as any of us. Her friend was a few feet away, watching, both hands on her own chest, grinning. The courtyard was doing what courtyards did after raids and the only difference between her and me was that she had found someone who was not Raynard and I had not, and the cheer she got was the cheer she had earned and I was not going to look at her anymore.
 
@@ -124,7 +124,7 @@ I turned and walked.
 
 Behind me, Ford gave the order. I heard the grey-coats move into position behind the last two. One of the captives was a young woman, cleaner dressed than the cookers, and she had enough of herself left to start begging. *Please. Please, I am twenty-one. I have a daughter at home.*
 
-The grey-coats did not answer her. The raid was unsanctioned; anyone left standing could trade Ford to a Guard that ran on cartel money, so no one would be left standing. Ford called the arrangement the greater good. It was not my contract to have an opinion about.
+The grey-coats did not answer her. The raid was unsanctioned. No survivors meant no one to sell Ford to the Guard, and the Guard was as rotten as the cartels it was supposed to police. Ford had looked at that calculus years ago and decided the greater good was worth the law he was breaking, and everyone in the column went into the same accounting whether they deserved to be there or not.
 
 The shot came. The begging stopped mid-syllable.
 

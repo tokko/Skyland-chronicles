@@ -16,8 +16,8 @@ Each entry: `[type] slug — short tag — status — file path`.
 
 ## Last updated
 
-- Last scene committed: _(none yet — no scenes drafted)_
-- Last codex sweep: 2026-05-19 — 10-book restructure applied (Arc II grew from 3 to 4 books; old Book 6 split into new Book 6 *The Sacrifice* and new Book 7 *Genocide*; old Books 7/8/9 renumbered to 8/9/10; H-mother-shade-farewell mechanic locked as Kyra's deliberate moral-vote sacrifice into the Epitome; Raynard execution pinned as Book 1 close)
+- Last scene committed: book-1 ch.1 scenes 01-05 (branch: rewrite/book-1-ch-01; chapter fully rewritten to 5-scene structure tracking the source manuscript; pending human review)
+- Last codex sweep: 2026-06-15 — codex reconciled to rewritten book-1 ch.1 (5-scene structure: alley breach, cooking floor, gantry+target room, Raynard, ride home); prior stale rows (4-room manufactory, curing-room climax, cartel mage, four Ford teams, shield-breaker device, back-stairs flanker, antechamber) removed from state logs; Ford added as new character; manufacture worldbuilding (two-stage cooking+curing) preserved
 
 ---
 
@@ -30,6 +30,7 @@ Each entry: `[type] slug — short tag — status — file path`.
 [character] grasax — ancient liche; held Dun Traelak for centuries; the trilogy's first known liche — dead (book-1 ch.31-38) — codex/characters/grasax/identity.md
 [character] greg — Marissa's biological father; Skylander mercenary; Kyra's best professional friend — dead (book-1 ch.4, in the Dragonkin invasion) — codex/characters/greg/identity.md
 [character] anton — Skylander mercenary; berserker; Kyra's one-mission partner — dead (book-1 ch.1) — codex/characters/anton/identity.md
+[character] ford — Detective; runs unsanctioned anti-Stardust raids funded by embezzled/confiscated money; hires mercs per-job; executes captives for deniability — alive (book-1 ch.1) — codex/characters/ford/identity.md
 [character] raynard — Skylander mercenary; Kyra's domineering sexual partner; defected to Clan Kriath — dead (book-1 ch.17, executed by Kyra) — codex/characters/raynard/identity.md
 [character] malkareth — Marissa's dragon-brother; soul-bonded to Kyra and Anjali; Red Flight dragon — dead (book-1 ch.51, at the Great Geyser) — codex/characters/malkareth/identity.md
 [character] alissa — Skylander mage on Pioneer expedition (book 1); Bizhjerai shadow operative (book 2); Marissa's surrogate aunt; alias "Alana Kelvari" — dead (book-2 ch.20; killed by Marissa on Micah's order) — codex/characters/alissa/identity.md
