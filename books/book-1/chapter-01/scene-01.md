@@ -2,19 +2,19 @@ Two fingers in the dark.
 
 Anton read them from across the passage, his back flat against the indigo and his crowbar across both forearms, weight already shifted forward. Even standing still he was throwing heat. I could see it in the cold tunnel air — the faint distortion above his shoulders, the skin along his neck already the deep red-pink of a Powerstone running hard. The seam-scars ran from his trapezius down into the collar of his sleeveless vest: the surgical lines where another man's muscle had been threaded into his, cadaver strips at the legal end of the market, live-donor for the cheaper outfits. His chest was already moving faster than it should for a man who had done nothing yet. The graft was lit and the rage was rising into him.
 
-He hadn't moved. He was already wanting to.
+He hadn't moved. He was already wanting to. He was twice as wide as I was, and I am not a narrow woman. We had met a few hours ago, and the arrangement was simple: I went in first, behind the armour, and he watched my back.
 
 I had been crouched in this passage for forty seconds, counting. The two guards at the far end of the alley were ten steps away from the door and about twenty from me. My knees ached. Ford had told me the explosion would come within the half-hour. Ford was several levels up in a building where the wait cost him nothing. I kept my weight on the balls of my feet and put Ford out of my head.
 
 Both guards were leaning against the indigo wall, the way men lean when a shift has gone on too long. One had a smoothbore propped between his boots; the other had his thumbs in his belt. Neither was looking down the passage. Down the passage was where I was. I noted this and kept still.
 
-He was twice as wide as I was and I am not a narrow woman. If I needed to revise my plan because of Anton I had time to do it. I was still thinking through the revision when the signal came.
+Then the signal came.
 
 A concussion from somewhere deep in the Undercity, the blast-wave running up through the crystal substrate and arriving in my teeth before it reached my ears. The two guards both turned toward the sound. Their backs came to me in the same moment, two shapes against the indigo grain. The smoothbore guard reached for his weapon; the belt-thumbs guard had his head up, mouth open, listening for a second boom.
 
 Anton and I swung round our respective corners.
 
-I brought the revolver up and found the right guard's head through the sights and squeezed. The casing cycled; the crystal shot passed through where his face had been; red sprayed wide across the indigo and he went down boneless, the smoothbore clattering against the crystal floor beside him. The left guard registered the shot and began to turn. Anton's muzzle-loader went off before the man had finished the rotation, a heavy-calibre round into the chest, lung from the sound of it, wet and wrong. The guard slid down the wall leaving a dark smear, wheezed once, the kind of sound a body makes when the air is going the wrong direction. Anton crossed the distance in four steps and the crowbar took the man's head at the temple with more force than the job asked for.
+I brought the revolver up and found the right guard's head through the sights and squeezed. The casing cycled; the crystal shot punched through his face and carried most of it out the back, and the contents of his skull went across the indigo in a wide fan as he dropped boneless, the smoothbore clattering against the crystal floor beside him. The left guard registered the shot and began to turn. Anton's muzzle-loader went off before the man had finished the rotation, a heavy-calibre round into the chest, lung from the sound of it. He slid down the wall leaving a dark red smear, his mouth working around a blood-speckled breath that bubbled once and failed. Anton crossed the distance in four steps and put the crowbar through the side of his head with more force than the job asked for. The temple caved. The bubbling stopped.
 
 The next one would too. I kept moving.
 
@@ -26,9 +26,9 @@ I went in.
 
 My left hand had the backup revolver already clear. My right had my sword, Kendall's enchanted blade. The room was a square, maybe twenty feet across, two glow globes in the walls on opposite sides and one overhead, all of them dimmed. Four men stood blinking. The flash had found them looking at the door and they were all trying to remember what hands were for.
 
-The nearest one was within reach. I drove the point of the sword through his throat and pulled it clear; he sat down and put his hands to his neck and stopped being a problem.
+The nearest one was within reach. I drove the point of the sword through his throat and pulled it clear. The opened neck pumped hard enough to tell me I had caught the jugular. He sat down with both hands full of his own blood and stopped being a problem.
 
-Anton rolled into the room behind me, coming up fast for a man his size. He had the muzzle-loader in one hand and the crowbar in the other and the graft was fully up now, the rage bright in his eyes and his jaw set with it. He pressed the muzzle-loader against the temple of the closest blinded man and fired point-blank; the top of the man's skull took the round and his legs kicked once and went still. The third man was reaching for something at his belt, not yet able to see clearly, and Anton hit him across the side of the head with the crowbar before the arm finished moving. The man's eyes came out slightly as he crumpled to the deep blue floor.
+Anton rolled into the room behind me, coming up fast for a man his size. He had the muzzle-loader in one hand and the crowbar in the other and the graft was fully up now, the rage bright in his eyes and his jaw set with it. He pressed the muzzle-loader against the temple of the closest blinded man and fired point-blank; the top of the man's skull opened against the wall behind him and his legs kicked once and went still. The third man was reaching for something at his belt, not yet able to see clearly, and Anton hit him across the side of the head with the crowbar before the arm finished moving. The skull caved inward and both his eyes bulged out of true as he crumpled to the deep blue floor.
 
 The fourth man had backed against the far wall and was blinking hard, working his eyes, still trying to find his sight. I flicked my wrist and sent the sword at him on a flat trajectory, point-first. It went into his temple up to the crossguard. He sat down. My sword sat down with him, the handle tilting up at an angle, stuck in the bone.
 
@@ -36,15 +36,15 @@ A shot rang out from my left. My gauntlet was up before I had finished registeri
 
 Fifth man, in the corner I had not fully swept. He had a muzzle-loader and he had already fired it. Single shot. He was standing there with an empty weapon and my gauntlet between him and me. He had two choices and neither of them was good. I raised my right hand and put two rounds from the backup revolver into his chest, centre mass, and watched him go down in the slow deliberate way bodies go down when the lungs have been punctured. He slid the wall to the floor and stayed there.
 
-I dismissed the gauntlet and noted the drain on the Powerstone. One shield deflect at medium range was real cost, on top of the breach-glyph and the gem-trigger. I was not on three-quarters anymore.
+I dismissed the gauntlet. I walked to my sword and put my armoured boot against the dead man's head and pulled. Bone held. I kicked once, hard, and the skull fractured with a wet crush and gave the blade up with grey matter on the edge. I wiped the flat against the inside of my coat and holstered the backup revolver.
 
-I walked to my sword and put my boot on the dead man's head and pulled. The blade came free on the second try with a sound I had learned not to think about. I wiped the flat against the inside of my coat and holstered the backup revolver.
+The Powerstone had taken a real bite, one shield deflect at medium range on top of the breach-glyph and the gem-trigger. I was not on three-quarters anymore.
 
 Anton howled.
 
 It was not a word and it was not a warning; it was the sound of the graft-flood finding its ceiling and the man inside going with it. He charged through a doorway on the north wall, the crowbar swinging, and disappeared.
 
-I had told him on the way in: I was on point, he was on my back. I had armour and he did not. The plan had been about thirty seconds old when it became academic. These graft-mercs were as reliable as half a contract, and the half was always the one you needed. I stood in the doorway and watched him go and revised my plan from scratch in the time it took me to breathe. He was deep in the graft-rage and he was going to keep moving until the chemistry burned off or something stopped him from the outside. Nothing in there was going to stop him. That made him a distraction of first quality, which was not what Ford had hired him for, but it was what I had.
+So much for me on point and him on my back. The arrangement had lasted exactly as long as the graft took to crest, which was about as long as I had expected. These graft-mercs were as reliable as half a contract, and the half was always the one you needed. I stood in the doorway and watched him go and revised my plan from scratch in the time it took me to breathe. He was deep in the graft-rage and he was going to keep moving until the chemistry burned off or something stopped him from the outside. Nothing in there was going to stop him. That made him a distraction of first quality, which was not what Ford had hired him for, but it was what I had.
 
 I could pick my shots. I was better with the revolvers than anything he was going to encounter.
 

@@ -1,12 +1,12 @@
 Anton's arm was coming down when I rolled through the doorway onto one knee and got the revolver up.
 
-The room was dominated by a long table running its length, three rigs on each side and a seventh at the far end, the feed-lines braided up from the floor in the same configuration as the outer room. Glow globes overhead at full, the cartel rationing light everywhere except where it touched the product. The chemical reek of a Stardust cook coated the back of my throat, that sharp-sweet concentration that meant cooking, not curing. The table was lined with women in headbands and nothing else. A dozen of them, maybe more; I did not count. Near-naked was the cartel's policy at the cooking floor: shift ends, workers get searched, less places to hide product. The door would stay locked until then.
+The room was dominated by a long table running its length, three rigs on each side and a seventh at the far end, the feed-lines braided up from the floor in the same configuration as the outer room. Glow globes overhead at full, the cartel rationing light everywhere except where it touched the product. The chemical reek of a Stardust cook coated the back of my throat, that sharp-sweet concentration that meant cooking, not curing. The table was lined with women in headbands and nothing else. A dozen of them, maybe more; I did not count. Near-naked was the cartel's policy at the cooking floor: shift ends, workers get searched, less places to hide product.
 
 The women were trying to get away from Anton.
 
 One of them was not fast enough.
 
-He had her by the throat with one arm, had hauled her off the floor, and she was clawing at his forearm with both hands. Her nails opened lines in the graft-scarred muscle and he laughed. The laugh was the graft-flood laugh, the one that had nothing behind it, the chemistry running so hot it amplified every ugly thing in him and left no room for the rest. He swung her up and over and brought her headfirst into the smooth crystal of the wall. The sound was a flat crack and then nothing. The top of her skull did what skulls do. He dropped her and turned toward the huddle of women pressed against the far wall.
+He had her by the throat with one arm, had hauled her off the floor, and she was clawing at his forearm with both hands. Her nails opened lines in the graft-scarred muscle and he laughed. The laugh was the graft-flood laugh, the one that had nothing behind it, the chemistry running so hot it amplified every ugly thing in him and left no room for the rest. He swung her up and over and brought her headfirst into the smooth crystal of the wall. The sound was a flat crack and then nothing. The top of her head flattened against the crystal, and blood and brains burst across the wall in a fan. He dropped her and turned toward the huddle of women pressed against the far wall.
 
 I did not have a clean line and I could not reach him in the graft-flood anyway. I came off my knee and moved through the room, the women scattering out of my path without my needing to ask, and I went to the interior door on the opposite wall.
 
@@ -20,23 +20,23 @@ The armour held. My wrist did not snap, but the impact knocked me sideways and m
 
 I dropped my shoulder and went under the arc of the swing and got the longer sword out from my right hip with my good hand. Not a thrust — too close for the longer blade. I brought the guard up and hit him with the hilt across the cheekbone, the crystal-framed guard edge catching the bone cleanly. He staggered sideways. My left arm was starting to come back. I switched the sword to the left hand and let him recover his footing. He spat something and shifted his grip on the club and came at me low this time, smarter, trying to come in under any guard I raised.
 
-I let the club's arc go past my hip and put the point of the blade into the back of his jaw from the side. It went through his mouth and out the other side of his skull and he stopped. I held him up for a second on the blade and then let him down.
+I let the club's arc go past my hip and put the point of the blade into the back of his jaw from the side. It went through his mouth and out the back of his skull. He gurgled around the steel and dropped the club. I held him up for a second on the blade, then pulled it free and let him sit down hard to die.
 
 Beyond him, Anton had gone through the doorway and had three men spread across a wider hall. He was swinging the crowbar in the graft-flood style, big, imprecise, the kind of strikes that do not care about technique because they do not need to. The men were trying to work around his reach and none of them had managed it. One of them found an opening and drove something into Anton's thigh. Anton did not slow. He caught the man with a backswing of the crowbar that dropped him folded onto the floor.
 
 I pulled the blade free and stepped over my man and into the hall.
 
-The second of Anton's three caught a forearm to the face and went down with his neck at a bad angle. The third tried to run and Anton had him by the collar before he got two steps, pulled him in close, and wedged his thumb into the socket of the man's eye. The sound it made was specific. He brought the crowbar around to the man's temple and the man went down and stopped moving.
+The second of Anton's three caught a forearm to the face and went down with his neck at a bad angle. The third tried to run and Anton had him by the collar before he got two steps, pulled him in close, and wedged his thumb into the socket of the man's eye until it burst with an audible pop. Fluid ran over his thumb. The sound was specific. He brought the crowbar around to the man's temple and the man went down and stopped moving.
 
 Anton limped away from the three bodies toward the far corridor. He was leaving a wet track on the floor from the leg wound. I followed.
 
-The corridor beyond was shorter and lower-ceilinged. More gunshots came from ahead and to the left, flat, close, the report of muzzle-loaders bouncing in a tight space. Anton howled and charged. I was five paces back and closing when the back of his head opened up.
+The corridor beyond was shorter and lower-ceilinged. More gunshots came from ahead and to the left, flat, close, the report of muzzle-loaders bouncing in a tight space. Anton howled and charged. I was five paces back and closing when the back of his head erupted.
 
-The round came out through his face and the spray hit me across my visor and the exposed parts of my cheeks and jaw below the helmet's lower edge. It was warm and it smelled of blood and something under that, the chemical-faint off his graft-heated skin. Anton went down hard on his face and did not try to catch himself.
+Blood and brains came back across my visor and the exposed parts of my cheeks and jaw below the helmet's lower edge. It was warm and it smelled of blood and something under that, the chemical-faint off his graft-heated skin. Anton went down hard on his face and did not try to catch himself.
 
 I stopped moving.
 
-Past the body, the corridor opened into a large hall. The source of the light inside it was a series of glow globes mounted along two stair rails that climbed to second-floor gantries above. The space had been a fine housing at some earlier point; the staircase split midway up into two arms that curved apart to reach the gantries on either side. The crystal of the walls up here was a darker indigo than the lower floors, older growth, the grain finer. It had the feel of rooms that had held real money before the Undercity's slow compression had turned the good addresses into the bad ones.
+Past the body, the corridor opened into a large hall. The source of the light inside it was a series of glow globes mounted along two stair rails that climbed to second-floor gantries above. The staircase split midway up into two arms that curved apart to reach the gantries on either side. The crystal of the walls up here was a darker indigo than the lower floors, older growth, the grain finer.
 
 Three men stood across the hall with their muzzle-loaders raised and still smoking. They had found me over Anton's body and they were holding the aim, which was the right instinct, but they were also three men with single-shot muzzle-loaders they had all just fired and whose ramrods were not yet in their hands. The first load cycle took the fastest of them fifteen seconds on a good day. This was not a good day for any of us.
 

@@ -1,6 +1,6 @@
-The three musketeers stood at the base of the stairs, Anton's body between us in the corridor mouth, looking at me over the corpse and doing the arithmetic on their ramrods. The walkway above ran in shadow between the sparse globes along its rail. The fastest of them reached for his.
+The fastest of the three reached for his ramrod, Anton's body on the floor between us. The walkway above ran in shadow between the sparse globes along its rail.
 
-From up on the gantry, a body came down into the space between us.
+From up on the gantry, a body came down into the hall.
 
 It hit the crystal floor and went still. I heard, before I saw, the volley that followed, three close-spaced reports from the walkway above, smoothbores, the mana-discharge sound less sharp than a rifle and spreading wider. A second breach party, come up another way, firing down into the hall. At this range a smoothbore was as likely to put a crystal slug through me as through the men they were shooting at. I dropped to one knee and raised my left arm.
 
@@ -52,9 +52,9 @@ They ran in different directions, one left and one right, and the men behind the
 
 My companions fired into the chaos. I stepped through.
 
-A woman at the end of the line howled and fell as one of the gantry mercs' rounds went into her at the wrong angle. I did not stop moving. A panicking woman with tears all over her face and a knife raised came at me directly and I opened her belly with the longer sword to reach the man who had been standing behind her. He tried to swing his chopping sword and I shot him through the chest before the swing came all the way around. I moved deeper into the room.
+A woman at the end of the line howled and fell as one of the gantry mercs' rounds tore a breast apart at the wrong angle; the blood ran down her ribs before she hit the crystal. I did not stop moving. A panicking woman with tears all over her face and a knife raised came at me directly and I opened her belly with the longer sword to reach the man who had been standing behind her. He tried to swing his chopping sword and I shot him through the chest before the swing came all the way around. I moved deeper into the room.
 
-Cut and thrust. The blade work was faster than the revolver from close quarters but the revolver was faster when a gap opened up. One round left — I had a read on it without looking. I held it.
+Cut and thrust. The sword went in and came out wet. The blade work was faster than the revolver from close quarters, and the crystal floor was getting slick enough that footing was part of the arithmetic now. One round left — I had a read on it without looking. I held it.
 
 I was swinging at a swordsman's ankles when a cudgel caught the side of my helmet and the world rang. My knees went and I came down on the crystal floor hard, and I was on my back before I sorted out which direction the ceiling was. The man above me had a bar of crystal raised; I could see the underside of it. Then a bayonet came through his chest from behind and he folded forward and went down beside me instead.
 
@@ -64,7 +64,7 @@ A hole opened in his forehead, in a spray, and his fingers went slack.
 
 He dropped.
 
-I got moving. I blocked a sabre thrust and cut the swordsman across the ankle and he went to one knee and I shot him through the groin with the last round and he went down the rest of the way. Empty now. I pushed to my feet and someone had his arms around my chest from behind before I was all the way up, and I could not get either weapon into the angle. I got my gauntlet hand into his face instead and poured power into the contact through the interface. The flesh went under my palm. The Powerstone read dropped further than I liked. He let go to get at the wound and I ran the longer sword through his chest when I stepped back from him.
+I got moving. I blocked a sabre thrust and cut the swordsman across the ankle and he went to one knee and I shot him through the groin with the last round and he went down the rest of the way. Empty now. I pushed to my feet and someone had his arms around my chest from behind before I was all the way up, and I could not get either weapon into the angle. I got my gauntlet hand into his face instead and poured power into the contact through the interface. The flesh sizzled and cooked under my palm, and the burn came away wet and oozing when he tore himself back. The Powerstone read dropped further than I liked. He let go to clutch at the wound and I ran the longer sword through his chest when I stepped back from him.
 
 Quiet.
 
@@ -74,7 +74,7 @@ Not completely. The redhead with the spear was on her feet, tracking. Her partne
 
 The redhead stepped up and put the pistol barrel an inch from his forehead. The shot was very loud in a room that had gone mostly quiet. He slid sideways and lay still on the crystal floor.
 
-Then there was only the breathing, and the dripping, and the remaining mercs moving methodically to the wounded on the floor and doing what you do to wounded who belong to the other side of a contract.
+Then there was only the breathing, and the dripping, and the remaining mercs moving methodically along the wounded on the floor. Blades into throats, bayonets under ribs. The ones who belonged to the other side of the contract stopped making noise.
 
 The target was not here. I checked the room: the men we had killed were armed labour and a handful of melee fighters, no one with the look of the man whose name Ford had given me. Fled before we breached, or dead before the breach party reached this building, or among the bodies in a way that was not going to be clear until someone turned them over in daylight. Not my work anymore tonight.
 
@@ -100,4 +100,4 @@ I leaned against the window frame and let the night air do its work.
 
 More men went toward the shadow at the base of the wall. I watched the courtyard long enough to know what it was and then I let my eyes go to the glow-globe lanterns and the dry fountain and the far wall instead.
 
-The Powerstone at my throat held what it held. I had the walk home and the Skyway ride and the spent-casing cradle and the recharge cost and the metered morning after ahead of me.
+The Powerstone at my throat held what it held. I stayed where I was, in the cold coming off the courtyard, and let the night go on without me for a while.
